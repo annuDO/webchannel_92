@@ -98,9 +98,11 @@
     </Reference>
     <Reference Include="Sitecore.Kernel, Version=12.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\packages\Sitecore.Kernel.12.0.0\lib\net471\Sitecore.Kernel.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Logging, Version=12.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\packages\Sitecore.Logging.12.0.0\lib\net471\Sitecore.Logging.dll</HintPath>
+      <Private>False</Private>
     </Reference>
     <Reference Include="Sitecore.Logging.Client, Version=12.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\packages\Sitecore.Logging.Client.12.0.0\lib\net471\Sitecore.Logging.Client.dll</HintPath>
