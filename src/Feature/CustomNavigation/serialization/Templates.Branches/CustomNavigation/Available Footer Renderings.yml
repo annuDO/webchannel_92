@@ -1,0 +1,18 @@
+﻿---
+ID: "7c0aefe0-36db-445b-84d3-c04bd3a80189"
+Parent: "f0c88fa1-4119-44c1-b758-6144d965f471"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/CustomNavigation/Available Footer Renderings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171113T104335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

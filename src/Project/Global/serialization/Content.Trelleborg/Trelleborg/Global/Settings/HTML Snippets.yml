@@ -1,0 +1,18 @@
+﻿---
+ID: "22c0821f-5843-48c6-b9e3-21bb6994a77b"
+Parent: "e073f529-fefe-426d-8e79-411c269324ee"
+Template: "35abcb7f-dd86-483d-abe1-41c93c3aa7d9"
+Path: /sitecore/content/Trelleborg/Global/Settings/HTML Snippets
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T112604Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

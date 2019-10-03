@@ -1,0 +1,25 @@
+﻿---
+ID: "17371c33-f2dd-4c0d-95ee-e986e6e59ac2"
+Parent: "8288c54c-4026-4d1f-8a4f-4f8056a65250"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/MultiPromo/Default/PromoText
+DB: master
+BranchID: "a7ae4283-f876-4408-9b00-ffd7f3018130"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{6E84D69B-7F26-4B19-906D-469C3354EBB0}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2800D085-DF96-4B18-9961-A6518C425EAF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T074720Z

@@ -1,0 +1,14 @@
+﻿<configuration xmlns:patch="http://www.sitecore.net/xmlconfig/">
+  <sitecore>
+    <contentSearch>
+      <indexConfigurations>
+        <defaultSolrIndexConfiguration>
+          <fields hint="raw:AddComputedIndexField">
+            <!-- indexes subcontent contents into parent's _content field in the index (for better site search) -->
+            <field fieldName="_content" type="DLBi.Sitecore.ContentSearch.ComputedFields.SubcontentField, DLBi.Sitecore" />
+          </fields>
+        </defaultSolrIndexConfiguration>
+      </indexConfigurations>
+    </contentSearch>
+  </sitecore>
+</configuration>

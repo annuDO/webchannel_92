@@ -1,0 +1,26 @@
+﻿---
+ID: "0c3b8bf3-90f6-4133-b164-c5d1423df09f"
+Parent: "ff31bf05-3c51-4af9-a763-bb03bffd65c3"
+Template: "98b41352-5a4b-4067-b924-18a4b50f0a53"
+Path: /sitecore/content/Trelleborg/Wheels/Presentation/Rendering Variants/Footer/Default/Footer Info List/links/Social link/tooltip/span/children links
+DB: master
+BranchID: "0be8c0c4-59d3-4651-ac2e-092cf4ae94da"
+SharedFields:
+- ID: "a48604e6-b95e-41c4-b71d-af74365ec289"
+  Hint: Query
+  Value: "query:./*"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{CFEF05E4-BC5E-4FA9-A7F1-EEBE7C9D7B7E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T051426Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

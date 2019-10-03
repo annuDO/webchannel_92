@@ -1,0 +1,18 @@
+﻿---
+ID: "c50de796-4008-413f-b690-2d26a1761785"
+Parent: "a7f919b9-6be0-4d61-86d3-db8a06b3f99d"
+Template: "9c2d0fdf-4daf-4494-bde7-f857f1924825"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Data/Navigation Filters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T124244Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

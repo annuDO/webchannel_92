@@ -1,0 +1,14 @@
+﻿---
+ID: "640ce8b6-4a8d-4352-89fc-794d13fa4be2"
+Parent: "d96642f9-ba00-4ad3-92f0-1cfb67e42d21"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/base/reset
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170615T131104Z

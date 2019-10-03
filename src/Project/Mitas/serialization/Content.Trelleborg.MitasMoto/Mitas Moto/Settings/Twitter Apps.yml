@@ -1,0 +1,18 @@
+﻿---
+ID: "1c4cb18b-4cf2-4124-b3c2-51b6d6a5d45b"
+Parent: "0eee75fe-eea0-4541-a232-3f4dbb1c9ca8"
+Template: "456067df-fc7d-4639-9177-41f69e81c927"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Settings/Twitter Apps
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T124318Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

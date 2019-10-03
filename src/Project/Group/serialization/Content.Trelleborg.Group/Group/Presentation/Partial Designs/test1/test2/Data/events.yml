@@ -1,0 +1,14 @@
+﻿---
+ID: "5ff3ab72-b818-4262-afb3-4692df61f335"
+Parent: "3df6d8b4-f8cf-42d3-a16c-fdb71fb7d034"
+Template: "311e5f53-cf27-4a85-b887-b84bee5d3ba3"
+Path: /sitecore/content/Trelleborg/Group/Presentation/Partial Designs/test1/test2/Data/events
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190917T065008Z

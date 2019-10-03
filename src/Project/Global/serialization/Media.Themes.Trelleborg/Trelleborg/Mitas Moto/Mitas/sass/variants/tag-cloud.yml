@@ -1,0 +1,14 @@
+﻿---
+ID: "9ba226ba-f27b-448c-9ee1-55f3834226c8"
+Parent: "dd0c57f7-4811-43b3-80f7-1987538c3240"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Trelleborg/Mitas Moto/Mitas/sass/variants/tag-cloud"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063836Z

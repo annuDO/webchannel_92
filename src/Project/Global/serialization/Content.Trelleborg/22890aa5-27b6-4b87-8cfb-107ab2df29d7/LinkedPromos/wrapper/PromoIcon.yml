@@ -1,0 +1,22 @@
+﻿---
+ID: "3149db13-9875-48bb-b3ea-ce7617c02f09"
+Parent: "236bd36f-6088-45e7-a4e2-1d341333203a"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/MultiPromo/Default/promos/LinkedPromos/wrapper/PromoIcon
+DB: master
+BranchID: "a7ae4283-f876-4408-9b00-ffd7f3018130"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoIcon
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8E3589E6-5886-441C-97AE-A86C48DE8CDD}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T074720Z

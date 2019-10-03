@@ -1,0 +1,34 @@
+﻿---
+ID: "bede395e-a14b-4710-8527-0b95fd3ef85f"
+Parent: "bfed00c8-b550-40de-8beb-a7f57efc5a8b"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Home/creative exchange/Data/responsivePromo
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: |
+        <h3 class="general-article-header" style="color: #393939; background-color: #ffffff; margin: 0px 0px 0.53em;">Take a Tour of our Manufacturing Facility in Tewkesbury, England&nbsp;&nbsp;</h3>
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{C310F90C-6E4C-492F-9A26-AEE14F5627BD}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190917T121547Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "82a6ce45-59b5-4bc8-83b9-79ccb8174a2a"
+      Hint: PromoIcon2
+      Value: |
+        <image mediaid="{C782FE97-B0E3-481F-81C4-7E04AD2540F6}" />
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link text="Watch the film now to learn how our manufacturing site in Tewkesbury can serve you!" linktype="external" url="https://youtu.be/7Zf7rqil_Zc" anchor="" target="" />

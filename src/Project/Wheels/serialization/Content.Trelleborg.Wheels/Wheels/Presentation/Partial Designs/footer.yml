@@ -1,0 +1,38 @@
+﻿---
+ID: "dbed89e0-05d7-4f83-ac5c-9b84d3cb6ca2"
+Parent: "9269846f-2774-483a-ba56-58cc1cc4bf93"
+Template: "51b515f0-90d2-4c49-b9b4-1df84182ae4e"
+Path: /sitecore/content/Trelleborg/Wheels/Presentation/Partial Designs/footer
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: footer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{2B687C8A-6E68-420C-A5D5-60EE24AD9B6D}"
+              s:ds="{737ABBCA-9188-49BE-943D-AC3130DB003A}"
+              s:id="{A3125529-1FEC-476C-84AB-5F7EB0D0A339}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B0DE92949-E418-4AFC-9EDF-E07EB7F2A533%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="footer" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T060400Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

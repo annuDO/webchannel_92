@@ -1,0 +1,14 @@
+﻿---
+ID: "9654082f-c9f6-48a4-beed-3b9ea23193d4"
+Parent: "f574974f-3b53-4c66-a9ea-7a5bc23328ef"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Trelleborg/MultiPromo/Rendering Parameters
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T133557Z

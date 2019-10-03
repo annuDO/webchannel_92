@@ -1,0 +1,18 @@
+﻿---
+ID: "2e1c6f66-dc5e-44da-b177-2b6c6ecf86f5"
+Parent: "90f7e612-2610-4418-9356-f916c484b00b"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/MultiPromo/Default MultiPromo Variant/$name/Default/promos/LinkedPromos/wrapper/Promo Text/Promo Body/PromoText
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: PromoText
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T074539Z

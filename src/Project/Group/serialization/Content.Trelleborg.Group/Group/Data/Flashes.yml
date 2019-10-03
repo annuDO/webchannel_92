@@ -1,0 +1,18 @@
+﻿---
+ID: "868996f0-b407-4e48-b444-0a505b112ae4"
+Parent: "9d996c70-c7af-4a62-b6fb-85a35ad4bf37"
+Template: "df608f99-aaa5-428d-a4ef-ca92e5f291d3"
+Path: /sitecore/content/Trelleborg/Group/Data/Flashes
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190830T081818Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

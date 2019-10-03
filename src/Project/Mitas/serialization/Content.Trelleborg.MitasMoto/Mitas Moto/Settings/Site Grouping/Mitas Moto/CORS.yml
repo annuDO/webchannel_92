@@ -1,0 +1,19 @@
+﻿---
+ID: "829d318e-64ae-4681-b6c9-7d4fd14e56e4"
+Parent: "01a822dd-88a4-42c1-a99c-ddd6d16d04a6"
+Template: "3d55c326-3353-48cd-bedc-e8ae0cb9ef4d"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Settings/Site Grouping/Mitas Moto/CORS
+DB: master
+BranchID: "f0e39dc1-6a4f-41ed-b0fe-b65bf09a1745"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B6DAB7A0-4F89-4FF1-A1F8-683C1077162A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T124219Z

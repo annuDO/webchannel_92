@@ -1,0 +1,22 @@
+﻿---
+ID: "08c050c5-7a7a-44e9-abf5-2121eae279e9"
+Parent: "a54ccfa9-15d3-4123-a334-6f09723ed0ed"
+Template: "de3fa58e-ef9d-4544-9f77-dcd1dbb05b64"
+Path: /sitecore/content/Trelleborg/Group/Data/Search/Radius Filter/Radius Filter
+DB: master
+SharedFields:
+- ID: "ae5d211a-4ff1-4e9e-ba0f-9442b0abca91"
+  Hint: Facet
+  Value: "{C6924B24-69D5-45FF-84E5-C4BA073AC408}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190830T082028Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

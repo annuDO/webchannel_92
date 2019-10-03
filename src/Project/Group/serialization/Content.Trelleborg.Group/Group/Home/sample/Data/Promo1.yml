@@ -1,0 +1,29 @@
+﻿---
+ID: "0c6b2036-406f-4dda-91e9-1075c0bc7835"
+Parent: "21b00192-fd73-4bb6-b54f-2b0912b56bda"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Trelleborg/Group/Home/sample/Data/Promo1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: <p>This is demo promo component</p>
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{F8802542-3AD5-46AD-AD6C-C827D96E9F11}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190917T115916Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{16FFB5B5-68C2-4020-B0A2-F2967E255CBF}" />

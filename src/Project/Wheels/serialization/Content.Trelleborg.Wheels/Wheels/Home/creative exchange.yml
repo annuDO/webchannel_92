@@ -1,0 +1,28 @@
+﻿---
+ID: "47cae5f3-36a1-498a-bfad-e90c28941539"
+Parent: "013e8561-2849-478a-ba69-b22e6c62364e"
+Template: "0bae2cbd-33f5-4212-83f8-d63ad3c945a4"
+Path: /sitecore/content/Trelleborg/Wheels/Home/creative exchange
+DB: master
+SharedFields:
+- ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+  Hint: Page Design
+  Value: "{EAA4EEE9-4355-417E-8893-2F0B88D50E7B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T051244Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: creative exchange
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: creative exchange
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

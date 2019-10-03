@@ -1,0 +1,14 @@
+﻿---
+ID: "abece871-d619-4be1-bceb-8b84f2b47f7b"
+Parent: "7bc2aa57-3a39-497f-a476-3bb13b037feb"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Footer/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190919T130006Z

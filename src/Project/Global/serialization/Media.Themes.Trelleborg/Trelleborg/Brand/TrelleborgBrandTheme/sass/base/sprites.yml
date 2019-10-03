@@ -1,0 +1,14 @@
+﻿---
+ID: "05cd0fc3-4fb4-46ba-99a1-e211f5044906"
+Parent: "3b37752f-75e8-4390-9c22-1d0a4915fbeb"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Trelleborg/Brand/TrelleborgBrandTheme/sass/base/sprites
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063729Z

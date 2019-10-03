@@ -1,0 +1,18 @@
+﻿---
+ID: "70c34c3c-59bb-4053-85e3-9ebf74320039"
+Parent: "0eee75fe-eea0-4541-a232-3f4dbb1c9ca8"
+Template: "f86fe270-00a4-492f-bfaf-5bf27e40ce13"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Settings/Datasource Configurations
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T124132Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

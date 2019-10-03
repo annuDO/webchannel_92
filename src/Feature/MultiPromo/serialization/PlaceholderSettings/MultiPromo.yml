@@ -1,0 +1,14 @@
+﻿---
+ID: "f9c28367-ff99-4d0e-89ff-5ce0d5f2f202"
+Parent: "5cb3240d-184b-45dc-9bdd-3bc093fde4a6"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/layout/Placeholder Settings/Feature/Trelleborg/MultiPromo
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T133257Z

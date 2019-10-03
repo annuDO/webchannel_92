@@ -1,0 +1,22 @@
+﻿---
+ID: "0d14c341-48bc-4a66-95d4-076ce9301ec6"
+Parent: "7671b840-1914-4e3e-a52c-751fd78f844c"
+Template: "4c1dc3cf-36d2-4484-ba4e-40af34d01e95"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/JSON List
+DB: master
+BranchID: "08c12327-7685-4c17-bfca-6aae7a55f4c5"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_gear.png
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{93E2E0FD-9439-4E54-BD74-1BEFC2EB7E66}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T112613Z

@@ -1,0 +1,27 @@
+﻿---
+ID: "e753f2d8-a37c-471f-8665-03b89f4c961f"
+Parent: "16ffb5b5-68c2-4020-b0a2-f2967e255cbf"
+Template: "0bae2cbd-33f5-4212-83f8-d63ad3c945a4"
+Path: /sitecore/content/Trelleborg/Group/Home/Product and Solution/TM700 High Speed
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190903T093609Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: TM700 High Speed
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: TM700 High Speed
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a120c123-1cdd-4bed-8877-a9d04bc8b904"
+      Hint: Content
+      Value: The TM700 High Speed is the agriculture radial tire with high lugs yet suitable for speed up to 65 Km/hour.

@@ -1,0 +1,26 @@
+﻿---
+ID: "c1df3839-efff-44f7-bd84-d0e2f4e2100f"
+Parent: "22890aa5-27b6-4b87-8cfb-107ab2df29d7"
+Template: "6354d18e-54e9-45ad-9ec7-510769db4809"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/MultiPromo/Default/promos/LinkedPromos
+DB: master
+BranchID: "a7ae4283-f876-4408-9b00-ffd7f3018130"
+SharedFields:
+- ID: "6a018521-3d58-4cdd-98fc-88be689650d5"
+  Hint: PassThroughField
+  Value: LinkedPromos
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5F7D77D4-B3DE-46F5-8730-6653F6EC5DDF}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T074720Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,17 @@
+﻿---
+ID: "f57848f0-c94a-4509-ae43-109562125503"
+Parent: "72e7ba33-eaf0-4a08-a571-d7136b61bd1c"
+Template: "141df88e-7156-4d2e-a004-c8c1a7c51e9d"
+Path: /sitecore/system/Settings/Feature/Trelleborg/CustomNavigation/CustomNavigation Tenant Setup
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190919T115115Z
+    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
+      Hint: Name
+      Value: CustomNavigation

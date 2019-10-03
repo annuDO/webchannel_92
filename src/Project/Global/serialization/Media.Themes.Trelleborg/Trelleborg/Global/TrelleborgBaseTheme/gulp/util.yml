@@ -1,0 +1,18 @@
+﻿---
+ID: "018ac343-2879-4f9e-bad6-b5557ba6b58b"
+Parent: "19b280f6-f334-4995-8dbc-974fae0f87a8"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/gulp/util
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T065215Z

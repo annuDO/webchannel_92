@@ -1,0 +1,14 @@
+﻿---
+ID: "9070a07f-303b-454b-b53c-f8c57369c8d5"
+Parent: "b1410001-7ebd-4bf6-9973-d6ae88a53aae"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/Global/sass/variants/link-list"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063826Z

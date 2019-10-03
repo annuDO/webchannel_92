@@ -1,0 +1,25 @@
+﻿---
+ID: "b68fcf1f-684c-4044-9be2-9462cc1f603c"
+Parent: "9a437b86-c8bd-434e-85e5-bf2fd26c2804"
+Template: "9a437b86-c8bd-434e-85e5-bf2fd26c2804"
+Path: /sitecore/templates/Feature/Trelleborg/MultiPromo/MultiPromo Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {8BBE2140-9D0C-4B0E-A6B6-0F5E08CAFB36}
+    {9A437B86-C8BD-434E-85E5-BF2FD26C2804}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

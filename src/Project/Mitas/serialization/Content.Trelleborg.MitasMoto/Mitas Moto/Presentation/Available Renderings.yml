@@ -1,0 +1,18 @@
+﻿---
+ID: "dc6fbb26-af4c-4821-9eca-ffdc976930d9"
+Parent: "e9637e5b-7da9-40b3-a197-8419191a9741"
+Template: "39a9ed72-407d-4440-ba50-30956834794e"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Presentation/Available Renderings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T124138Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

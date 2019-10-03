@@ -1,0 +1,33 @@
+﻿---
+ID: "b402d3ce-f894-40c9-bd5c-60a5e6d1fa51"
+Parent: "feeb5546-4d1c-4907-bcc6-d7f90521dde3"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Trelleborg/MultiPromo/MultiPromo Site Setup/Rendering Variants/MultiPromo
+DB: master
+SharedFields:
+- ID: "4795a7c6-08a9-4248-86c3-d460062c3a22"
+  Hint: Location
+  Type: Treelist
+  Value: "{5CDC5EB2-F14F-4495-88E8-AA882DDFAA05}"
+- ID: "7868e6bc-525c-4fce-ab8a-77da3e09b171"
+  Hint: Name
+  Value: MultiPromo
+- ID: "ad0e8de7-f6c1-49fa-b2c4-87e10fbdaa52"
+  Hint: Fields
+  Value: __Icon=Office%2F32x32%2Fwindow_dialog.png
+- ID: "e62c28f0-9d3b-46e2-8bec-a5e120542499"
+  Hint: Template
+  Type: Treelist
+  Value: "{A7AE4283-F876-4408-9B00-FFD7F3018130}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160713T064438Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "cdefb7f8-4bf9-4d6a-979e-095d7b6ec8f4"
+Parent: "14afd336-2ba6-43d8-b44e-01d3a2b236c1"
+Template: "8bbe2140-9d0c-4b0e-a6b6-0f5e08cafb36"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Partial Designs/multipromo/Data/multipromo1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T080543Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

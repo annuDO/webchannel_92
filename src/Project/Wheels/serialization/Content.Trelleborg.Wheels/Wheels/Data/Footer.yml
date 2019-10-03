@@ -1,0 +1,14 @@
+﻿---
+ID: "1395e72e-f41d-4c8b-92e1-49b6eca92371"
+Parent: "5cae9a18-bb5e-4749-ab86-f2733feeed6c"
+Template: "a2327dce-1a3a-4cdb-85b5-e797aacf7521"
+Path: /sitecore/content/Trelleborg/Wheels/Data/Footer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T051416Z

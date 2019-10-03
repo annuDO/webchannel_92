@@ -1,0 +1,18 @@
+﻿---
+ID: "173b3709-866b-49a8-aa0b-252d0b7aaaad"
+Parent: "a7f919b9-6be0-4d61-86d3-db8a06b3f99d"
+Template: "8302b292-e67b-4396-ba95-b4f8289249fc"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Data/Maps
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T124225Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

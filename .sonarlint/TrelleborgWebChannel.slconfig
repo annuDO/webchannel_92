@@ -1,0 +1,12 @@
+{
+  "ServerUri": "http://tssblrvm005.tss.corp.trelleborg.com:9000/",
+  "Organization": null,
+  "ProjectKey": "SiteCore.cs.tb.monitor",
+  "ProjectName": "SiteCore.cs.tb.monitor",
+  "Profiles": {
+    "CSharp": {
+      "ProfileKey": "AW1IH1n86zaehtZB_F-Z",
+      "ProfileTimestamp": "2019-09-19T11:34:37+05:30"
+    }
+  }
+}

@@ -1,0 +1,40 @@
+﻿---
+ID: "7e073b09-6c41-4c57-a385-b5b9858cec4c"
+Parent: "0bae2cbd-33f5-4212-83f8-d63ad3c945a4"
+Template: "0bae2cbd-33f5-4212-83f8-d63ad3c945a4"
+Path: /sitecore/templates/Project/Trelleborg/Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {0BAE2CBD-33F5-4212-83F8-D63AD3C945A4}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+- ID: "f1a1fe9e-a60c-4ddb-a3a0-bb5b29fe732e"
+  Hint: __Renderings
+  Type: layout
+  Value: |
+    <r xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+      <d
+        id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}"
+        l="{BCFC7537-EFF4-434C-96F5-BF4F55FD175B}" />
+      <d
+        id="{0B4A31C9-712D-4578-A396-2DDC0F34B63A}"
+        l="{72C595AD-68BB-44BC-B5CD-2A857039515F}" />
+    </r>
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T104750Z
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

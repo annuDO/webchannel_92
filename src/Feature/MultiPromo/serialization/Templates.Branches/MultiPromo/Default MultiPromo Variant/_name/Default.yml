@@ -1,0 +1,14 @@
+﻿---
+ID: "9fe37c83-0e52-402c-baa0-013701f1b1cb"
+Parent: "5386c0de-69fa-4308-9d28-1e7280770034"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/MultiPromo/Default MultiPromo Variant/$name/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160427T134629Z

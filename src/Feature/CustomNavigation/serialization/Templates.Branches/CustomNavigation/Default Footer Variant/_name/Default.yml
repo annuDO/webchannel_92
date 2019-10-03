@@ -1,0 +1,14 @@
+﻿---
+ID: "7e88eb3d-92dc-483a-adc2-c1dbb51a4276"
+Parent: "99297bdc-219e-4c02-941f-df72f1b64b21"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/CustomNavigation/Default Footer Variant/$name/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160427T134629Z

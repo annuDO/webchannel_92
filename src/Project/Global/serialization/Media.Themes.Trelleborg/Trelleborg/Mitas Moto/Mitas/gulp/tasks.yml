@@ -1,0 +1,18 @@
+﻿---
+ID: "e3d237ed-8c53-4b48-a48c-430b553cb38b"
+Parent: "7595ec93-c61b-4c6c-8b8a-5074cbc8f6c8"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Trelleborg/Mitas Moto/Mitas/gulp/tasks
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T065151Z

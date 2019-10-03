@@ -1,0 +1,14 @@
+﻿---
+ID: "0196472d-93ac-46a6-8173-0a25901e1b3c"
+Parent: "a54c49a4-a2b2-429c-8585-2ef75b83689a"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Trelleborg/Wheels/Wheels/sass/base/typehead
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170615T075142Z

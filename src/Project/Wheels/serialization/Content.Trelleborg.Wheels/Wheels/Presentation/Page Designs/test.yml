@@ -1,0 +1,22 @@
+﻿---
+ID: "eaa4eee9-4355-417e-8893-2f0b88d50e7b"
+Parent: "2843afd7-3785-4221-b605-6ffe22527d09"
+Template: "fa9ae4dd-c6a1-4816-8ed7-61a22552a811"
+Path: /sitecore/content/Trelleborg/Wheels/Presentation/Page Designs/test
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{65F4285E-438C-4E9A-92EF-6248D24F80A5}|{DBED89E0-05D7-4F83-AC5C-9B84D3CB6CA2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T060054Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

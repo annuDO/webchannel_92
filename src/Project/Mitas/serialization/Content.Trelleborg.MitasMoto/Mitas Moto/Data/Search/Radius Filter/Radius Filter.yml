@@ -1,0 +1,22 @@
+﻿---
+ID: "8a89c6df-a0a7-4f92-9fd5-e2ffb5871add"
+Parent: "eee65b87-819c-4e7f-80f4-43f5e6796fc6"
+Template: "de3fa58e-ef9d-4544-9f77-dcd1dbb05b64"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Data/Search/Radius Filter/Radius Filter
+DB: master
+SharedFields:
+- ID: "ae5d211a-4ff1-4e9e-ba0f-9442b0abca91"
+  Hint: Facet
+  Value: "{F288E6DB-53C9-4170-A622-09257BE4E0B5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T124334Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

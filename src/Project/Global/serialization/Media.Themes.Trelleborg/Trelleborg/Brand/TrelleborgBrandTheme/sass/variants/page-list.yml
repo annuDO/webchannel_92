@@ -1,0 +1,14 @@
+﻿---
+ID: "93707267-dfd4-4ce6-86ca-420b63b35123"
+Parent: "990f556d-d568-4721-9311-638316985603"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Trelleborg/Brand/TrelleborgBrandTheme/sass/variants/page-list"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063833Z

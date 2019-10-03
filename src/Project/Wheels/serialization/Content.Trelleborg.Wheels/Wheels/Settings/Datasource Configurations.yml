@@ -1,0 +1,18 @@
+﻿---
+ID: "d03289d9-3c9a-4f2b-af3c-6f75ab37d667"
+Parent: "637b5c8b-a678-4a9e-a854-5748c9bfd048"
+Template: "f86fe270-00a4-492f-bfaf-5bf27e40ce13"
+Path: /sitecore/content/Trelleborg/Wheels/Settings/Datasource Configurations
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T113433Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

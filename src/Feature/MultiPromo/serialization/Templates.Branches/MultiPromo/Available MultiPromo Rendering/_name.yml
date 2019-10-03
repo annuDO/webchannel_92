@@ -1,0 +1,23 @@
+﻿---
+ID: "f907aaff-bdf9-445e-9339-dac2c785f21a"
+Parent: "309fd87d-3661-4666-b7bd-3da5cb8b4eee"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/MultiPromo/Available MultiPromo Renderings/$name
+DB: master
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: "{07034B90-D556-4765-A7F4-E81711A08541}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171113T104335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

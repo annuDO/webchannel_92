@@ -1,0 +1,19 @@
+﻿---
+ID: "2cba91dc-ce3d-486c-b00c-64dfe3ace376"
+Parent: "502d2bff-f1d0-4cde-9105-b32148148eaf"
+Template: "3d55c326-3353-48cd-bedc-e8ae0cb9ef4d"
+Path: /sitecore/content/Trelleborg/Wheels/Settings/Site Grouping/Wheels/CORS
+DB: master
+BranchID: "f0e39dc1-6a4f-41ed-b0fe-b65bf09a1745"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B6DAB7A0-4F89-4FF1-A1F8-683C1077162A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T113542Z

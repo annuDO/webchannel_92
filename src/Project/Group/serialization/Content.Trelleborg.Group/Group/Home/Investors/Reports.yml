@@ -1,0 +1,24 @@
+﻿---
+ID: "b95242d7-eb92-40a4-be9d-50323eaf2151"
+Parent: "3a32b11d-6787-40b5-ae94-66ccf11c38ca"
+Template: "0bae2cbd-33f5-4212-83f8-d63ad3c945a4"
+Path: /sitecore/content/Trelleborg/Group/Home/Investors/Reports
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190912T115357Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Reports
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: Reports
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

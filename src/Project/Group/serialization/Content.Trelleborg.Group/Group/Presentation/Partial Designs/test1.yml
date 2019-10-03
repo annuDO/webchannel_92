@@ -1,0 +1,18 @@
+﻿---
+ID: "37576db1-7328-4ee3-bfdf-3ac9d0636bcc"
+Parent: "5924c101-bc70-49ab-8b22-518aa4a9d338"
+Template: "b3e3e68d-c9fe-4917-af51-2042bb2cd6f6"
+Path: /sitecore/content/Trelleborg/Group/Presentation/Partial Designs/test1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190913T124037Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

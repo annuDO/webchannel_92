@@ -1,0 +1,18 @@
+﻿---
+ID: "953eb821-59e8-4c02-a11e-a139c1c3a287"
+Parent: "a7f919b9-6be0-4d61-86d3-db8a06b3f99d"
+Template: "f07cbe89-73ae-4de6-9217-2570260cac6e"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Data/Promos
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T124250Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

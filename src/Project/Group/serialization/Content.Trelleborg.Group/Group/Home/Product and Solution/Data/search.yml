@@ -1,0 +1,21 @@
+﻿---
+ID: "9504dcf6-e3e1-442a-9df6-f1712c054242"
+Parent: "d9afceb1-9f7a-437a-a9d4-89bad538d928"
+Template: "a06f7130-041d-46bb-8c29-95a2dc00c26a"
+Path: /sitecore/content/Trelleborg/Group/Home/Product and Solution/Data/search
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190903T094559Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "904cb4ca-42d1-4690-8a99-9ecf22855e88"
+      Hint: ResultsNotFoundText
+      Value: No Result Found

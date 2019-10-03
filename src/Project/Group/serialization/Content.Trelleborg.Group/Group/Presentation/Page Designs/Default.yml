@@ -1,0 +1,22 @@
+﻿---
+ID: "9eb3480c-1829-4ce6-9a7e-e1f1d1907efc"
+Parent: "fba54799-2c1b-4c78-ab66-4effb9c12895"
+Template: "fa9ae4dd-c6a1-4816-8ed7-61a22552a811"
+Path: /sitecore/content/Trelleborg/Group/Presentation/Page Designs/Default
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{A426D911-8E50-4A33-9C35-F091612A1FBA}|{C65A888F-306E-417B-9125-27F3E4922AA7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190830T082032Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

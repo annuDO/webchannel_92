@@ -1,0 +1,18 @@
+﻿---
+ID: "b6ba303f-196a-4266-a7e8-405735b6cd43"
+Parent: "a7f919b9-6be0-4d61-86d3-db8a06b3f99d"
+Template: "af1cc1af-99cc-4e3c-9a26-3ead62890fce"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Data/Events
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T124207Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

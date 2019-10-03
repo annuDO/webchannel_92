@@ -1,0 +1,24 @@
+﻿---
+ID: "9c3bb734-43eb-427b-841a-b14b72dd850e"
+Parent: "bfed00c8-b550-40de-8beb-a7f57efc5a8b"
+Template: "8bbe2140-9d0c-4b0e-a6b6-0f5e08cafb36"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Home/creative exchange/Data/multipromo1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "11538fcb-6edf-47ee-891e-c104a07fe092"
+      Hint: LinkedPromos
+      Value: "{C03CEF6D-9115-4BB8-977A-B4C4AF66190E}|{C68964A1-15DC-4A44-9EF0-A54C85A44CE8}|{D737438E-F9D4-4C37-BE8C-CE6ECB3DC6D8}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T080543Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "d5446577-2c30-4afa-ad98-b3b80420351f"
+      Hint: PromoText
+      Value: This is sample multipromo&nbsp;

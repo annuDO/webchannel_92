@@ -1,0 +1,14 @@
+﻿---
+ID: "19c61f1d-ed8d-448f-9111-15d12f898c0a"
+Parent: "d84d8fb3-72ed-49c1-8c90-cfd0eeac7261"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Trelleborg/Group/Group/sass/variants/tag-cloud"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20170614T063836Z

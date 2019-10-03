@@ -1,0 +1,14 @@
+﻿---
+ID: "23a22482-64fc-4c22-ab67-6dfad41465fb"
+Parent: "d5965822-dc56-4e50-8d33-67d572acd988"
+Template: "0339bac0-78c1-43c1-b930-f8c26a5fdf80"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Placeholder Settings
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T112522Z

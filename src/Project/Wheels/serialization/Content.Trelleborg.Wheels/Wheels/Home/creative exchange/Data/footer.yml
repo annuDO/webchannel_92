@@ -1,0 +1,18 @@
+﻿---
+ID: "2d494af1-321e-4c77-be9c-ba1f7c5c8496"
+Parent: "0305cfa2-f4ef-444a-8554-1763277d5c21"
+Template: "658d3317-ee64-44c4-86a0-7d5b4034301a"
+Path: /sitecore/content/Trelleborg/Wheels/Home/creative exchange/Data/footer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T055645Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

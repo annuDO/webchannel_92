@@ -1,0 +1,14 @@
+﻿---
+ID: "1bc5b2c9-bef2-4449-981d-075abbf29c8b"
+Parent: "5fe159c5-d07b-44d1-9c03-4e105f1c3afa"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Promo/media-element-responsive"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190918T054531Z

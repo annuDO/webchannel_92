@@ -1,0 +1,25 @@
+﻿---
+ID: "c208c431-f746-4812-bb66-0d244391c444"
+Parent: "a672ace7-f13e-4514-8364-e0b3e9df2e95"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Trelleborg/Page Design Folder
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_chart.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{EC7CC4E4-3A6E-4512-808B-691A8B46045E}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{F355EE21-FF99-466F-B76B-083ACAC4894B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T104753Z

@@ -1,0 +1,28 @@
+﻿---
+ID: "737abbca-9188-49be-943d-ac3130db003a"
+Parent: "1395e72e-f41d-4c8b-92e1-49b6eca92371"
+Template: "658d3317-ee64-44c4-86a0-7d5b4034301a"
+Path: /sitecore/content/Trelleborg/Wheels/Data/Footer/Footer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T052108Z
+    - ID: "5a2a474e-2a54-488b-b253-8a2655189a21"
+      Hint: Social link
+      Type: Multilist
+      Value: |
+        {FA608BC6-53EE-4144-BB68-5EE9981698FA}
+        {615536EB-F470-416C-84BF-8A73743788F0}
+        {A2215498-4878-4BB2-9098-12F27B76239C}
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ff0514ce-aa74-4d20-8ac8-a5021a87fc0b"
+      Hint: Copyright
+      Value: Copyright

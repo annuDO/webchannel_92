@@ -1,0 +1,18 @@
+﻿---
+ID: "5fcfc5c6-0669-4037-91a7-7456abea17fe"
+Parent: "9d996c70-c7af-4a62-b6fb-85a35ad4bf37"
+Template: "68c00cb0-320b-4324-903a-f6ad56a2a105"
+Path: /sitecore/content/Trelleborg/Group/Data/Accordions
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190830T081737Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,29 @@
+﻿---
+ID: "ac68f209-582f-4bc6-818a-45932abbc964"
+Parent: "091be53a-41e1-4458-9b0c-796a177f5f9d"
+Template: "18387eab-6fa1-4173-bdf2-641be9e77f32"
+Path: /sitecore/content/Trelleborg/Mitas Moto/Home
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T124056Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Mitas Moto
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: Mitas Moto
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

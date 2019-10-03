@@ -1,0 +1,18 @@
+﻿---
+ID: "a4588e7f-484e-48de-bf16-3a85f3a6acfd"
+Parent: "5fac0039-3eb0-4a36-95db-334ef30263b8"
+Template: "948bf196-d6eb-4247-be9c-f5eb5e1160d7"
+Path: /sitecore/content/Trelleborg/Global/Data/Playlists
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T112625Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

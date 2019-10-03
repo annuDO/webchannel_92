@@ -1,0 +1,237 @@
+﻿---
+ID: "6c34d0a4-d158-4449-b834-6433f38d1f5a"
+Parent: "a90e770d-c6e9-4c61-b78c-66255de95dbd"
+Template: "18387eab-6fa1-4173-bdf2-641be9e77f32"
+Path: /sitecore/content/Trelleborg/Group/Home
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{3A23ACDF-18C5-4A49-9A72-5682C0C0A621}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{92EB9EFB-88D4-4089-82BE-AAD92D4FA24E}"
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0BA81116-300D-4722-8B32-DEF163E96900}"
+              s:ds="{F2479A3A-0F07-4CCC-8CF9-C5CF5ACEC88C}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190910T061508Z
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: German Group
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+  - Version: 2
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{0BA81116-300D-4722-8B32-DEF163E96900}"
+              s:ds="{F2479A3A-0F07-4CCC-8CF9-C5CF5ACEC88C}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190925T112846Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ğřőūp
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: Ğřőūp
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20190925T112846Z
+    - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
+      Hint: TwitterCardType
+      Value: "{32F6A4E4-93DD-4A9C-AA60-CDEDB0BEDABB}"
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image alt="" mediaid="{00000000-0000-0000-0000-000000000000}" />
+    - ID: "de457091-0989-414e-addf-59db0ddb6690"
+      Hint: TwitterImage
+      Value: |
+        <image alt="" mediaid="{00000000-0000-0000-0000-000000000000}" />
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5FC2BAD9-2773-43E0-BE8C-E0643D588468}"
+              p:before="*"
+              s:ds=""
+              s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B2E4FC630-3D10-46EF-A8F5-3A0730B5F7F7%7D&amp;Styles=%7BDAFBA647-607C-4BB5-8FC3-1BF805AEBFDD%7D%7C%7B0DB13231-9BEB-42DD-83F3-C841A254ACED%7D&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;Filter=%7BD063E9D1-C7B5-4B1E-B31E-69886C9C59F5%7D&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="/header/column-2-3" />
+            <r
+              uid="{E85E9BCB-B498-4A24-8003-0E694CBBBB8C}"
+              p:after="r[@uid='{5FC2BAD9-2773-43E0-BE8C-E0643D588468}']"
+              s:ds="local:/Data/Image 2"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/header/column-1-3" />
+            <r
+              uid="{414FEB64-BA03-4F8E-9D24-D495C63803B8}"
+              p:after="r[@uid='{E85E9BCB-B498-4A24-8003-0E694CBBBB8C}']"
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D%7C%7BB61D0C31-66A7-4B67-A8DB-77671188FF4D%7D%7C%7BC2D946C9-30ED-4D37-B393-F37DF40F115B%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D%7C%7B4BAD9050-B1BB-479C-B59E-F489F8DBCAA8%7D%7C%7B6B8AEE86-EA00-4955-9870-97538B4A2E2A%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;DynamicPlaceholderId=3"
+              s:ph="header" />
+            <r
+              uid="{3FA0FFAA-B4CB-497D-9D63-338F5ACA5DDC}"
+              p:after="r[@uid='{414FEB64-BA03-4F8E-9D24-D495C63803B8}']"
+              s:ds=""
+              s:id="{0F77C4A9-0727-4FE2-8E22-511A565B9959}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7BB61D0C31-66A7-4B67-A8DB-77671188FF4D%7D%7C%7BC2D946C9-30ED-4D37-B393-F37DF40F115B%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier"
+              s:ph="main" />
+            <r
+              uid="{B1F54B20-7958-4297-823C-798B442551DA}"
+              p:after="r[@uid='{3FA0FFAA-B4CB-497D-9D63-338F5ACA5DDC}']"
+              s:ds=""
+              s:id="{7E905ED5-E2A7-41A4-90E4-1C5E4807074E}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7BB61D0C31-66A7-4B67-A8DB-77671188FF4D%7D%7C%7BC2D946C9-30ED-4D37-B393-F37DF40F115B%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier"
+              s:ph="main" />
+            <r
+              uid="{0044F036-9064-4779-A6FB-6AE828D77026}"
+              p:after="*[1=2]"
+              s:ds="{F2479A3A-0F07-4CCC-8CF9-C5CF5ACEC88C}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190830T081611Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Group
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: Group
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5FC2BAD9-2773-43E0-BE8C-E0643D588468}"
+              p:before="*"
+              s:ds=""
+              s:id="{9D3BA81A-EECE-4B5A-9862-0239A9D53EEC}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B2E4FC630-3D10-46EF-A8F5-3A0730B5F7F7%7D&amp;Styles=%7BDAFBA647-607C-4BB5-8FC3-1BF805AEBFDD%7D%7C%7B0DB13231-9BEB-42DD-83F3-C841A254ACED%7D&amp;NavigationRoot&amp;LevelFrom=%7B1BB88840-5FB3-4353-AD8D-81136F6FF75A%7D&amp;LevelTo=%7BA59325BB-5A27-46F9-8110-9D499715F3BE%7D&amp;Filter=%7BD063E9D1-C7B5-4B1E-B31E-69886C9C59F5%7D&amp;Flattened&amp;AddRoot&amp;NavigationFieldNames&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=5"
+              s:ph="/header/column-2-3" />
+            <r
+              uid="{E85E9BCB-B498-4A24-8003-0E694CBBBB8C}"
+              p:after="r[@uid='{5FC2BAD9-2773-43E0-BE8C-E0643D588468}']"
+              s:ds="local:/Data/Image 2"
+              s:id="{4A0D4E0B-BC20-4F2E-BD84-A4BD35834E86}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=4"
+              s:ph="/header/column-1-3" />
+            <r
+              uid="{414FEB64-BA03-4F8E-9D24-D495C63803B8}"
+              p:after="r[@uid='{E85E9BCB-B498-4A24-8003-0E694CBBBB8C}']"
+              s:id="{C25766C8-9AFD-4D28-87FE-147774F6806D}"
+              s:par="SplitterSize=2&amp;EnabledPlaceholders=1%2C2&amp;Styles1&amp;Styles2&amp;Styles3&amp;Styles4&amp;Styles5&amp;Styles6&amp;Styles7&amp;Styles8&amp;ColumnWidth1=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D%7C%7BB61D0C31-66A7-4B67-A8DB-77671188FF4D%7D%7C%7BC2D946C9-30ED-4D37-B393-F37DF40F115B%7D&amp;ColumnWidth2=%7B9AD9D6FB-28FC-43C5-8DA4-4A6A63CE802F%7D%7C%7B4BAD9050-B1BB-479C-B59E-F489F8DBCAA8%7D%7C%7B6B8AEE86-EA00-4955-9870-97538B4A2E2A%7D&amp;ColumnWidth3&amp;ColumnWidth4&amp;ColumnWidth5&amp;ColumnWidth6&amp;ColumnWidth7&amp;ColumnWidth8&amp;Reset Caching Options&amp;DynamicPlaceholderId=3"
+              s:ph="header" />
+            <r
+              uid="{3FA0FFAA-B4CB-497D-9D63-338F5ACA5DDC}"
+              p:after="r[@uid='{414FEB64-BA03-4F8E-9D24-D495C63803B8}']"
+              s:ds=""
+              s:id="{0F77C4A9-0727-4FE2-8E22-511A565B9959}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7BB61D0C31-66A7-4B67-A8DB-77671188FF4D%7D%7C%7BC2D946C9-30ED-4D37-B393-F37DF40F115B%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier"
+              s:ph="main" />
+            <r
+              uid="{B1F54B20-7958-4297-823C-798B442551DA}"
+              p:after="r[@uid='{3FA0FFAA-B4CB-497D-9D63-338F5ACA5DDC}']"
+              s:ds=""
+              s:id="{7E905ED5-E2A7-41A4-90E4-1C5E4807074E}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7BB61D0C31-66A7-4B67-A8DB-77671188FF4D%7D%7C%7BC2D946C9-30ED-4D37-B393-F37DF40F115B%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier"
+              s:ph="main" />
+            <r
+              uid="{0044F036-9064-4779-A6FB-6AE828D77026}"
+              p:after="*[1=2]"
+              s:ds="{F2479A3A-0F07-4CCC-8CF9-C5CF5ACEC88C}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190925T112917Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Ğřőūp
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: Ğřőūp
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
+      Hint: TwitterCardType
+      Value: "{32F6A4E4-93DD-4A9C-AA60-CDEDB0BEDABB}"
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image alt="" mediaid="{00000000-0000-0000-0000-000000000000}" />
+    - ID: "de457091-0989-414e-addf-59db0ddb6690"
+      Hint: TwitterImage
+      Value: |
+        <image alt="" mediaid="{00000000-0000-0000-0000-000000000000}" />

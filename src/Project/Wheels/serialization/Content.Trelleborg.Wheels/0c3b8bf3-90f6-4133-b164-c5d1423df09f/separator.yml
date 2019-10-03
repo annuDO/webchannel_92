@@ -1,0 +1,25 @@
+﻿---
+ID: "3af9f3f5-81df-483b-998e-25d3f9c3adae"
+Parent: "0c3b8bf3-90f6-4133-b164-c5d1423df09f"
+Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
+Path: /sitecore/content/Trelleborg/Wheels/Presentation/Rendering Variants/Footer/Default/Footer Info List/links/Social link/tooltip/span/children links/separator
+DB: master
+BranchID: "0be8c0c4-59d3-4651-ac2e-092cf4ae94da"
+SharedFields:
+- ID: "1aa68c0b-eb67-4575-9ca8-1689c2aff091"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{402C2B43-EA6F-4B50-B13E-DABA610FCD09}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07211f80-7ffc-4df4-a4de-c8956f391850"
+      Hint: Text
+      Value:  | 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T051427Z

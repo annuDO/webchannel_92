@@ -1,0 +1,18 @@
+﻿---
+ID: "e6309296-1739-4b90-a131-4f88fd71e34d"
+Parent: "1bdd7dd0-d744-43af-9789-b4de8026c518"
+Template: "070a64fa-5f1b-40cc-83cb-3ce05d1895fc"
+Path: /sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/Image/Responsive/Image
+DB: master
+SharedFields:
+- ID: "df178dc4-b83d-46ec-8d4f-9de85e2c996c"
+  Hint: FieldName
+  Value: Image
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190918T122831Z

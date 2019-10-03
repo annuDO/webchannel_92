@@ -1,0 +1,35 @@
+﻿---
+ID: "fba54799-2c1b-4c78-ab66-4effb9c12895"
+Parent: "f6f98bb1-07f8-4b47-81c6-1c7a377e3acb"
+Template: "bc03f740-170d-4d0b-89c8-2471e4927151"
+Path: /sitecore/content/Trelleborg/Group/Presentation/Page Designs
+DB: master
+BranchID: "b90549b5-c997-4d6b-b102-c9ab82528974"
+SharedFields:
+- ID: "4094e091-cf77-4bb1-a004-ada2e2fcb267"
+  Hint: Scripts Optimizing Enabled
+  Value: 0
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b18387EAB-6FA1-4173-BDF2-641BE9E77F32%7d%3d%257B9EB3480C-1829-4CE6-9A7E-E1F1D1907EFC%257D%26%7b0BAE2CBD-33F5-4212-83F8-D63AD3C945A4%7d%3d%257B9EB3480C-1829-4CE6-9A7E-E1F1D1907EFC%257D"
+- ID: "c0c88e34-d7e6-46a0-b84f-b0a432d11642"
+  Hint: Theme
+  Value: "%7bFE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3%7d%3d%257BD3057784-B96B-4AA6-B5A5-94F14055FCF7%257D"
+- ID: "e75a4228-26cd-4823-90a6-8d6c58a80cf3"
+  Hint: Styles Optimizing Enabled
+  Value: 0
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{5D5CE43E-D5C6-4C53-89BC-36285DDE8EC9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190830T081612Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

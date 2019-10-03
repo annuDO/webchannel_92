@@ -1,0 +1,18 @@
+﻿---
+ID: "3f57bf10-55e1-4e0e-a6f1-ad1a7babc47d"
+Parent: "be33b96d-5c63-4b67-aea1-d6e087fef120"
+Template: "e1cf805e-7f49-4ec9-a25a-182dc798cb5f"
+Path: /sitecore/content/Trelleborg/Group/Settings/Redirects
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190830T081658Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

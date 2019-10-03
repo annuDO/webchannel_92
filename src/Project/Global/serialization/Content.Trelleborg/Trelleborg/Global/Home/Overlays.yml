@@ -1,0 +1,18 @@
+﻿---
+ID: "437a9f49-c591-4acd-a201-059cb1489285"
+Parent: "c22b752c-30d7-4f26-8cd2-8f7511505632"
+Template: "d7bffbe5-dad8-4137-85de-28013313f72f"
+Path: /sitecore/content/Trelleborg/Global/Home/Overlays
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T112518Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

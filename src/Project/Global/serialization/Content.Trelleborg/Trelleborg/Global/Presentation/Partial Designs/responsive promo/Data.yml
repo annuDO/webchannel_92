@@ -1,0 +1,18 @@
+﻿---
+ID: "fa92fe74-3462-4bc0-8c3a-4fc0f94b26de"
+Parent: "1a511299-7662-43c0-9801-a4eb16a4a078"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Partial Designs/responsive promo/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190918T055625Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

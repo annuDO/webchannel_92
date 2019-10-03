@@ -1,0 +1,18 @@
+﻿---
+ID: "c2121ecd-147b-4a37-9695-6940e226de28"
+Parent: "a97518c4-7101-4d1e-9c36-4de0fc3ce668"
+Template: "fd612519-1c44-48b7-a44a-d582e22c38dd"
+Path: /sitecore/content/Trelleborg/Wheels/Presentation/Event Types
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190828T113534Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

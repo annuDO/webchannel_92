@@ -1,0 +1,18 @@
+﻿---
+ID: "0d79c232-87a4-4f30-a6a5-b99fbd09d682"
+Parent: "1fddf1e8-d355-4fc1-8945-273799b1989a"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Footer/Default/Footer Info List/links/Social link/tooltip
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: row
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190919T125427Z

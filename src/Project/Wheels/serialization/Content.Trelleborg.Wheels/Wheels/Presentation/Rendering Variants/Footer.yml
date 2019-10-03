@@ -1,0 +1,22 @@
+﻿---
+ID: "dcd8b158-56d3-4c54-89cd-5f52744f8ef1"
+Parent: "c1224cc5-a1f1-401d-9cbd-e2fd4cf53ad3"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/content/Trelleborg/Wheels/Presentation/Rendering Variants/Footer
+DB: master
+BranchID: "0be8c0c4-59d3-4651-ac2e-092cf4ae94da"
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/window_dialog.png
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{99297BDC-219E-4C02-941F-DF72F1B64B21}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T051424Z

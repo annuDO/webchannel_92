@@ -1,0 +1,18 @@
+﻿---
+ID: "b93c0883-f726-4d23-bddd-49fd2fce1135"
+Parent: "ccd403de-60af-4575-91b9-6cbca699a49f"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Partial Designs/footer/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T055644Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

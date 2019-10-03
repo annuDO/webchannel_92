@@ -1,0 +1,18 @@
+﻿---
+ID: "dd26d93b-f526-4f3b-afba-0b927698fbce"
+Parent: "655862e9-e9ed-4d9f-87e9-0f6a9349b14b"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/Page List/Default/Content
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Content
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190903T094141Z

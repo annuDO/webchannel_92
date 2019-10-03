@@ -1,0 +1,22 @@
+﻿---
+ID: "bb1686d0-a888-492a-95e2-a34597aa3442"
+Parent: "b658c822-5910-4a2e-8882-6f579cf0399b"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Trelleborg/Wheels/Presentation/Rendering Variants/Footer/Default/Footer Info List/copyright/Copyright
+DB: master
+BranchID: "0be8c0c4-59d3-4651-ac2e-092cf4ae94da"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Copyright
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A52E14BF-0AC8-4F20-81AF-DC97F15CE47E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T051425Z

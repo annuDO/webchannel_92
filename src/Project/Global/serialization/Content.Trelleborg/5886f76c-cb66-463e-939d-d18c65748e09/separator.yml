@@ -1,0 +1,21 @@
+﻿---
+ID: "e436998a-7a93-42ab-8016-9289dee876df"
+Parent: "5886f76c-cb66-463e-939d-d18c65748e09"
+Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Footer/Default/Footer Info List/links/Social link/tooltip/span/children links/separator
+DB: master
+SharedFields:
+- ID: "1aa68c0b-eb67-4575-9ca8-1689c2aff091"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07211f80-7ffc-4df4-a4de-c8956f391850"
+      Hint: Text
+      Value:  | 
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190919T125717Z

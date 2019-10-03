@@ -1,0 +1,14 @@
+﻿---
+ID: "90f7e612-2610-4418-9356-f916c484b00b"
+Parent: "0eb30bef-1a23-42ac-b081-d182d2664d53"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/MultiPromo/Default MultiPromo Variant/$name/Default/promos/LinkedPromos/wrapper/Promo Text/Promo Body
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T074515Z
