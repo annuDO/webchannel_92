@@ -1,0 +1,23 @@
+﻿---
+ID: "2f65f6f7-b87e-4b92-8142-dfdd2ddb907e"
+Parent: "79829cf8-300d-4d25-a4c4-c66a8ddb78b7"
+Template: "5088278e-9646-4178-90c9-6fb6b77f146d"
+Path: /sitecore/content/Trelleborg/Global/Data/YouTube/vzaar
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T120501Z
+    - ID: "4a53f99a-4432-4fd1-a322-613a39a5e5ef"
+      Hint: VideoID
+      Value: 1152805
+    - ID: "77cacde9-2707-411a-bc2e-26a3f9098652"
+      Hint: Height
+      Value: 400
+    - ID: "7821efe9-58bc-4fbd-8378-4e5b1827db82"
+      Hint: PlayerType
+      Value: "{6D20EE0D-2D4D-44E0-BB65-82C444E52984}"

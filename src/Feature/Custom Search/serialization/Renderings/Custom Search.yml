@@ -1,0 +1,18 @@
+﻿---
+ID: "0cc20d53-746f-48c5-86e7-66d509792569"
+Parent: "5031cc50-43c5-4c0a-8f7a-c67078c3b805"
+Template: "7ee0975b-0698-493e-b3a2-0b2ef33d0522"
+Path: /sitecore/layout/Renderings/Feature/Trelleborg/Custom Search
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T102855Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,22 @@
+﻿---
+ID: "5b19351d-d778-4a31-bfab-8147c9e5c63d"
+Parent: "1b24fe9f-6200-40ec-928a-f1c6e6b42a45"
+Template: "f3c0661e-f9a9-444c-a26d-44bf2a68a186"
+Path: /sitecore/content/Trelleborg/Global/Data/Search/Results Count/ArticleList/Results Count
+DB: master
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04dbbaaf-675a-4324-aebd-9b32d2d8d7d3"
+      Hint: ResultsCountText
+      Value: "{count} Articles found"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T110412Z

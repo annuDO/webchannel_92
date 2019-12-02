@@ -1,0 +1,18 @@
+﻿---
+ID: "56a99c19-70af-4074-afe3-dd0c749482c2"
+Parent: "828fdf52-27dd-4cdf-85d0-bfe4314e7c1f"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Styles/HeroBanner
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T133026Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

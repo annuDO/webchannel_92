@@ -1,0 +1,25 @@
+﻿---
+ID: "f0778dd5-a57b-4d2a-b1f5-88be793a17ea"
+Parent: "63991efb-a038-49ee-baf0-2bfc98dd6f27"
+Template: "7d659ee9-d487-4d40-8a92-10c6d68844c8"
+Path: /sitecore/content/Trelleborg/Global/Data/Content Tokens/Dictionary/Widgets/Messages/inbox
+DB: master
+SharedFields:
+- ID: "02f6fb63-fe92-44e8-afa2-20747c893502"
+  Hint: Key
+  Value: inbox
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b9d1028-c20c-407b-9dcd-affe86a6f793"
+      Hint: Value
+      Value: Your inbox1
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T213438Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

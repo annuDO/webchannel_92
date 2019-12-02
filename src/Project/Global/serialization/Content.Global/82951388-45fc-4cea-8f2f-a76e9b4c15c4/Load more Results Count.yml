@@ -1,0 +1,17 @@
+﻿---
+ID: "01fdb34c-791a-4a78-82eb-6da928b2b4c4"
+Parent: "82951388-45fc-4cea-8f2f-a76e9b4c15c4"
+Template: "41584669-1abc-4f1c-aa34-d30654cfe54c"
+Path: /sitecore/content/Trelleborg/Global/Data/Search/Load more with Results Count/Address List/Load more Results Count
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T122434Z
+    - ID: "daa9c56f-19b7-4fd9-b654-b80042f878fe"
+      Hint: ResultsCountText
+      Value: "Shown {offset} of {count} items"

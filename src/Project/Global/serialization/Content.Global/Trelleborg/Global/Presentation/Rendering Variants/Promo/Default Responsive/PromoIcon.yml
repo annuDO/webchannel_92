@@ -1,0 +1,27 @@
+﻿---
+ID: "e55c8a1b-7033-4838-8bea-f5a57244ff56"
+Parent: "1c4e46ed-91a2-4ac5-bbf8-bdcbbc264242"
+Template: "070a64fa-5f1b-40cc-83cb-3ce05d1895fc"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Promo/Default Responsive/PromoIcon
+DB: master
+SharedFields:
+- ID: "42a44ce6-94cc-432b-bc69-39867351207c"
+  Hint: Sizes
+  Value: "(max-width: 320px) 280px, (max-width: 480px) 440px, 800px"
+- ID: "64c4a943-ee2a-43ae-bf6a-e249b52cd8b5"
+  Hint: Widths
+  Value: 320, 480, 800
+- ID: "df178dc4-b83d-46ec-8d4f-9de85e2c996c"
+  Hint: FieldName
+  Value: PromoIcon
+- ID: "e4c798fc-30e5-46ed-990e-bcddbf3444a1"
+  Hint: DefaultSize
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191003T070737Z

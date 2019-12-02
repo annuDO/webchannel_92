@@ -1,20 +1,20 @@
 ﻿---
-ID: "38ea1a2d-6be8-44d1-aa97-c381326e2b2f"
-Parent: "2526da0e-4fda-4bf5-bf94-3b204a53c993"
+ID: "1e7ede28-ec4b-48d5-a9e2-5f74537c65a1"
+Parent: "f1d06475-966e-439b-83d8-8ddb4b28a49d"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/base/fontawesome/_list
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/81C344CBE85549DF8F6FC7F8F47E5272.ashx?h=16&thn=1&w=16"
+  Value: "-/media/1E7EDE28EC4B48D5A9E25F74537C65A1.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "5d07eabe-2e12-4474-8497-abbad18960dc"
-  Value: Ly8gTGlzdCBJY29ucwovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouI3skZmEtY3NzLXByZWZpeH0tdWwgewogIHBhZGRpbmctbGVmdDogMDsKICBtYXJnaW4tbGVmdDogJGZhLWxpLXdpZHRoOwogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsKICA+IGxpIHsgcG9zaXRpb246IHJlbGF0aXZlOyB9Cn0KLiN7JGZhLWNzcy1wcmVmaXh9LWxpIHsKICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgbGVmdDogLSRmYS1saS13aWR0aDsKICB3aWR0aDogJGZhLWxpLXdpZHRoOwogIHRvcDogKDJlbSAvIDE0KTsKICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgJi4jeyRmYS1jc3MtcHJlZml4fS1sZyB7CiAgICBsZWZ0OiAtJGZhLWxpLXdpZHRoICsgKDRlbSAvIDE0KTsKICB9Cn0K
+  BlobID: "d9b06a3a-daf9-4004-ba78-72e30c6eb115"
+  Value: Ly8gTGlzdCBJY29ucw0KLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KDQouI3skZmEtY3NzLXByZWZpeH0tdWwgew0KICBwYWRkaW5nLWxlZnQ6IDA7DQogIG1hcmdpbi1sZWZ0OiAkZmEtbGktd2lkdGg7DQogIGxpc3Qtc3R5bGUtdHlwZTogbm9uZTsNCiAgPiBsaSB7IHBvc2l0aW9uOiByZWxhdGl2ZTsgfQ0KfQ0KLiN7JGZhLWNzcy1wcmVmaXh9LWxpIHsNCiAgcG9zaXRpb246IGFic29sdXRlOw0KICBsZWZ0OiAtJGZhLWxpLXdpZHRoOw0KICB3aWR0aDogJGZhLWxpLXdpZHRoOw0KICB0b3A6ICgyZW0gLyAxNCk7DQogIHRleHQtYWxpZ246IGNlbnRlcjsNCiAgJi4jeyRmYS1jc3MtcHJlZml4fS1sZyB7DQogICAgbGVmdDogLSRmYS1saS13aWR0aCArICg0ZW0gLyAxNCk7DQogIH0NCn0NCg==
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 378
+  Value: 397
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: "application/octet-stream"
@@ -28,8 +28,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170614T063640Z
+      Value: 20191119T101216Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\admin

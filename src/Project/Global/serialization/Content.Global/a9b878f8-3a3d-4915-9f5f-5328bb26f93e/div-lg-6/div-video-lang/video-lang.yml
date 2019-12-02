@@ -1,0 +1,31 @@
+﻿---
+ID: "fede65dc-3ac1-4eab-9a79-56f1d97e4517"
+Parent: "f2bf56b9-ca70-48c3-b01f-0bec31a71db1"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Multi Lingual Youtube/Default-Global/div-video-section/div-video-row/div-lg-6/div-video-lang/video-lang"
+DB: master
+SharedFields:
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-active-language tb-font-bold"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T120731Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: $fieldTokens.GetContextLangFullName($item)

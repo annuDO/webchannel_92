@@ -1,0 +1,42 @@
+﻿---
+ID: "23597773-f4af-4b1c-a941-0f6d7aaae355"
+Parent: "a10f4d0f-7ad8-49b4-958e-e38181f2760b"
+Template: "16625738-0e55-4d79-acd5-a8b1af3e0c8c"
+Path: /sitecore/content/Trelleborg/Global/Home/Creative Exchange/products/product1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{09FA51B2-5E1D-42D4-97A1-C3C588A358DD}"
+              s:ds=""
+              s:id="{C412E2F0-00AC-4CCE-B0B0-4A114BAE9D72}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B95841DFA-FF1C-4C88-BA88-3BD7ACD1FE8F%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191130T063220Z
+    - ID: "3368987a-8529-452c-a678-c9242e624c37"
+      Hint: Icons
+      Type: Multilist
+      Value: |
+        {EDE81560-922D-47E7-AE74-1A33A637DE4B}
+        {C9DE24CA-B880-483D-908B-594A3C628114}
+    - ID: "3a91c7ff-d5f2-4353-98f4-41ef654b7e42"
+      Hint: Title
+      Value: product1
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: product1

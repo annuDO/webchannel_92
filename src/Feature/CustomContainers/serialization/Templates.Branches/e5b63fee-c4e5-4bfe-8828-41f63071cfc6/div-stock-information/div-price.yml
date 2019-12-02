@@ -1,0 +1,25 @@
+﻿---
+ID: "7bb36128-b2df-4f8f-acc0-bd1119813059"
+Parent: "c84a09bc-61d3-4c4a-a635-e027ced4ac59"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/CustomContainers/Default StockInformation Variant/$name/Default/wrapper-link/div-stock-information/div-price"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-stock-price tb-text-align-center tb-hero"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T094123Z

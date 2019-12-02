@@ -1,0 +1,14 @@
+﻿---
+ID: "d4835266-7f7c-48ee-95ba-b8e7c213e1af"
+Parent: "828fdf52-27dd-4cdf-85d0-bfe4314e7c1f"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Styles/Section Intro
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T084639Z

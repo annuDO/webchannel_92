@@ -1,0 +1,27 @@
+﻿---
+ID: "42f0cfa8-c1f8-4fd9-ac2a-cfbe4801bb77"
+Parent: "142a44a9-796b-4899-8feb-3f1a901cf044"
+Template: "ea8a3f26-9ccd-443a-95f5-71b868a94bd0"
+Path: /sitecore/system/Settings/Feature/Trelleborg/Tables/Tables Site Setup/Add Available Renderings
+DB: master
+SharedFields:
+- ID: "4795a7c6-08a9-4248-86c3-d460062c3a22"
+  Hint: Location
+  Type: Treelist
+  Value: "{84179507-91A2-47EA-A424-9D338F64C953}"
+- ID: "e62c28f0-9d3b-46e2-8bec-a5e120542499"
+  Hint: Template
+  Type: Treelist
+  Value: "{3BE8F260-A3AC-408F-814B-DD0A6F39784C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191130T054851Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

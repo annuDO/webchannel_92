@@ -1,0 +1,14 @@
+﻿---
+ID: "5990866b-8cd6-4be8-90af-b8bd1fdeb0f9"
+Parent: "437a9f49-c591-4acd-a201-059cb1489285"
+Template: "6bf19f1c-da51-477f-b7d9-b49b41fd1578"
+Path: /sitecore/content/Trelleborg/Global/Home/Overlays/1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T143221Z

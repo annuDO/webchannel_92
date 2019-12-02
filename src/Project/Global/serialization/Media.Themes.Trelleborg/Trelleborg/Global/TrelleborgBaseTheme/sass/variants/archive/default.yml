@@ -1,16 +1,16 @@
 ﻿---
-ID: "ae6558ce-e9d6-46a1-9c57-82dd63360795"
-Parent: "b0c2b9bf-fb18-4187-baf1-bbcb340cb43d"
+ID: "2f88ded4-4ea0-448c-aa29-3eba7a59020c"
+Parent: "a75f8e1b-8c02-4b8b-8d79-b61d5157e22e"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/variants/archive/default
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/450BBC66EA0B47818858E0F5EEA61FDD.ashx?h=16&thn=1&w=16"
+  Value: "-/media/2F88DED44EA0448CAA293EBA7A59020C.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "c9588419-9ff1-43dc-8b79-030cf55788d4"
+  BlobID: "67deb778-ce90-48ed-abf9-036d223e2d19"
   Value: DQo=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
@@ -28,8 +28,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170613T150626Z
+      Value: 20191119T101241Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\admin

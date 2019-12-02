@@ -1,0 +1,25 @@
+﻿---
+ID: "cff8e5d7-2c1e-4d90-9f79-fc8842ae5af5"
+Parent: "3be240a1-dd85-44b1-ad96-0ce562cfb2f8"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Stock Information/Default/wrapper-link/div-stock-information/div-high-low/div-volumn/div-stock-number"
+DB: master
+SharedFields:
+- ID: "a4d004e6-2a4b-4c53-a4f3-9c481df71cdc"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-stock-number tb-pb-2"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T104536Z

@@ -1,0 +1,44 @@
+﻿---
+ID: "ea7df862-104c-4c9c-9e67-722e2616cd48"
+Parent: "c9326ca7-bf82-4121-a8bb-b8b336cbcadb"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Foundation/Trelleborg/Icons/product-grey-icon-4"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/5DC4977E28684E1986FD895C80B1803D.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 37
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "0aebd5f0-2a83-4892-8355-333b012afa01"
+  Value: iVBORw0KGgoAAAANSUhEUgAAACUAAAAmCAYAAABDClKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAALrSURBVHgB7VjPj9JAFJ5Cu7F72IPsgYOE4AGNmEjCryAciF79lz0JEkCSPbgeSIwJ28TlwEEOS0IL+H2kNe04ZVsDxQNfQmjfvJn5+ubNe/NGE3tQr9czhmEU8GhqmrZYr9eTfr+/DNNvNBpXm83mOfo8xesS+neDwcASMZEOa6hWqxz8pW3b37fbrYUJnqRSqde5XO7esixHRSidTlehO0efbxAtdF0v5fN5YzqdzkUM6GENtBAm+DwajTzLLGA5AdkLPN/I+iBcA/Gvw+Fw5ooeKpXKp4uLi3foN4c8MrGUSthsNk3+y0sFS9zh6zMh+jqWauaXj8dj23EcLt+ViIGUOBwclRC+aOPPEDFwSFIHw39Jaufo3Pows+kJ4bAG/EfHjnrmV8Z2t+HQ4tj4s/swWVlu9MtA+gFkv4gEsPtsblcGxn2KCAV9kLRFUqQIEJuAmDKWYCn3RvKjkXInZ1AMWIOpotvtTkSCCJCiNfx+Qz+ilUTC+Gsr0b8QhX/wmX6U5LJ50Pwv/hCAdJIFuXt/O0gyVBQRGm6jyL1x+C+PJfVf+nNjICEzBLi5SqxWK6aN68AXaNpOH5NfywOj30zWd2GG9SGQ+E2cKrgaalIETgU3IgRu4n27T0cGAnPRHVfpm+7qBAifc19UnElFxZlUVASCJ7b8B3ECMDbGCTMBME7h917VxnjkxaTH5Byn3W6/ESE4yfIhM7Acy4FsQdWeOClaDbluV3IhX5ZYxIpTkmItwMTtl7GI7XQ6wRwsEgL9CITKiiYm5PJJSMGPOLGpasMJIuv3r0RIwUI5+FHmEZ2i51+6SAA857Mw8d69IxBOtR9V+uc0ExWxSLlHZN27KpLA0v+XLIQTOzjyBm5dsJyXrJTEIUjxvomVNGJL1SPGGNNqtUooEEz5fooAn5/cXX593vDRz8Lm0cQ/gFEZu6XAuydWMphgwUI2rByr1WpZkHvFZ+rjo6xer3crjgFcH17K0fgQ+r8BfQNUTH77yccAAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 854
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 37 x 38
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 38
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T110135Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

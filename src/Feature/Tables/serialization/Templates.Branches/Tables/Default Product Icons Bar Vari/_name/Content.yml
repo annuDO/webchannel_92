@@ -1,0 +1,14 @@
+﻿---
+ID: "e713dccf-31ff-4b01-92f3-50cacbf8eb1e"
+Parent: "ab4d63ea-876e-4f64-8cd2-05e3541d8f39"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Tables/Default Product Icons Bar Variant/$name/Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160426T130642Z

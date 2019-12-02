@@ -1,0 +1,25 @@
+﻿---
+ID: "a7044f4d-736b-49d4-bf28-437c904b5268"
+Parent: "7b71c636-5e98-4d42-b5ee-9251291fe6dd"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/Addresses/Default/div/div/addresses/address-body/address-details/address/country/value"
+DB: master
+BranchID: "12d6e2bb-6c0f-46f4-a0ba-ebe8a3af5c0b"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: 
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{AC2CE49F-B485-46B5-BDC6-363ED2CE7FB6}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T052606Z

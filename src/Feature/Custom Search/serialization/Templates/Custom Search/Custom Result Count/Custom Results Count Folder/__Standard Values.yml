@@ -1,0 +1,25 @@
+﻿---
+ID: "99954db4-bb2a-44cf-9942-8cd8d7682e2e"
+Parent: "7e5ea96b-a247-450e-90ce-9b55f5c1c166"
+Template: "7e5ea96b-a247-450e-90ce-9b55f5c1c166"
+Path: /sitecore/templates/Feature/Trelleborg/Custom Search/Custom Result Count/Custom Results Count Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {41584669-1ABC-4F1C-AA34-D30654CFE54C}
+    {7E5EA96B-A247-450E-90CE-9B55F5C1C166}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160606T083143Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,19 @@
+﻿---
+ID: "5103de10-d444-424a-be35-187c549f1424"
+Parent: "93fb3959-493e-4f59-93f8-ce2b630d5984"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/CustomContainers/Default StockInformation Variant/$name/Default/wrapper-link/div-stock-information/div-high-low/div-volumn"
+DB: master
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T104511Z

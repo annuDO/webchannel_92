@@ -1,0 +1,53 @@
+﻿---
+ID: "f9561087-3e78-44fe-a085-8ac943358c32"
+Parent: "d30283ab-696d-48ee-b2e2-9013c961d55a"
+Template: "070a64fa-5f1b-40cc-83cb-3ce05d1895fc"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Addresses/Default/div/div/addresses/address-body/address-image/Responsive Image"
+DB: master
+SharedFields:
+- ID: "42a44ce6-94cc-432b-bc69-39867351207c"
+  Hint: Sizes
+  Value: "(max-width: 767px) 288px, (max-width: 1023px) 251px, 387px"
+- ID: "64c4a943-ee2a-43ae-bf6a-e249b52cd8b5"
+  Hint: Widths
+  Value: 288,251,387
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{A6051B92-F6FD-413E-87EE-4C74B35A24AC}">
+        <conditions>
+          <or
+            uid="2935A909577E4513B6AC2AE2E7A18872">
+            <condition
+              id="{DA0D1AEA-0144-4A40-9AF0-3123526C9163}"
+              uid="824AEF0F764E416FA15C5FD255B2030D"
+              fieldname="Image"
+              except="true" />
+            <condition
+              id="{7B271A53-96BA-4653-B7D8-2B5F880D1D2D}"
+              uid="85AAF6CAEA0A46C794B0FAD949E80794" />
+          </or>
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "df178dc4-b83d-46ec-8d4f-9de85e2c996c"
+  Hint: FieldName
+  Value: Image
+- ID: "e4c798fc-30e5-46ed-990e-bcddbf3444a1"
+  Hint: DefaultSize
+  Value: 387
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T103007Z

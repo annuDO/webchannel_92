@@ -1,0 +1,31 @@
+﻿---
+ID: "477c7888-17cf-4eec-8969-ff67e4269841"
+Parent: "0dd8d7e3-fcf4-4840-a39b-89e5e0d7e28c"
+Template: "8f8e2549-c77f-4860-b83b-54fa31e2befa"
+Path: /sitecore/system/Settings/Validation Rules/Field Rules/Trelleborg/Rich Text Max Length 700
+DB: master
+SharedFields:
+- ID: "43a829d1-43da-465c-b772-ebaa0d515e3e"
+  Hint: Type
+  Value: Trelleborg.Foundation.SitecoreExtensions.ValidationRules.RichTextMaxLengthValidation,Trelleborg.Foundation.SitecoreExtensions
+- ID: "8f9d8603-2e34-4c5f-b0bb-f0d91eb956ca"
+  Hint: Parameters
+  Value: MaxLength=700
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20061123T130758Z
+    - ID: "58014183-26fe-4568-b19f-c26745824c32"
+      Hint: Description
+      Value: Field must contain maximum 700 characters.
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "da43c533-cbae-43d0-9019-65b1e346f984"
+      Hint: Title
+      Value: Has maximum length of 700

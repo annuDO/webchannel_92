@@ -1,0 +1,39 @@
+﻿---
+ID: "ab9f47da-09ae-4e04-bda5-4c3819a69d2a"
+Parent: "020ddab1-e0c0-4b8a-a554-84d7eb304d25"
+Template: "020ddab1-e0c0-4b8a-a554-84d7eb304d25"
+Path: /sitecore/templates/Feature/Trelleborg/CustomContainers/Stock Information/StockInformation/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "09e6806f-d395-4118-a448-d8602b64b21e"
+      Hint: Low
+      Value: Low
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T070048Z
+    - ID: "281dbf6d-55b9-436e-9347-c5b00d7c20a8"
+      Hint: High
+      Value: High
+    - ID: "3fbf2671-f9d1-4069-baaf-abd8ad45b811"
+      Hint: Quantity
+      Value: Volume no. of shares
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "6d1ba8a6-6765-4a02-aa69-448027ecaf44"
+      Hint: Ticker
+      Value: Ticker
+    - ID: "6ebc73c5-89f3-4066-a150-fe0500875e43"
+      Hint: Header
+      Value: Share Price, SEK
+    - ID: "aa2f4e6b-9bf1-4cba-b859-a9a6a06f25ee"
+      Hint: Delayed
+      Value: Delayed by
+    - ID: "bacb2c10-f4c8-4649-b602-9f8660457ab6"
+      Hint: Updated
+      Value: Updated

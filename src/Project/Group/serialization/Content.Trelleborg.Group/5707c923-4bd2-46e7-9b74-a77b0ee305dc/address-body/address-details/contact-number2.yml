@@ -1,0 +1,35 @@
+﻿---
+ID: "ae01c537-bdba-44ae-bd05-1cab6960dd59"
+Parent: "a3a5ba4a-ff52-436e-b665-e9001548cca9"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/Addresses/Default/div/div/addresses/address-body/address-details/contact-number2"
+DB: master
+BranchID: "12d6e2bb-6c0f-46f4-a0ba-ebe8a3af5c0b"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Phone2
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "tb-address-contact-number"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D88B6BF9-4493-4DF1-A639-33282E1DB87A}"
+- ID: "fe56eae5-d6a1-4703-92f7-4862da6deac8"
+  Hint: RenderIfEmpty
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T052606Z
+    - ID: "fd5230d8-e68d-4e17-9d85-ea676f27ac3a"
+      Hint: Prefix
+      Value: "Mob: "

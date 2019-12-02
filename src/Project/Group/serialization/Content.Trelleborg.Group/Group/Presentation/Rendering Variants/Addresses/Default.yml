@@ -1,0 +1,19 @@
+﻿---
+ID: "dd835b38-ef95-49e4-96f0-5fe698c80b93"
+Parent: "fc39eb42-33b1-495d-b260-440f060a414e"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/Addresses/Default
+DB: master
+BranchID: "12d6e2bb-6c0f-46f4-a0ba-ebe8a3af5c0b"
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8F187ECD-E45B-49F3-B600-32A33C168B60}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T052558Z

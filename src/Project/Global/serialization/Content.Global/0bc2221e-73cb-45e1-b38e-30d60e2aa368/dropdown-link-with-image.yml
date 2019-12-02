@@ -1,0 +1,25 @@
+﻿---
+ID: "638e9dff-66fe-470a-b079-e335e81e875e"
+Parent: "0bc2221e-73cb-45e1-b38e-30d60e2aa368"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/DownloadList/dropdown-link-with-image"
+DB: master
+SharedFields:
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: horizontal
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{43CCA961-52EC-4AEB-8204-EDF5AE5ACF6D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T084525Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

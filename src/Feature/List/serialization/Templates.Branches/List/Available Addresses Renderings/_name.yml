@@ -1,0 +1,27 @@
+﻿---
+ID: "170339a1-8441-4f05-902a-6c10e68553b6"
+Parent: "1ca12bcd-0cf7-456d-842a-00e2f77304d3"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/List/Available Addresses Renderings/$name
+DB: master
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: |
+    {28464107-7C32-49BD-BF3D-FD07AACEBB74}
+    {612AFECF-6074-40C5-9BCA-8CEB7497DB05}
+    {DAE80984-1C08-4CCE-B05E-15F8FEE37A6E}
+    {0A10CD0E-9B4E-44E2-BA16-1C333D725AD1}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20171113T104335Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,40 @@
+﻿---
+ID: "2c71b065-3967-4659-9f02-4861a799dda6"
+Parent: "0dfe1788-b1ca-4300-a188-4411ec03b392"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/DownloadList/dropdown-link-without-image/div/ListItems/Section/AsideLink/div/Select"
+DB: master
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{AEC8E7D5-EF12-4623-A9CD-07FC6F6D24B4}">
+        <conditions>
+          <condition
+            id="{5CD2292C-32AC-4976-AA4F-A741555D22F8}"
+            uid="0136567A5A1D407DB1BD90B270D9D4FE"
+            query="./*" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "a4d004e6-2a4b-4c53-a4f3-9c481df71cdc"
+  Hint: Tag
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 363
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T103601Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

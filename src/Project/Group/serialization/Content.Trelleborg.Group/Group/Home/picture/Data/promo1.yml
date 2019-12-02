@@ -1,0 +1,26 @@
+﻿---
+ID: "5b9a9f4d-b1e5-4833-a80a-dba5e3872889"
+Parent: "4051ae2c-2fcb-4419-973b-62cb2964d74d"
+Template: "324733cf-afec-4281-9a18-03b6cfc4e535"
+Path: /sitecore/content/Trelleborg/Group/Home/picture/Data/promo1
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image mediaid="{3CC85C01-103A-46A0-B98B-EE0BFBBD7376}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191003T072607Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "82a6ce45-59b5-4bc8-83b9-79ccb8174a2a"
+      Hint: PromoIcon2
+      Value: |
+        <image mediaid="{76EBBD30-8521-4152-AC50-F6B8E9E37AE6}" />

@@ -1,0 +1,30 @@
+﻿---
+ID: "38c2538b-ac82-47d2-a03e-0e7b330b96d8"
+Parent: "659359f0-5ead-498d-8e3e-758445cda1b7"
+Template: "2ad23d55-aecd-43dd-ae0d-72d2ebcba60f"
+Path: /sitecore/content/Trelleborg/Global/Data/Plain HTML/Icons/Footer/Facebook
+DB: master
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "24cce27c-05db-4473-a1ed-e69b1725ff1c"
+      Hint: HtmlCode
+      Value: |
+         <svg width="32" height="32" viewBox="0 0 32 32" fill="none">
+                                         <path d="M32 0H0V32H32V0Z" fill="#998242"/>
+                                         <path d="M27.464 14.6978L26.9724 19.3466H23.256V32.8364H17.6737V19.3475H14.8906V14.6986H17.6737V11.8995C17.6737 8.1182 19.2453 5.85864 23.7146 5.85864H27.4311V10.5075H25.1066C23.3715 10.5075 23.2568 11.1618 23.2568 12.3742V14.6986H27.464V14.6978Z" fill="white"/>
+                                      </svg>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T113621Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

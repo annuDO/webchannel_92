@@ -1,0 +1,29 @@
+﻿---
+ID: "991bafdf-f9a9-4b3f-aea4-0133fad8adb9"
+Parent: "b87d64e1-9cd4-453b-b99c-44a0f003d131"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/GenericMediaElement/Default/wrapper/GMHeadline
+DB: master
+BranchID: "47373666-08db-4215-9708-48e90e54488b"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: GMHeadline
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2F20D083-E7AD-4C50-9C53-209DAFB76023}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191117T115046Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,20 @@
+﻿---
+ID: "cf9654fb-71d6-4ccc-bef1-0105842a176d"
+Parent: "382ac991-39db-426d-b28e-e1663af4726b"
+Template: "5478b50e-d0da-40c7-8778-bdcc85651531"
+Path: /sitecore/content/Trelleborg/Global/Data/Footer/Footer/Youtube
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T115321Z
+    - ID: "58dea3f2-6539-40b3-b67c-f9a6f7f74551"
+      Hint: Icon
+      Value: "{8D5C6D84-923E-49F9-862B-594168CAA7ED}"
+    - ID: "59680110-ea24-4c2a-91de-7ffe3559f23b"
+      Hint: Title
+      Value: "Youtube Channels :"

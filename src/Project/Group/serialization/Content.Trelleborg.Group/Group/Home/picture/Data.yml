@@ -1,0 +1,18 @@
+﻿---
+ID: "4051ae2c-2fcb-4419-973b-62cb2964d74d"
+Parent: "76abec3b-b96f-4db5-8e30-35ea6e5c50f5"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Trelleborg/Group/Home/picture/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191003T072607Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

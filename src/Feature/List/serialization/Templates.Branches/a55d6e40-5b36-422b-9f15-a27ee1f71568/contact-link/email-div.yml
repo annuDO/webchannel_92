@@ -1,0 +1,41 @@
+﻿---
+ID: "d15c3744-7241-4adb-907a-ed070490e63f"
+Parent: "2f9c9db5-f9d9-4c15-a243-1d342ad66d94"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default Addresses Variant/$name/Default/div/div/addresses/address-body/contact-link/email-div"
+DB: master
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{6C63F6C9-C43F-4EFA-8F1B-3755E5854BFE}">
+        <conditions>
+          <condition
+            id="{61C016A2-5210-4F1D-A663-BDA18BE487F6}"
+            uid="1468943D906F4DCABFAE95249034725E"
+            fieldname="Email"
+            operatorid="{A6AC5A6B-F409-48B0-ACE7-C3E8C5EC6406}" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-address-contact-link-item"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T094722Z

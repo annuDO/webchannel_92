@@ -1,0 +1,22 @@
+﻿---
+ID: "4bf69d7c-2f03-43bb-b465-88de84495fa9"
+Parent: "dc549584-ea2a-4599-989c-00ba3c45c0a0"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default AddressList Variant/$name/Default/div/load-more-section"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T091719Z

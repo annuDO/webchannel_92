@@ -1,0 +1,25 @@
+﻿---
+ID: "9739be78-3401-4fe1-baa7-fad898cf1548"
+Parent: "a969810b-d188-4cf8-9ea4-764d9efe4e36"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Trelleborg/Global/Pages/Article Page
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: applications/32x32/document_notebook.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Type: tree list
+  Value: "{76F5E8D9-12A3-448C-BDF4-C42EDA49A2A5}"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{85334DCF-9262-45B8-BB6D-55757C329429}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T095857Z

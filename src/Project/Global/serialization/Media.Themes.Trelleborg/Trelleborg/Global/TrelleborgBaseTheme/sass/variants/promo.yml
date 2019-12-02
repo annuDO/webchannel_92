@@ -1,5 +1,5 @@
 ﻿---
-ID: "19f3df89-5e15-4ee2-9059-67e5d14f3654"
+ID: "514cd7ce-754e-4179-97e4-8a0a626f51cc"
 Parent: "d2d3b1dc-5ba4-4d7c-9353-0ab9a1fe692a"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/variants/promo
@@ -11,7 +11,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20180103T100047Z
+      Value: 20191119T101246Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

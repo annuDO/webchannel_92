@@ -1,0 +1,19 @@
+﻿---
+ID: "c8c63078-d072-4560-b2c4-df1b3b2431dc"
+Parent: "ab4d63ea-876e-4f64-8cd2-05e3541d8f39"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Tables/Default Product Icons Bar Variant/$name/Slide
+DB: master
+SharedFields:
+- ID: "696c70e2-eb4e-425d-81e4-802bab6a03cf"
+  Hint: AllowedInTemplates
+  Type: Multilist
+  Value: "{142E5FC1-EC62-4540-BAD9-CD88F337CD2E}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160718T091318Z

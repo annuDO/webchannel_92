@@ -1,0 +1,22 @@
+﻿---
+ID: "e9119eab-dba7-4c20-8f1d-fe10b290af4d"
+Parent: "eb200c07-4d5a-4aac-a5dc-afaf121af1e9"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Media/Default YouTube Variant/$name/Default
+DB: master
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9B7320B1-0ED0-49A2-A6E6-C2C87A556D6E}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T115911Z

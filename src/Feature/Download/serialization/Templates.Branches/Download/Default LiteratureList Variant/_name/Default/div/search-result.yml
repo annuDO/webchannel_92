@@ -1,0 +1,32 @@
+﻿---
+ID: "e4c94604-0a8b-415f-b1d0-bba92def27d2"
+Parent: "e4d16a45-dece-4926-bc4f-cf764149ef72"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/Download/Default LiteratureList Variant/$name/Default/div/search-result"
+DB: master
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "Placeholder=main&FieldNames=%7b0C3F4F5C-7777-4487-AFA5-E3D705F7CA56%7d&Scope=%7b86009924-6D16-4AAA-A773-1DD6F56688FC%7d&PageSize=50&DefaultLanguageFilter=%7b454E70DB-4ED7-4AAF-89B0-A4BB67DA5835%7d&DefaultSortOrder=%7b373C815B-6C89-4D8B-9B23-7F647EDF9975%7d&AutoFireSearchWhenNoCriteriaSet=1&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: 
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191117T132753Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

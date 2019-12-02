@@ -1,0 +1,20 @@
+﻿---
+ID: "b175ee8f-1af6-4c03-91f7-521feda9f164"
+Parent: "4e8a45f3-7dfd-4051-8dad-d0006b7706fe"
+Template: "c7708324-06be-4cdb-a884-947cfe19df04"
+Path: /sitecore/content/Trelleborg/Group/Home/addresses/Data/test
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f04a551-ccaa-4c95-9767-fe9e7f05a90f"
+      Hint: Title
+      Value: Test
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T053132Z
+    - ID: "ca67df64-5020-4983-be14-a9a9347f40b3"
+      Hint: Addresses
+      Value: "{8FD418CF-E555-4ED5-8558-A943404883CB}|{EE8EDF55-4F04-402F-975E-034D08EC89F9}"

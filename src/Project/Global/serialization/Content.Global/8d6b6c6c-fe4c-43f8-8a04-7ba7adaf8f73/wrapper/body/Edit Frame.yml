@@ -1,0 +1,18 @@
+﻿---
+ID: "8105bd9d-9e98-4d96-88dc-870212772bd8"
+Parent: "793e3256-40e4-477d-98ab-806489c0fd89"
+Template: "98e1c490-65e2-4f23-a4fd-d2d496cb387b"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/GenericMediaElement/WrapImageLeft/wrapper/body/Edit Frame
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T210759Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

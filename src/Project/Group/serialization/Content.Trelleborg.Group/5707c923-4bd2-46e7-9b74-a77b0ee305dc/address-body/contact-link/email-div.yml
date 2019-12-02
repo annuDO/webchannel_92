@@ -1,0 +1,41 @@
+﻿---
+ID: "821ba628-abfc-4150-bad1-d3b440bf174d"
+Parent: "dd39efe0-d76d-41d5-acc9-75c317d2fbb5"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/Addresses/Default/div/div/addresses/address-body/contact-link/email-div"
+DB: master
+BranchID: "12d6e2bb-6c0f-46f4-a0ba-ebe8a3af5c0b"
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{6C63F6C9-C43F-4EFA-8F1B-3755E5854BFE}">
+        <conditions>
+          <condition
+            id="{61C016A2-5210-4F1D-A663-BDA18BE487F6}"
+            uid="1468943D906F4DCABFAE95249034725E"
+            fieldname="Email"
+            operatorid="{A6AC5A6B-F409-48B0-ACE7-C3E8C5EC6406}" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-address-contact-link-item"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{8A3394ED-F665-4670-889E-FDC42C9EE7A0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T052607Z

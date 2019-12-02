@@ -1,0 +1,18 @@
+﻿---
+ID: "618fb359-c5dd-4b9a-bf4e-7ecc20eb83b0"
+Parent: "a0f389fc-eebc-485c-8f65-d9693dcdb461"
+Template: "29252703-d448-451c-bf1e-65b16174f4b0"
+Path: /sitecore/content/Trelleborg/Global/Data/Content Tokens/Dictionary/TWS/TireSelectorWizard/Step3
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T213431Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

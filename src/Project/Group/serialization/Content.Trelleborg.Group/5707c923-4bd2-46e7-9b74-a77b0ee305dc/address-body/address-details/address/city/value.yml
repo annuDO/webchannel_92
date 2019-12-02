@@ -1,0 +1,28 @@
+﻿---
+ID: "6f7b8c46-e77a-4c4a-8f36-a0faa2a8ebd1"
+Parent: "4c3a21f5-7a94-4a6c-9dfc-7d9a6b51a4a0"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/Addresses/Default/div/div/addresses/address-body/address-details/address/city/value"
+DB: master
+BranchID: "12d6e2bb-6c0f-46f4-a0ba-ebe8a3af5c0b"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: 
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{62FC0816-BD28-4125-844B-37B963E47A2B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "15867cb6-e128-4d78-9d4f-739e5963dfc4"
+      Hint: Suffix
+      Value:  ,&nbsp;
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T052605Z

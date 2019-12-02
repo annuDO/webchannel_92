@@ -1,0 +1,28 @@
+﻿---
+ID: "4778f47a-7001-4aed-8c63-df84bb92b972"
+Parent: "08482171-e925-40b3-a993-cab1d784e351"
+Template: "790c0f2c-1621-4604-a6c6-72b9f8ae830d"
+Path: /sitecore/content/Trelleborg/Global/Data/Search/Dropdown Filter/ArticleList/ArticleYear
+DB: master
+SharedFields:
+- ID: "38d3de1f-f23c-4587-ae30-06ec5ed73e82"
+  Hint: Facet
+  Value: "{2222E84E-1E0B-4841-8CC8-9B78AFE9FA28}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T082617Z
+    - ID: "57008eba-acb7-4f86-a239-57c8027c2afe"
+      Hint: RemoveFilterText
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "938c972b-02ac-4cc1-a79e-d262ba7f2344"
+      Hint: UnselectedText
+      Value: Year

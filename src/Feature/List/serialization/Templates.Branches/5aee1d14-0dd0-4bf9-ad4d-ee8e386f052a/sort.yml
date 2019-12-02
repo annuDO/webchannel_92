@@ -1,0 +1,22 @@
+﻿---
+ID: "d8a0edc7-b8c3-4828-99a7-f101e1de0004"
+Parent: "5aee1d14-0dd0-4bf9-ad4d-ee8e386f052a"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default AddressList Variant/$name/Default/div/header-section/filter-section/sort"
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-addresslist-filter"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T105359Z

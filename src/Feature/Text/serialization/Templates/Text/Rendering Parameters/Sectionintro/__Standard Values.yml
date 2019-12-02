@@ -1,0 +1,18 @@
+﻿---
+ID: "1c9ead13-dbd6-4e2d-8e08-fa49c16f6fc0"
+Parent: "13a45b66-5774-458b-8fee-7aae4cf7b906"
+Template: "13a45b66-5774-458b-8fee-7aae4cf7b906"
+Path: /sitecore/templates/Feature/Trelleborg/Text/Rendering Parameters/Sectionintro/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120629T104300

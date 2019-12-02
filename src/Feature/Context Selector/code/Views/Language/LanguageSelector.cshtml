@@ -1,0 +1,39 @@
+
+
+@model Trelleborg.Feature.ContextSelector.Models.LanguageSelectorRenderingModel
+
+@{
+  if (Model.SupportedLanguages.Count <= 1)
+  {
+    return;
+  }
+}
+
+<section id="tb-language-selector" class="tb-language-selector">
+  <div id="tb-language-selected" class="tb-language-selected">
+    @Model.ActiveLanguage.Name
+    <svg viewBox="0 0 16 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M8.02241 14L0 0.438871L0.761905 0L8.02241 12.2445L15.2381 0L16 0.438871L8.02241 14Z" fill="#393939" />
+    </svg>
+
+  </div>
+  <div class="tb-language-overlay" id="language-menu">
+    <ul class="tb-language-dropdown-menu">
+      @foreach (var language in Model.SupportedLanguages)
+      {
+        <li>
+          <a href="@language.Href">
+            <span class="tb-language-lang">@language.Name</span>
+
+            @if(!string.Equals(language.TwoLetterCode, "en"))
+            {
+              <span class="tb-language-seprator">|</span>
+              <span class="tb-language-local">@language.NativeName</span>
+            }
+
+          </a>
+        </li>
+      }
+    </ul>
+  </div>
+</section>

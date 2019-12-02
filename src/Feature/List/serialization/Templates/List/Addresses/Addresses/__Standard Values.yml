@@ -1,0 +1,23 @@
+﻿---
+ID: "8fa4f962-bc24-49ac-bffe-f04dd0340142"
+Parent: "c7708324-06be-4cdb-a884-947cfe19df04"
+Template: "c7708324-06be-4cdb-a884-947cfe19df04"
+Path: /sitecore/templates/Feature/Trelleborg/List/Addresses/Addresses/__Standard Values
+DB: master
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T071639Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

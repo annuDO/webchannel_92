@@ -1,0 +1,25 @@
+﻿---
+ID: "948c6892-221d-4804-93f4-aa87d3fcc722"
+Parent: "3f960607-6177-4806-9088-923b5748d39f"
+Template: "7d659ee9-d487-4d40-8a92-10c6d68844c8"
+Path: /sitecore/content/Trelleborg/Global/Data/Content Tokens/Dictionary/Widgets/PasswordUpdate/confirmAccountDelete
+DB: master
+SharedFields:
+- ID: "02f6fb63-fe92-44e8-afa2-20747c893502"
+  Hint: Key
+  Value: confirmAccountDelete
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b9d1028-c20c-407b-9dcd-affe86a6f793"
+      Hint: Value
+      Value: "Are you sure you want to delete your Account?"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T213440Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,18 @@
+﻿---
+ID: "499523ee-e27e-43b5-855d-6c738f975d39"
+Parent: "fb1d2c2b-5168-4d4a-8221-c91e3e5be084"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Tables/Default Product Icons Bar Variant/$name/Heading/Heading
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Heading
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160426T130650Z

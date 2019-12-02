@@ -1,0 +1,26 @@
+﻿---
+ID: "f58da35a-9286-43ac-8fb4-48c192a1fce1"
+Parent: "e7c7df4a-77b2-4cd3-b2cc-c369f214b060"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Styles/Image Scaling/Center Top
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: Center Top
+- ID: "69bb49f3-da64-4b0e-abd6-184b832ff6ab"
+  Hint: Allowed Renderings
+  Type: TreelistEx
+  Value: "{4E84D9F6-354C-4FCC-B476-95BA08B87187}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T133542Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

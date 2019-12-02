@@ -1,0 +1,50 @@
+﻿---
+ID: "3a8250da-7ab0-4764-8110-d5bd388406ae"
+Parent: "e24dda04-4ffd-4d4c-97ca-bdaa0648ed57"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default Addresses Variant/$name/Default/div/div/addresses/address-body/address-details/company-name"
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: CompanyName
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "tb-address-contact-name"
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{A60860E0-FA30-47E6-9051-071C5F70FFF7}">
+        <conditions>
+          <condition
+            id="{DA0D1AEA-0144-4A40-9AF0-3123526C9163}"
+            uid="D7267233059F43CF85F8B726B86FF5C8"
+            fieldname="Name" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{AD7A95FD-05D0-484E-8AFB-FB1DDD5F44AB}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+- ID: "fe56eae5-d6a1-4703-92f7-4862da6deac8"
+  Hint: RenderIfEmpty
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T070801Z

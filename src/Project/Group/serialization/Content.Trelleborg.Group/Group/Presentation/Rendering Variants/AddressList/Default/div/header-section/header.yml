@@ -1,0 +1,28 @@
+﻿---
+ID: "df548540-7473-4c5f-8135-474d39e3300c"
+Parent: "50496e7a-fdbe-4b51-bace-92ae34fd3515"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/AddressList/Default/div/header-section/header"
+DB: master
+BranchID: "2037d7c2-630b-4b16-bf13-57c3d01d64ac"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Header
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "tb-addresslist-title"
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{7FF0B09B-8AAA-469B-8A56-4743E61705EC}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{585E965A-9909-4CA3-BF13-C655BDAC42A0}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T052621Z

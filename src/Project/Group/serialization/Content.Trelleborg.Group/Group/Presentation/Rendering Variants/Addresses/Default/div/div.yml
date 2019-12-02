@@ -1,0 +1,22 @@
+﻿---
+ID: "ec7b2035-53a5-4e59-8c63-9410c190bdec"
+Parent: "c7d6361b-3139-4a61-b3d8-0a12dee8b09a"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/Addresses/Default/div/div
+DB: master
+BranchID: "12d6e2bb-6c0f-46f4-a0ba-ebe8a3af5c0b"
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "col-sm-12 tb-address-section"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{323DA667-0831-44ED-B2D7-7829ABB3F30C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T052559Z

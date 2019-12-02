@@ -1,0 +1,44 @@
+﻿---
+ID: "c5daa998-c760-44ad-9a11-52b5935b65f3"
+Parent: "e9dca754-f133-4889-805b-8bd320868c17"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/images/icons/ill_excavator_bg_rgb 1
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/C5DAA998C76044AD9A1152B5935B65F3.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 56
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "605cdea6-2cde-40c0-b6a6-a5bfcf385ffe"
+  Value: iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAYAAACohjseAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAS0SURBVHgB7Zl7aBxFHMe/sxevxrZaYi1pfDRisSBWg/UPFS1pqqLiA9Q/lFo5RW0V0VKVipYmMWoVKopC7UNIVIqvCq1VUdRY8YGIaH384aPSpIVSRaQ0wdTL3Y7f385sb3u9u9xebnNJ2Q982L3Z2ZudnfcsEBMTExMTE3PUolA7jqeb6UkYHRl6G/0Z44xpdBfVVfC1YonUoTgX0CWonNfph2XG3Uq3Izzn0hS9ip5Jfwtzcwqje6s/0RNL/H+wBJehMurpXvsfLxaKUIeR2U8/oAcDYa20mf5Cv86Ln6RX07PpcvooymcevRjh+J3OpDfSfjpEP6M7RroxBfNm5C1Py7vWY6/1FLn3KXt9mJ5WJE6hElyG6rTJe/1EyinBSlgL07PNoI/YBDMh7nfp7iLXptMpNA1TPYPIy3TooB/gIBrk4dbY8ztgqmwYfqSnF3GzjfN+XviVMKUnHMp4VBkUXoZpBwmYdhhVbfGZZ9MaoDv9wCgz+Bdybet8mCobJbfao3R6/X5glBkUpDfrtef3wbSfKJAxsM2ev0mz/oWoMyhIKUppyrDRheozmW6EaQJ76KbgxbHIoAz43fb8ThQfNipBxtzVdD5MzyvD01Awwmgb/oX02TLizbAPIJ3A2/QLeizMhFu4js6CmXoJTYH/fZj+V+A/ZXCX2cvt9veTdANCkMLIA/1YmJ92d4E476FIbay0BGVpshXRMRW5TqMUMlNqR27mFIoUipdg1LSidAlKdf+cXoMR1rRRD75RIDXnJfoVyii1iZjBLWEij8UwUVPiDE50ymmDMn98AeHWc6PlFFSJcjIoi8tbMEEplcE+mBlLI73UhkkPNojokAm5LK3+pu/asMhrTgvMBHbInkeJvyfzPapEqRKUiXAznQMzSc7a8yhpskdJT16m7LvstMeqcQnMNqEeJ8q2paz3ZqIC8udxl8Fsg/sbtjKZzaJ2TELuGb+h19I/EYJgBmXZ/zE9FaaDeYB+iypXj5BIDy57OUtpA/2IXo4K6UCuSpyH8cX9MM8mq4gzwtwY7GQW2OOr9Ds/cG3XgjkOnB6lkcim3cX3PP7pr+sea1uplLqByW1b0v7Jqo0dC89xE942IfYnJ89fseKdgfVdba+wgsx1VXbN3Su3b1rXsfAKlcBqpfXeY1x3URpT0irx71saqkm7+vml7b3dGzpbF2kn8SDj7LprVe/1gWeTJdJD9GSYpdQfqCCD/vbBnsMiZHW9drQ3POg6Xe8dtZ6tvF5O/yC/M8g2ONrx4iSHDiTMnWouI7Yw3Pv+p6Eb+ZJaePTWd0kMJtPaOYtXmpXCCV4cxbi8R+sjlngHYPY7hakIQTCD++xRqqeCXWs5mLQ7g+EnTOThf7wwrbe4UH3KcfyPjn2uRqecHIeBtH0J67VGY0JnpHNgYbs7oJ3OhFKD/dAHZ3lheIapTNeu433AcV2u8RQ6ldL78p5T+gV/+taHClluMyUbPDdh/CA14jnknq0xzM3BuiC91DZ6EcynsjfolzBDRa2QZrMYZvomPA2zy1Yxs1G9z8rVVrYRGxCSQhs20ohln/9mmF6rlsgkQ+alslstezGhd85iYmJiYmJijmL+B2CrwuTuTCldAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1311
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 56 x 56
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 56
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T110129Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

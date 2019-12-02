@@ -1,0 +1,18 @@
+﻿---
+ID: "33872985-d087-4b8b-8958-c3496d76e242"
+Parent: "42bda21d-dece-4c3b-9cd9-96c80693c113"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Feature/Trelleborg/Text/Text Site Setup/Rendering Variants
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T053858Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

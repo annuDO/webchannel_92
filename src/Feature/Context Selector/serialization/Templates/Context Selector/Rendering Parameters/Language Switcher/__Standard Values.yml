@@ -1,0 +1,14 @@
+﻿---
+ID: "b1f1f4dc-e066-4c7f-a097-41a30f5fe5a7"
+Parent: "a92441cf-0150-43ab-a548-a32e812113ff"
+Template: "a92441cf-0150-43ab-a548-a32e812113ff"
+Path: /sitecore/templates/Feature/Trelleborg/Context Selector/Rendering Parameters/Language Switcher/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160808T065739Z

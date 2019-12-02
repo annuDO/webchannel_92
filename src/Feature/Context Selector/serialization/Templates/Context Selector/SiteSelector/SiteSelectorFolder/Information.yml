@@ -1,0 +1,14 @@
+﻿---
+ID: "398a5566-87c5-4aa9-94f1-08c3acb88e12"
+Parent: "83e81605-d62b-48ea-8806-d988ca035d79"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Trelleborg/Context Selector/SiteSelector/SiteSelectorFolder/Information
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191016T112836Z

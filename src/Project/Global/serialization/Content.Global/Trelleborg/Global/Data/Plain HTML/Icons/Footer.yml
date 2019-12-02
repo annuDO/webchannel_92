@@ -1,0 +1,14 @@
+﻿---
+ID: "659359f0-5ead-498d-8e3e-758445cda1b7"
+Parent: "734f8b0e-9f59-4204-89a8-5a2c5ce46637"
+Template: "5ab4ae85-0e97-4afb-8498-b93c657a0df0"
+Path: /sitecore/content/Trelleborg/Global/Data/Plain HTML/Icons/Footer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T111511Z

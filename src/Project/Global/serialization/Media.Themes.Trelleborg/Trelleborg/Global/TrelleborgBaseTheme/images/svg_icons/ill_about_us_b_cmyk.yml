@@ -1,0 +1,35 @@
+﻿---
+ID: "1f6b8547-8a62-4e66-bc02-84ba356cf0ca"
+Parent: "7be62b4e-691b-4239-ad71-592aca08a732"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/images/svg_icons/ill_about_us_b_cmyk
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/1F6B85478A624E66BC0284BA356CF0CA.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "6bb765e3-35b2-4794-99bc-777948b5d907"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQmxhY2siIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNTAgNTAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUwIDUwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBkPSJNMjEsMTh2MmgtNXY4aC0ydi04SDl2LTJIMjF6IE00OS43LDE0TDM2LDM2bC0zLjUtNS42TDI5LDM2bC0zLjUtNS42TDIyLDM2bC0zLjUtNS42TDE1LDM2TDEuMywxNEg0OS43eiBNMjUuMSwxNkg0LjkNCglMMTUsMzIuMkwyNS4xLDE2eiBNMzIuMSwxNmgtNC42bC03LjgsMTIuNWwyLjMsMy43TDMyLjEsMTZ6IE0zOS4xLDE2aC00LjZsLTcuOCwxMi41bDIuMywzLjdMMzkuMSwxNnogTTQ2LjEsMTZoLTQuNmwtNy44LDEyLjUNCglsMi4zLDMuN0w0Ni4xLDE2eiIvPg0KPC9zdmc+DQo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 629
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T101127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

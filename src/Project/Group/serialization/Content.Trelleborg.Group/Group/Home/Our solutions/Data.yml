@@ -1,0 +1,18 @@
+﻿---
+ID: "8863dad0-03d0-4de8-aa4f-ab3d22187d81"
+Parent: "6d362694-8832-40ee-8a8a-42943f93de10"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Trelleborg/Group/Home/Our solutions/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T073042Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

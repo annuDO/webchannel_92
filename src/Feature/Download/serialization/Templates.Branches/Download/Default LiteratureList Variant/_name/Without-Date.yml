@@ -1,0 +1,14 @@
+﻿---
+ID: "15c10f63-27a0-42e4-b06c-b70c5dc8195e"
+Parent: "19cc688f-dfc7-407c-a2f8-a57ebb0c4298"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/Download/Default LiteratureList Variant/$name/Without-Date"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160427T134629Z

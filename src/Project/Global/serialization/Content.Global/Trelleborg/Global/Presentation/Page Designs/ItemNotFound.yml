@@ -1,0 +1,21 @@
+﻿---
+ID: "eed3da47-57ce-46a3-845a-0250526bf282"
+Parent: "a7f850f1-8d28-4a0a-89f3-6c817e283123"
+Template: "fa9ae4dd-c6a1-4816-8ed7-61a22552a811"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Page Designs/ItemNotFound
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{D09BF379-1EAD-483E-98E0-775791ECBAA1}"
+- ID: "7b487159-e180-4846-be49-e196e4c3a2b3"
+  Hint: Page Design Theme
+  Value: "{D3057784-B96B-4AA6-B5A5-94F14055FCF7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191121T050524Z

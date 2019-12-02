@@ -1,0 +1,35 @@
+﻿---
+ID: "f1966017-5560-4854-b5cc-b7b5531ece98"
+Parent: "7be62b4e-691b-4239-ad71-592aca08a732"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/images/svg_icons/ill_manage_b_cmyk
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/F196601755604854B5CCB7B5531ECE98.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "3926cbf3-e25e-4ba9-b235-71f5b7a4499b"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB4PSIwcHgiIHk9IjBweCINCgkgdmlld0JveD0iMCAwIDUwIDUwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCA1MCA1MDsiIHhtbDpzcGFjZT0icHJlc2VydmUiPg0KPGcgaWQ9IldoaXRlIj4NCjwvZz4NCjxnIGlkPSJCbGFjayI+DQoJPHBvbHlnb24gcG9pbnRzPSIxOCwzMCAxOCwyOC44IDIzLjksMjIuOCAyNi45LDI1LjggMzIuNywxOS45IDMxLjMsMTguNSAyNi45LDIzIDIzLjksMjAgMTgsMjYgMTgsMTYgMTYsMTYgMTYuMSwzMiAzMy45LDMyIA0KCQkzMy45LDMwIAkiLz4NCgk8Zz4NCgkJPHBhdGggZD0iTTMyLjEsOFYzLjloLTMuOGMtMC43LTEuMS0xLjktMS44LTMuMi0xLjhzLTIuNSwwLjctMy4yLDEuOGgtMy44VjhIMTB2MzkuOUg0MFY4SDMyLjF6IE0xOS45LDUuOWgzLjJsMC4yLTAuNg0KCQkJYzAuMy0wLjcsMC45LTEuMiwxLjctMS4yYzAuOCwwLDEuNCwwLjUsMS43LDEuMmwwLjIsMC42aDMuMnYyLjVWMTJIMTkuOVY4LjRWNS45eiBNMzgsNDUuOUgxMlYxMGg1LjlWMTR2MC4xaDE0LjFWMTRWMTBIMzhWNDUuOXoNCgkJCSIvPg0KCQk8cmVjdCB4PSIyNCIgeT0iOCIgd2lkdGg9IjIiIGhlaWdodD0iMS45Ii8+DQoJPC9nPg0KCTxnPg0KCQk8cmVjdCB4PSIxNiIgeT0iMzYiIHdpZHRoPSIxNy45IiBoZWlnaHQ9IjIiLz4NCgk8L2c+DQoJPGc+DQoJCTxyZWN0IHg9IjE2IiB5PSIzOS45IiB3aWR0aD0iMTcuOSIgaGVpZ2h0PSIyIi8+DQoJPC9nPg0KPC9nPg0KPC9zdmc+DQo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 971
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T101138Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

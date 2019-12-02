@@ -1,0 +1,31 @@
+﻿---
+ID: "9e5167de-fc3a-4ca3-b65e-b7ff60214022"
+Parent: "e6e19db9-5a8c-4727-8da2-306917154458"
+Template: "070a64fa-5f1b-40cc-83cb-3ce05d1895fc"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/MultiLanguage YouTube List/Default-Global/div-video-item/div-video-image/Image"
+DB: master
+SharedFields:
+- ID: "42a44ce6-94cc-432b-bc69-39867351207c"
+  Hint: Sizes
+  Value: "(max-width: 767px) 288px, (max-width: 1023px) 251px, 387px"
+- ID: "64c4a943-ee2a-43ae-bf6a-e249b52cd8b5"
+  Hint: Widths
+  Value: 288,251,387
+- ID: "df178dc4-b83d-46ec-8d4f-9de85e2c996c"
+  Hint: FieldName
+  Value: MainImage
+- ID: "e4c798fc-30e5-46ed-990e-bcddbf3444a1"
+  Hint: DefaultSize
+  Value: 387
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T105753Z

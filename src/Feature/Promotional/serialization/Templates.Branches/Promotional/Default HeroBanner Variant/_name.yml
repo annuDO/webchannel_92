@@ -1,0 +1,18 @@
+﻿---
+ID: "f55c5d6f-9e62-4713-9b4d-0894fa872545"
+Parent: "d380b97e-1f5a-47b2-ad02-e1cf619b5fd2"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Promotional/Default HeroBanner Variant/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191117T112610Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

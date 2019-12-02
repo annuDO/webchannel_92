@@ -1,0 +1,28 @@
+﻿---
+ID: "d1d33f74-0ee1-461a-9c12-8b6a748bf1b9"
+Parent: "cf5a7ed8-c2f7-4ac6-b571-eb5f3b10958b"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Search Results/address-list-result/address-row/address-details/address"
+DB: master
+SharedFields:
+- ID: "a4d004e6-2a4b-4c53-a4f3-9c481df71cdc"
+  Hint: Tag
+  Value: "{E901D7A6-9EA7-4CC0-B95C-4B8278545982}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-address"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T075058Z

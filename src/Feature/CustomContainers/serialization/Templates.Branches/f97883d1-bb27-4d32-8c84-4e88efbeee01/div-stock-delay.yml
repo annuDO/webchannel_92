@@ -1,0 +1,32 @@
+﻿---
+ID: "7d5a5651-d1e9-4477-a1ca-09468588dcb4"
+Parent: "f97883d1-bb27-4d32-8c84-4e88efbeee01"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/CustomContainers/Default StockInformation Variant/$name/Default/wrapper-link/div-stock-information/div-footer/div-stock-delay"
+DB: master
+SharedFields:
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-stock-delay"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T104931Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        $fieldTokens.GetDictionaryValue("/Data/Content Tokens/Dictionary/StockInformation/Delay")

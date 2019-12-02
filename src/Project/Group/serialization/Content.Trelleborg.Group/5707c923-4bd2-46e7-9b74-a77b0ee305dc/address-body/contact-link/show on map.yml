@@ -1,0 +1,60 @@
+﻿---
+ID: "2823085a-646b-4140-aa86-7d62d3d0f3b1"
+Parent: "dd39efe0-d76d-41d5-acc9-75c317d2fbb5"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/Addresses/Default/div/div/addresses/address-body/contact-link/show on map"
+DB: master
+BranchID: "12d6e2bb-6c0f-46f4-a0ba-ebe8a3af5c0b"
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{1072833E-0FE1-4600-95AC-E2EAF6BD85D4}">
+        <conditions>
+          <and
+            uid="877F06301A524F708D9CECD57A747FB4">
+            <condition
+              id="{DA0D1AEA-0144-4A40-9AF0-3123526C9163}"
+              uid="512FC2CAE2DA4284A17D26846D45EBD8"
+              fieldname="Latitude"
+              except="true" />
+            <condition
+              id="{DA0D1AEA-0144-4A40-9AF0-3123526C9163}"
+              uid="B2B3AC4CE6A54B7F86FC20D33CF40F30"
+              except="true"
+              fieldname="Longitude" />
+          </and>
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-address-contact-link-item"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 450
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{746E5950-C6F7-43DA-A3BA-DF5E76D054A3}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T052611Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        <a href="$fieldTokens.GetShowOnMapLink($item, "Latitude","Longitude")" target="_blank">
+                                               <span class="tb-address-contact-link-icon">
+                                                  <svg width="12" height="16" viewBox="0 0 12 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                     <path d="M6 0C2.68 0 0 2.43636 0 5.45455C0 6.61818 0.56 7.67273 1.4 8.90909C1.88 9.6 5.6 15.3818 5.64 15.4545L6 16L6.36 15.4545C6.4 15.3818 10.12 9.6 10.6 8.90909C11.32 7.85455 12 6.69091 12 5.45455C12 2.43636 9.32 0 6 0ZM9.92 8.54545C9.52 9.12727 6.96 13.0909 6 14.5455C5.04 13.0909 2.48 9.12727 2.08 8.54545C1.32 7.41818 0.8 6.43636 0.8 5.45455C0.8 2.83636 3.12 0.727273 6 0.727273C8.88 0.727273 11.2 2.83636 11.2 5.45455C11.2 6.43636 10.68 7.41818 9.92 8.54545ZM6 2.54545C4.44 2.54545 3.2 3.67273 3.2 5.09091C3.2 6.50909 4.44 7.63636 6 7.63636C7.56 7.63636 8.8 6.50909 8.8 5.09091C8.8 3.67273 7.52 2.54545 6 2.54545ZM6 6.90909C4.88 6.90909 4 6.10909 4 5.09091C4 4.07273 4.88 3.27273 6 3.27273C7.12 3.27273 8 4.07273 8 5.09091C8 6.10909 7.08 6.90909 6 6.90909Z" fill="#393939"/>
+                                                  </svg>
+                                               </span>
+                                               <span class="tb-address-contact-link-label">$fieldTokens.GetDictionaryValue("/Data/Content Tokens/Dictionary/ShowOnMap")</span> 
+                                            </a>

@@ -1,0 +1,22 @@
+﻿---
+ID: "4f4ea864-a703-41d1-b8ea-1540362ee906"
+Parent: "eea83997-a3d0-4b42-a724-d1e8458b7543"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Footer/default-footer/div/footer-links-section"
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-footer-policy tb-small tb-font-500"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T112338Z

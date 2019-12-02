@@ -1,0 +1,29 @@
+﻿---
+ID: "c794f0d8-53f6-406a-b9b8-f2d253bb5bae"
+Parent: "212a3e98-4962-4c60-801a-4a0f0848093c"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Stock Information/Default/wrapper-link/div-stock-information/div-footer/span-updated-label"
+DB: master
+SharedFields:
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-stock-updated-label"
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T104931Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        $fieldTokens.GetDictionaryValue("/Data/Content Tokens/Dictionary/StockInformation/Updated")

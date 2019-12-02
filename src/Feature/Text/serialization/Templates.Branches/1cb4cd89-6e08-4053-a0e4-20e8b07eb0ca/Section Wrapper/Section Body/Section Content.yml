@@ -1,0 +1,24 @@
+﻿---
+ID: "480e1561-8dd6-4b11-9a05-38388658432f"
+Parent: "28132808-a084-49fa-8281-af33914a7717"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Text/Default Sectionintro Variant/$name/Default/Section Intro/Section Row/Section Wrapper/Section Body/Section Content
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: SectionContent
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "tb-sectionintro-content tb-body height-0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T060404Z

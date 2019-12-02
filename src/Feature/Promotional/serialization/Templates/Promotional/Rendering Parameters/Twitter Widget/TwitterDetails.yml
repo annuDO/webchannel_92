@@ -1,0 +1,18 @@
+﻿---
+ID: "011a67a7-fa1b-40af-9c7a-cc2a5a15c618"
+Parent: "a8b9e94b-fe0c-4603-b647-72233c7648b4"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Trelleborg/Promotional/Rendering Parameters/Twitter Widget/TwitterDetails
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T153935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

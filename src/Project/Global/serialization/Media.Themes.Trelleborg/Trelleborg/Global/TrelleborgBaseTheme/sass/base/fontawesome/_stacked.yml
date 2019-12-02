@@ -1,20 +1,20 @@
 ﻿---
-ID: "406d090b-7558-4c10-99c5-01885101bbc0"
-Parent: "2526da0e-4fda-4bf5-bf94-3b204a53c993"
+ID: "cb56ba6e-f871-4d75-bcdb-41f0257112a3"
+Parent: "f1d06475-966e-439b-83d8-8ddb4b28a49d"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/base/fontawesome/_stacked
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/5B343C1BB6AD491C8DC3276E6669B228.ashx?h=16&thn=1&w=16"
+  Value: "-/media/CB56BA6EF8714D75BCDB41F0257112A3.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "45020f6b-f588-4874-b3d9-717ff92ef805"
-  Value: Ly8gU3RhY2tlZCBJY29ucwovLyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCgouI3skZmEtY3NzLXByZWZpeH0tc3RhY2sgewogIHBvc2l0aW9uOiByZWxhdGl2ZTsKICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7CiAgd2lkdGg6IDJlbTsKICBoZWlnaHQ6IDJlbTsKICBsaW5lLWhlaWdodDogMmVtOwogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7Cn0KLiN7JGZhLWNzcy1wcmVmaXh9LXN0YWNrLTF4LCAuI3skZmEtY3NzLXByZWZpeH0tc3RhY2stMnggewogIHBvc2l0aW9uOiBhYnNvbHV0ZTsKICBsZWZ0OiAwOwogIHdpZHRoOiAxMDAlOwogIHRleHQtYWxpZ246IGNlbnRlcjsKfQouI3skZmEtY3NzLXByZWZpeH0tc3RhY2stMXggeyBsaW5lLWhlaWdodDogaW5oZXJpdDsgfQouI3skZmEtY3NzLXByZWZpeH0tc3RhY2stMnggeyBmb250LXNpemU6IDJlbTsgfQouI3skZmEtY3NzLXByZWZpeH0taW52ZXJzZSB7IGNvbG9yOiAkZmEtaW52ZXJzZTsgfQo=
+  BlobID: "f027f354-e62c-4341-a936-87ecaa6bd5c8"
+  Value: Ly8gU3RhY2tlZCBJY29ucw0KLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQ0KDQouI3skZmEtY3NzLXByZWZpeH0tc3RhY2sgew0KICBwb3NpdGlvbjogcmVsYXRpdmU7DQogIGRpc3BsYXk6IGlubGluZS1ibG9jazsNCiAgd2lkdGg6IDJlbTsNCiAgaGVpZ2h0OiAyZW07DQogIGxpbmUtaGVpZ2h0OiAyZW07DQogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7DQp9DQouI3skZmEtY3NzLXByZWZpeH0tc3RhY2stMXgsIC4jeyRmYS1jc3MtcHJlZml4fS1zdGFjay0yeCB7DQogIHBvc2l0aW9uOiBhYnNvbHV0ZTsNCiAgbGVmdDogMDsNCiAgd2lkdGg6IDEwMCU7DQogIHRleHQtYWxpZ246IGNlbnRlcjsNCn0NCi4jeyRmYS1jc3MtcHJlZml4fS1zdGFjay0xeCB7IGxpbmUtaGVpZ2h0OiBpbmhlcml0OyB9DQouI3skZmEtY3NzLXByZWZpeH0tc3RhY2stMnggeyBmb250LXNpemU6IDJlbTsgfQ0KLiN7JGZhLWNzcy1wcmVmaXh9LWludmVyc2UgeyBjb2xvcjogJGZhLWludmVyc2U7IH0NCg==
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 482
+  Value: 502
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: "application/octet-stream"
@@ -28,8 +28,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170614T063648Z
+      Value: 20191119T101217Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\admin

@@ -9,7 +9,6 @@ SharedFields:
   Hint: NavigationFilter
   Type: Checklist
   Value: |
-    {E0A2A027-0932-4878-A7D6-0416D5263EFB}
     {61BD64D6-809E-40AE-9297-2724A19329B3}
     {D063E9D1-C7B5-4B1E-B31E-69886C9C59F5}
     {500AE4C0-FA7B-463F-8149-EFFF7F044101}
@@ -25,6 +24,9 @@ Languages:
   Versions:
   - Version: 1
     Fields:
+    - ID: "24171bf1-c0e1-480e-be76-4c0a1876f916"
+      Hint: Page Design
+      Value: 
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
       Value: 20190917T115640Z
@@ -38,3 +40,31 @@ Languages:
       Hint: __Created by
       Value: |
         sitecore\admin
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T094032Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: şämpľę
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: şämpľę
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ce53062e-4385-4244-8382-c2b4530a51ba"
+      Hint: TwitterCardType
+      Value: "{32F6A4E4-93DD-4A9C-AA60-CDEDB0BEDABB}"
+    - ID: "d8b38dd7-e9a0-4410-9f17-d436b0c8635a"
+      Hint: OpenGraphImageUrl
+      Value: |
+        <image alt="" mediaid="{00000000-0000-0000-0000-000000000000}" />
+    - ID: "de457091-0989-414e-addf-59db0ddb6690"
+      Hint: TwitterImage
+      Value: |
+        <image alt="" mediaid="{00000000-0000-0000-0000-000000000000}" />

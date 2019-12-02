@@ -1,0 +1,29 @@
+﻿---
+ID: "9c0a145e-ac4e-4ecd-9a94-355d32706f63"
+Parent: "6f15471e-9b65-4655-bc66-b73f44ed7672"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/MultiLanguage YouTube List/Default-Global"
+DB: master
+BranchID: "f1e239de-f701-469b-9385-c1ed3656b777"
+SharedFields:
+- ID: "6e87db8e-58a6-4613-823b-e99e244f07a0"
+  Hint: ItemCssClassField
+  Value: 
+- ID: "e1d5adba-8348-4127-9bb6-455936653839"
+  Hint: CssClass
+  Value: 
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{A60F47B8-D4AB-4341-9C43-F9D8E5048360}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T133307Z

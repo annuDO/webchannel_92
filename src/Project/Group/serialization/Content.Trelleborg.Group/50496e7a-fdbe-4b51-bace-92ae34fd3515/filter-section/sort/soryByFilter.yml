@@ -1,0 +1,32 @@
+﻿---
+ID: "04c8c890-5b7b-4da2-b0d6-458472ac18f8"
+Parent: "aa98421b-64c0-4d26-999e-c51f6979069b"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: "/sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/AddressList/Default/div/header-section/filter-section/sort/soryByFilter"
+DB: master
+BranchID: "2037d7c2-630b-4b16-bf13-57c3d01d64ac"
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{39E187C6-54FC-4E70-948A-7D20DB073793}"
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "Placeholder=main&Data Source=%7bBF3AA553-02E1-4A21-90A4-E1AC8D1A60AF%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{024061DF-D45E-4C37-9CD2-E4886972429C}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T052622Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

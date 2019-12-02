@@ -1,0 +1,45 @@
+﻿---
+ID: "6abc0aea-c1f0-4665-9075-c134e09e6b69"
+Parent: "7c5e0ac4-b0fe-4e94-8f14-6dc6906de354"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Sectionintro/Default/Section Intro/Section Row/Section Wrapper/Section Footer/Section Show Less
+DB: master
+BranchID: "cb2eab27-e28e-44bf-94f1-0ee9a327414b"
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{86AD3A20-04B2-4298-A6B5-FEF305D39931}">
+        <conditions>
+          <condition
+            id="{DA0D1AEA-0144-4A40-9AF0-3123526C9163}"
+            uid="90C46B2106BB49769B4B280C24790CE0"
+            except="true"
+            fieldname="SectionContent" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-sectionintro-link show-less d-none"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D5908D20-2706-4DBC-9BB7-855C7277B79F}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T171902Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

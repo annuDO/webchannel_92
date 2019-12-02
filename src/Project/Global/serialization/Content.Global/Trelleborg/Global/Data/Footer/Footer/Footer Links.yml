@@ -1,0 +1,14 @@
+﻿---
+ID: "946d7401-b0a7-4388-a28b-f251ecc46d55"
+Parent: "382ac991-39db-426d-b28e-e1663af4726b"
+Template: "ad8537df-06bb-4dd3-b044-0cd5c181a219"
+Path: /sitecore/content/Trelleborg/Global/Data/Footer/Footer/Footer Links
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T112817Z

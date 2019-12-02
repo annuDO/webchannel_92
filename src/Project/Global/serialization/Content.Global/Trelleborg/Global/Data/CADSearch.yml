@@ -1,0 +1,14 @@
+﻿---
+ID: "ff6a1388-2d2b-4029-8c2b-d7761c5374c6"
+Parent: "5fac0039-3eb0-4a36-95db-334ef30263b8"
+Template: "793cfecc-6197-48b8-8184-7a327d4fb1b5"
+Path: /sitecore/content/Trelleborg/Global/Data/CADSearch
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T072720Z

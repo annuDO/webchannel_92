@@ -1,0 +1,24 @@
+﻿---
+ID: "ce8df256-5cde-4941-970a-217619a0d381"
+Parent: "95d63ccf-67c3-4059-9f45-caa4f6f7873d"
+Template: "292ccfcd-7790-4692-856b-76014b8038e7"
+Path: /sitecore/system/Settings/Feature/Trelleborg/List/List Site Setup
+DB: master
+SharedFields:
+- ID: "40deee2f-7595-40bd-b2c9-51f9e2346100"
+  Hint: Dependencies
+  Type: Treelist
+  Value: |
+    {BDF83718-907A-435B-B1BA-64139E07983F}
+    {79007FEA-F837-44D7-A336-ECF935D3DAA8}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T080223Z
+    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
+      Hint: Name
+      Value: List

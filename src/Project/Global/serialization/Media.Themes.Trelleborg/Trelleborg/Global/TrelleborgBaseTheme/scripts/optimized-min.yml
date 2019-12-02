@@ -1,0 +1,103 @@
+﻿---
+ID: "14afdb1e-c9bd-42da-b5f4-6b33eeff3ff3"
+Parent: "006036c8-a6df-4535-ac19-c67bb9c47db3"
+Template: "b43ab8d5-e123-42dd-8042-de869cc98c4f"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/scripts/optimized-min"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: People/32x32/package.png
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "0fcedee6-69a7-4044-9572-03e39ec6406d"
+  Value: JHhhKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpeyR4YShkb2N1bWVudCkub24oImNsaWNrIiwiLnNlbGVjdGVkLWxhbmciLGZ1bmN0aW9uKCl7dmFyIHQ9JHhhKHRoaXMpLm9mZnNldCgpLG49JHhhKCIubGFuZ3VhZ2Utb3ZlcmxheSIpO24uaGFzQ2xhc3MoIm9wZW4iKT9uLnJlbW92ZUNsYXNzKCJvcGVuIikuaGlkZSgpLnJlbW92ZUF0dHIoInN0eWxlIik6bi5zaG93KCkuYWRkQ2xhc3MoIm9wZW4iKS5jc3Moe3RvcDp0LnRvcCs0MCxsZWZ0OnQubGVmdH0pfSk7JHhhKGRvY3VtZW50KS5vbigia2V5ZG93biIsZnVuY3Rpb24obil7dmFyIHUsZix0LGk7aWYobi5wcmV2ZW50RGVmYXVsdCgpLHU9JHhhKCIubGFuZ3VhZ2Utb3ZlcmxheSIpLHUuaGFzQ2xhc3MoIm9wZW4iKSYmKGY9ZXZlbnQud2hpY2h8fGV2ZW50LmtleUNvZGUsZj42NHx8Zjw5MSkpZm9yKHQ9dS5maW5kKCJsaSIpLHQucmVtb3ZlQ2xhc3MoImhpZ2hsaWdodCIpLGk9MDtpPHQubGVuZ3RoO2krKyl7dmFyIHI9JHhhKHRbaV0pLGU9ZXZlbnQua2V5LG89ci5maW5kKCIubGFuZy1lbmdsaXNoIikudGV4dCgpLnRyaW0oKS50b0xvd2VyQ2FzZSgpO2lmKG8uaW5kZXhPZihlKT09MCl7ci5hZGRDbGFzcygiaGlnaGxpZ2h0Iik7ci5wYXJlbnRzKCIuZHJvcGRvd24tbWVudSIpLnNjcm9sbCgpLmFuaW1hdGUoe3Njcm9sbFRvcDpyLm9mZnNldCgpLnRvcH0sMmUzKTticmVha319fSk7JHhhKCJib2R5Iikub24oImNsaWNrIixmdW5jdGlvbihuKXt2YXIgdD0keGEobi50YXJnZXQpO3QuaGFzQ2xhc3MoImxhbmd1YWdlLW92ZXJsYXkiKSYmdC5hdHRyKCJpZCIpPT09InNlbGVjdGVkLWxhbmcifHwoJHhhKCIubGFuZ3VhZ2Utb3ZlcmxheSIpLmhpZGUoKS5yZW1vdmVDbGFzcygib3BlbiIpLCR4YSgiLmxhbmd1YWdlLW92ZXJsYXkiKS5maW5kKCJsaSIpLnJlbW92ZUNsYXNzKCJoaWdobGlnaHQiKSl9KX0p
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 942
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: da
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T201449Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T201448Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T201448Z
+    - ID: "3f4b20e9-36e6-4d45-a423-c86567373f82"
+      Hint: Title
+      Value: "optimized-min"
+    - ID: "ba8341a1-ff30-47b8-ae6a-f4947e4113f0"
+      Hint: Description
+      Value: Experience accelerator optimized file
+- Language: "en-US"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T201448Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T201448Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T201448Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+- Language: "sv-SE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T201448Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

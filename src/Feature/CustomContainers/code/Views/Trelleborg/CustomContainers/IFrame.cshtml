@@ -1,0 +1,27 @@
+@using Sitecore.XA.Feature.PageStructure
+@using Sitecore.XA.Foundation.MarkupDecorator.Extensions
+@using Sitecore.XA.Foundation.SitecoreExtensions.Extensions
+
+@model Sitecore.XA.Feature.PageStructure.Models.IFrameRenderingModel
+
+@{
+var iframeHeightStr = RenderingContext.Current.Rendering.Parameters["Height"];
+var iframeHeight = (!String.IsNullOrEmpty(iframeHeightStr))? Convert.ToInt32(iframeHeightStr) : 0;
+var iframeHeightString = (iframeHeight >1)? ("height=" +iframeHeight+ "em") : "" ;
+var datasourceItem = Sitecore.Mvc.Presentation.RenderingContext.Current.Rendering.Item;
+var sourceURL =  Trelleborg.Foundation.SitecoreExtensions.ItemExtensions.GetLinkFieldUrl(datasourceItem.Fields["Link"]);
+}
+
+@if (!string.IsNullOrEmpty(sourceURL) || Html.Sxa().IsEdit)
+{
+    <div @Html.Sxa().Component(Model.Rendering.RenderingCssClass ?? "iframe-tb", Model.Attributes)>
+        <div class="component-content">
+            @Model.MessageIsEmpty
+            <iframe src="@sourceURL"  @iframeHeightString></iframe>
+            @if (Html.Sxa().IsEdit)
+            {
+                @Html.Sxa().Field(datasourceItem.Fields["Link"].ID)
+            }
+        </div>
+    </div>
+}

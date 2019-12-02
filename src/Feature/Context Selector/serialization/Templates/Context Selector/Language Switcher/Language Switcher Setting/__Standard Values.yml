@@ -1,0 +1,22 @@
+﻿---
+ID: "f09b56c7-65db-41e1-a070-34f9042ca14d"
+Parent: "7a861d25-eda0-4415-80f9-53a9d877c247"
+Template: "7a861d25-eda0-4415-80f9-53a9d877c247"
+Path: /sitecore/templates/Feature/Trelleborg/Context Selector/Language Switcher/Language Switcher Setting/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f139ee-3365-48fe-a2e6-5b984db8cb51"
+      Hint: SupportedLanguages
+      Type: Multilist
+      Value: "{AF584191-45C9-4201-8740-5409F4CF8BDD}"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191010T114115Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

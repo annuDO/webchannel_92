@@ -1,0 +1,38 @@
+﻿---
+ID: "6059e0e9-cf2c-4088-b7ac-43fa0d4f80ec"
+Parent: "b34beee3-a1d8-4a86-951f-f2482fc48917"
+Template: "51b515f0-90d2-4c49-b9b4-1df84182ae4e"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Partial Designs/sample2
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: sample2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{E29F46C4-EC68-4DEE-9BDA-431DC05C1B67}"
+              s:ds="{6A59B3B1-0877-470A-BDA3-D5B2656D9FB7}"
+              s:id="{51C13F03-8364-4F61-B860-2EC6CA7439B3}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T093647Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

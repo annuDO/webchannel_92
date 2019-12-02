@@ -1,0 +1,37 @@
+﻿---
+ID: "0f580705-dda6-4d67-ad1a-a449b4249940"
+Parent: "b34beee3-a1d8-4a86-951f-f2482fc48917"
+Template: "51b515f0-90d2-4c49-b9b4-1df84182ae4e"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Partial Designs/Body
+DB: master
+SharedFields:
+- ID: "55faae90-3bba-4f7f-96fe-13c3f40055ff"
+  Hint: Signature
+  Value: body
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{5EEFA6BC-28A8-4DEF-B616-E73B8C85585C}"
+              s:id="{B4D8895B-C09C-4EFD-BBE8-1B1FBBCA810B}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B308E0514-4DC0-416A-BBAB-258B9EAFAFE0%7D&amp;Styles&amp;BreadcrumbRoot&amp;Separator=%3E&amp;IsNavigation&amp;Filter=%7BE0A2A027-0932-4878-A7D6-0416D5263EFB%7D&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="header" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191016T081839Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

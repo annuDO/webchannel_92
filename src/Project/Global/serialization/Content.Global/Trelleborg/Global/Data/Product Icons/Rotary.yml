@@ -1,0 +1,24 @@
+﻿---
+ID: "0ebf8aa4-3db0-4a43-b47e-0f10d09eb430"
+Parent: "532530d0-c226-4909-b91f-49aec03ce004"
+Template: "a898496d-d670-4701-88ac-aaa57479dad4"
+Path: /sitecore/content/Trelleborg/Global/Data/Product Icons/Rotary
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "12d96a58-30db-4d59-aa04-3f3526c1b77b"
+      Hint: Image
+      Value: |
+        <image mediaid="{EA7DF862-104C-4C9C-9E67-722E2616CD48}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191130T062142Z
+    - ID: "46c6eeb9-7004-4c09-8634-107050c9248f"
+      Hint: Title
+      Value: Rotary
+    - ID: "4b037c04-9fad-474d-8869-f977cbab3f6d"
+      Hint: Icon
+      Value: "{CA433256-3854-4810-91D3-27F2460FF9EC}"

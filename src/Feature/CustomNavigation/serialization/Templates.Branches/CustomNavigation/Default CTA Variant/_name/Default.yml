@@ -1,0 +1,22 @@
+﻿---
+ID: "7a6f78d6-0395-414e-b95b-66cd0a77a86c"
+Parent: "a3ebd0a3-e0d4-43ac-9afa-c03f764f66ee"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/CustomNavigation/Default CTA Variant/$name/Default
+DB: master
+BranchID: "db1fee5b-5c6b-423e-9887-a48054c20f33"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{7D87A8BF-F3F6-4454-990A-A4289891FCB2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T100816Z

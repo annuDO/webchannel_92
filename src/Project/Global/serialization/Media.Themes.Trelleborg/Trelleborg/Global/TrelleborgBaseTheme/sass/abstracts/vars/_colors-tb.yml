@@ -1,0 +1,35 @@
+﻿---
+ID: "d8f06b37-b7ed-4b98-a34f-c73616bcf772"
+Parent: "38744d77-eb9a-4c7b-9b3c-7b5111a8ee22"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/abstracts/vars/_colors-tb"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/D8F06B37B7ED4B98A34FC73616BCF772.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "f24ea1e5-e5aa-44f2-aefb-942d74b19a76"
+  Value: JHRiLWdyYXk6I0JGQkZCRjsNCiR0Yi1saWdodC1ncmF5OiNEREREREQ7DQokdGItbGlnaHRlci1ncmF5OiNGMUYxRjE7DQokdGItZGFyay1ncmF5OiMzOTM5Mzk7DQokdGItZGFya2VyLWdyYXk6IzVCNUI1QjsNCiR0Yi1kYXJrZXN0LWdyYXk6IzNDM0MzQzsNCiR0Yi13aGl0ZTojRkZGRkZGOw0KJHRiLWdvbGQ6Izk5ODI0MjsNCiR0Yi1saWdodC1nb2xkOiNDOUE2NDU7DQokdGItd2luZTojNjEwMDEyOw0KJHRiLXNreTojNDlCMUJCOw0KJHRiLW5hdnk6IzAwMjY2NDsNCiR0Yi1waW5lOiMzRDU1NEY7DQokdGItZ2luZ2VyOiNBNTRFMDA7DQokdGItcmVkOiNEQTQwNDA7DQokdGItZ3JlZW46IzM2QTYzNjsNCg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 346
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T101208Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,22 @@
+﻿---
+ID: "0bc75a27-3bb3-4310-8a82-20362d1e069b"
+Parent: "15aee285-f63e-4ebd-8d1f-1979ba520df7"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Search Results/literature-list-result/literature-details/DateSection"
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "col-lg-1 col-md-2 tb-litteraturelist-item-date"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T114434Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

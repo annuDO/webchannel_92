@@ -1,0 +1,51 @@
+@using Sitecore.Mvc;
+
+@model Trelleborg.Feature.ContextSelector.Models.MarketSelectorRenderingModel
+
+@{
+  var datasourceItem = Sitecore.Mvc.Presentation.RenderingContext.Current.Rendering.Item;
+}
+<!-- Market Selector Starts    -->
+@{
+  if (Model.RegionItems.Count <= 0)
+  {
+    return;
+  }
+}
+<div id="tb-marketselector" class="tb-marketselector">
+  <a href="#">@Model.ActiveLanguage.NativeName</a>
+</div>
+
+<div id="tb-marketselector-overlay" class="overlay">
+  <a class="tb-marketselector-close-btn" href="#">+</a>
+  <h1 class="tb-marketselector-title">
+    @Html.Sitecore().Field("Header", datasourceItem)
+  </h1>
+  <p class="tb-marketselector-subtitle">
+    @Html.Sitecore().Field("SubHeader", datasourceItem)
+  </p>
+  <div class="tb-marketselector-sections">
+    <section>
+      @foreach (var regionItem in Model.RegionItems)
+      {
+        <h3 class="tb-marketselector-section-title">@regionItem.RegionHeading</h3>
+        <ul class="tb-marketselector-dropdown-menu">
+          @foreach (var countryItem in regionItem.CountryLinks)
+          {
+            var selectedClass = " ";
+            if(countryItem.LinkUrl.LanguageCode == Model.ActiveLanguage.LanguageCode)
+            {
+                  selectedClass = " selected";
+            }
+            <li class="tb-marketselector-menu-item @selectedClass">
+              <a href="@countryItem.LinkUrl.Href"><span class="tb-marketselector-country">@countryItem.LinkText</span><span class="tb-marketselector-separator">|</span><span class="tb-marketselector-language">@countryItem.LinkUrl.NativeName</span></a>
+            </li>
+          }
+        </ul>
+          }
+      </section>
+    </div>
+  </div>
+
+
+  <!-- Market Selector End    -->

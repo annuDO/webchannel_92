@@ -1,0 +1,14 @@
+﻿---
+ID: "7d0f7929-d30e-4040-a9ba-10fe0534bd3f"
+Parent: "2332f9ae-06e8-4f7e-af96-8b435dfc0c98"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Text/Default Sectionintro Variant/$name/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160427T134629Z

@@ -1,0 +1,25 @@
+﻿---
+ID: "71c4204e-21d2-4244-b2cb-645bf9fe67b3"
+Parent: "d387b5ea-375a-4b0d-b35c-6a5a6312008a"
+Template: "7d659ee9-d487-4d40-8a92-10c6d68844c8"
+Path: /sitecore/content/Trelleborg/Global/Data/Content Tokens/Dictionary/Widgets/Contact_form/infoMessage2
+DB: master
+SharedFields:
+- ID: "02f6fb63-fe92-44e8-afa2-20747c893502"
+  Hint: Key
+  Value: infoMessage2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b9d1028-c20c-407b-9dcd-affe86a6f793"
+      Hint: Value
+      Value: "When submitting this form, you are aware of that we will process the personal data that you give us in order to facilitate your request. The legal basis for our processing of your personal data is that it is necessary in order to fulfill our legitimate interest to provide you with the subscription or un-subscription and/or information you have requested. For further details, please read our <a href='/en/privacy-notice' target=_blank>Privacy Notice</a>."
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T213445Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

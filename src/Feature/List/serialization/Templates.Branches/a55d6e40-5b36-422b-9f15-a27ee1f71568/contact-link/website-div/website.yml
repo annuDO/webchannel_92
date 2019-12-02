@@ -1,0 +1,28 @@
+﻿---
+ID: "c41a69e0-27d1-4ef8-b510-39e065767a0d"
+Parent: "9e7214af-b884-457f-ba9e-e9dd523f7fa6"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default Addresses Variant/$name/Default/div/div/addresses/address-body/contact-link/website-div/website"
+DB: master
+SharedFields:
+- ID: "34400b24-5666-4295-bbc2-b87c2020aa6d"
+  Hint: LinkAttributes
+  Value: href=%24%28WebsiteLink%29&target=_blank
+- ID: "4a997ffd-136b-409e-8dc9-fde53ac545a3"
+  Hint: IsLink
+  Value: 1
+- ID: "a4d004e6-2a4b-4c53-a4f3-9c481df71cdc"
+  Hint: Tag
+  Value: 
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T104747Z

@@ -1,0 +1,14 @@
+﻿---
+ID: "ef24460a-c0d4-4325-9c04-edf5fdaf4294"
+Parent: "5bca8acc-e6c6-4b03-819b-3b9b2a69f2ac"
+Template: "85adbf5b-e836-4932-a333-fe0f9fa1ed1e"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Promotional
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T115610Z

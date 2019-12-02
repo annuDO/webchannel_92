@@ -1,0 +1,14 @@
+﻿---
+ID: "31b660a0-6f5b-4e0f-8fd7-5448fa07b424"
+Parent: "5fac0039-3eb0-4a36-95db-334ef30263b8"
+Template: "e51764f1-dcb4-4fba-9e5a-9692c8cc4383"
+Path: /sitecore/content/Trelleborg/Global/Data/Stock Information
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T074058Z

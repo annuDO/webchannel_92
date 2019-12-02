@@ -1,0 +1,18 @@
+﻿---
+ID: "e2809c9e-e7d8-46b5-8a5d-6b72cb6e1d74"
+Parent: "5fac0039-3eb0-4a36-95db-334ef30263b8"
+Template: "ab187e38-4301-48d8-826f-4b60bc38d59f"
+Path: /sitecore/content/Trelleborg/Global/Data/Addresses
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T123852Z

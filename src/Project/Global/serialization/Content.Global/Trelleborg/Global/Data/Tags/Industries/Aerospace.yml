@@ -1,0 +1,22 @@
+﻿---
+ID: "5d11cb7e-9cad-49b5-9ceb-5d89ea603db0"
+Parent: "0e06680d-08b8-4033-b6b2-98c1244b315b"
+Template: "6b40e84c-8785-49fc-8a10-6bca862ff7ea"
+Path: /sitecore/content/Trelleborg/Global/Data/Tags/Industries/Aerospace
+DB: master
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T121614Z
+    - ID: "b8a8b6c9-4757-496b-9aae-5f46ff381563"
+      Hint: Title
+      Value: Aerospace

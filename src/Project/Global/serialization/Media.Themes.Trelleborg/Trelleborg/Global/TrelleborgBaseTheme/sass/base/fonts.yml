@@ -1,5 +1,5 @@
 ﻿---
-ID: "e7482d7c-9798-44b9-9f25-baddf3005a83"
+ID: "c9be9a94-077e-4f28-83fd-12dc03f3d71a"
 Parent: "d96642f9-ba00-4ad3-92f0-1cfb67e42d21"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/base/fonts
@@ -11,4 +11,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170614T063653Z
+      Value: 20191119T101219Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

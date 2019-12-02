@@ -1,0 +1,48 @@
+﻿---
+ID: "59c7eb62-7b65-4da6-b02d-a9a0b21c844e"
+Parent: "ebbcd1f5-ff71-4baa-99b1-5a72cbbeafa0"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default Addresses Variant/$name/Default/div/div/addresses/address-body/contact-link/email-div/mail/id"
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Email
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "tb-address-contact-link-label"
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{E000CAD7-488A-4537-803F-7B6FCD00BFA2}">
+        <conditions>
+          <condition
+            id="{F563E8D0-1D8A-4744-BD90-3C8D7E483884}"
+            uid="F5B4C4CD68294931B7813622A696496F"
+            Value="{B6C812AD-AF28-479A-ADFE-310BB46BF009}|{F4EB413E-2700-475E-8ED7-343D9B4941F5}|{15FB4B13-691C-4BBD-8904-6CEC99CA18C4}|{A5D3DE24-ECDF-462D-A30E-4CBF585E74E5}|{7A8FD912-11EE-469B-AE17-E628506DCD7D}|{48CB8908-4E63-40C4-84AF-14E86E0CAFE1}"
+            except="true" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "db805bdc-8eec-4238-b174-2427b6f1f077"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+- ID: "fe56eae5-d6a1-4703-92f7-4862da6deac8"
+  Hint: RenderIfEmpty
+  Type: Checkbox
+  Value: 0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T095623Z

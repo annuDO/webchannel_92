@@ -1,0 +1,31 @@
+﻿---
+ID: "fdac328d-8c68-4705-a050-6e13b9383dfa"
+Parent: "432931ae-e3b8-4d5b-8b9e-ada3330e3b54"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sources/market-selector/component-market-selector-tb"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/FDAC328D8C684705A0506E13B9383DFA.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "c9cee1a4-7788-4f8e-b398-5b22b2e4b53c"
+  Value: JHhhKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbiAoKSB7DQogICR4YShkb2N1bWVudCkub24oImNsaWNrIiwgIi5jbG9zZS1idG4iLCBmdW5jdGlvbiAoZSkgew0KICAgIGUucHJldmVudERlZmF1bHQoKTsNCiAgICB2YXIgdGhpc09iaiA9ICR4YSh0aGlzKTsNCiAgICB0aGlzT2JqLnBhcmVudHMoIi5vdmVybGF5IikuaGlkZSgpLnJlbW92ZUNsYXNzKCJvcGVuIik7DQogIH0pOw0KICAkeGEoZG9jdW1lbnQpLm9uKCJjbGljayIsICIjbWFya2V0LXNlbGVjdG9yIGEiLCBmdW5jdGlvbiAoZSkgew0KICAgIGUucHJldmVudERlZmF1bHQoKTsNCiAgICB2YXIgb3ZlcmxheU9iaiA9ICR4YSgiI21hcmtldC1zZWxlY3Rvci1vdmVybGF5Iik7DQoNCiAgICBpZiAob3ZlcmxheU9iai5oYXNDbGFzcygib3BlbiIpKSB7DQogICAgICBvdmVybGF5T2JqLmhpZGUoKS5yZW1vdmVDbGFzcygib3BlbiIpOw0KICAgIH0gZWxzZSB7DQogICAgICBvdmVybGF5T2JqLnNob3coKS5hZGRDbGFzcygib3BlbiIpOw0KICAgIH0NCiAgfSk7DQp9KTs=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 524
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T095212Z

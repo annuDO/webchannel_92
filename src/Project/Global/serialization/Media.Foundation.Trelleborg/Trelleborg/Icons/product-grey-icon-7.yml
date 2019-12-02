@@ -1,0 +1,44 @@
+﻿---
+ID: "81a7ad4d-a424-413f-8d34-c8d4fbc4ec28"
+Parent: "c9326ca7-bf82-4121-a8bb-b8b336cbcadb"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Foundation/Trelleborg/Icons/product-grey-icon-7"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/A5477CC5D47E40499E772F9D71568DA9.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 17
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "78c01187-d7ae-467c-b7c5-fd2e8c37da3c"
+  Value: iVBORw0KGgoAAAANSUhEUgAAABEAAAAZCAYAAADXPsWXAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHqSURBVHgBpVWxbsIwELWDBGVLd0CR+AG6AUvdrVvhCwhfUPiCwtYN+ALgC6Bbt6YDImIh/YJmYG+6FSFI34FTuVHUkPRJjn0+3/OdfedwFkK1WjU0TWv5vi8gVtB0qXLRHMw/2bY9UW24KtRqtQG6jmrEOfdIgLGBTgQ6yP2A7IekXq+PoTBh5BwOhy4WWCwC8JTWPGBIpMPlctnlimJMBNls9sayLI/9AQoZa2cU7n6/b2pHdzhvUb/b7dpxBAR46eZyuRsMm6vVah6chY/2wVJCU8axHsSREIEuhNBZCgQkDpFst1uTpcCRhO5cygOcTYclRIY+m83GLRQKuCQuIN4Wi0UT8ifmnXNIfmVsKJEIHuQ5pTqSan4WSQCE1IBhI8gfCReyhWyehrM5kkTxzEAnJJlQVBY2aVPSxZJEEPZAeM1kuKh2c7FYTM8mUclARDd4j+bBo6sMSwjcmIf2jBu8hCjgja6xlEAB9qg/XgD7BxDaO0IzNKoXeWiJQQToPA31soawTkqEl7Aihw6dyQhNB9FLQqIxfXAm0wxO2pZ1Qxlqlkqli3K5/Oa67leUJTYSWDODMXkyQsI9ckUZrhuLnWoneO3prRHs9AuhuT7qaUg6HrETkd1Jsoqicil+1M5rPp+fqG/xN4X60I8ktTjZAAAAAElFTkSuQmCC
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 597
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 17 x 25
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 25
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T110138Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

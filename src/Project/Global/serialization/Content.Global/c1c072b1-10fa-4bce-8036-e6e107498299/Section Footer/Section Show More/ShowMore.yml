@@ -1,0 +1,21 @@
+﻿---
+ID: "c81e4666-1162-41f4-83d1-0e69d449ada3"
+Parent: "4e5720e2-28d5-4011-a64b-cf4db2072b8b"
+Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Sectionintro/H3 Header/Section Intro/Section Row/Section Wrapper/Section Footer/Section Show More/ShowMore
+DB: master
+SharedFields:
+- ID: "1aa68c0b-eb67-4575-9ca8-1689c2aff091"
+  Hint: Tag
+  Value: "{FF819CDE-E98A-4AB7-B8B0-65EE989369F7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07211f80-7ffc-4df4-a4de-c8956f391850"
+      Hint: Text
+      Value: Show More
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T060839Z

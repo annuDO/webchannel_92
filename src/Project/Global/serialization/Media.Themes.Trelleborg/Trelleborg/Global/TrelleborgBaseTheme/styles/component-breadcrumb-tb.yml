@@ -1,0 +1,35 @@
+﻿---
+ID: "21db0537-c04e-4bdc-83cb-c8beeeeda41e"
+Parent: "5ec6f55c-c21c-400b-8e6e-f3e9ddabc690"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/styles/component-breadcrumb-tb"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/21DB0537C04E4BDC83CBC8BEEEEDA41E.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "e1684350-02e3-4d79-aa6b-b2ba01f8a586"
+  Value: LmJyZWFkY3J1bWItbmV3IGxpIHsNCiAgZGlzcGxheTogYmxvY2s7DQogIGZsb2F0OiBsZWZ0Ow0KfQ0KDQouYnJlYWRjcnVtYi1uZXcgbGkgLm5hdmlnYXRpb24tdGl0bGUgew0KICBkaXNwbGF5OiBpbmxpbmUtYmxvY2s7DQogIHZlcnRpY2FsLWFsaWduOiBtaWRkbGU7DQogIHBvc2l0aW9uOiByZWxhdGl2ZTsNCn0NCg0KLmJyZWFkY3J1bWItbmV3IGxpIC5zZXBhcmF0b3Igew0KICBtYXJnaW46IDAgOHB4IDAgOHB4Ow0KfQ0KDQouYnJlYWRjcnVtYi1uZXcgbGkgYSB7DQogIGZvbnQtc3R5bGU6IG5vcm1hbDsNCiAgZm9udC13ZWlnaHQ6IDUwMDsNCiAgZm9udC1zaXplOiAxMnB4Ow0KICBsaW5lLWhlaWdodDogMjRweDsNCiAgdGV4dC10cmFuc2Zvcm06IHVwcGVyY2FzZTsNCiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOw0KICBjb2xvcjogIzk5ODI0MjsNCiAgZGlzcGxheTogYmxvY2s7DQp9DQoNCi5icmVhZGNydW1iLW5ldyBsaSBhOmFmdGVyIHsNCiAgY29udGVudDogIiI7DQogIGRpc3BsYXk6IGJsb2NrOw0KICBoZWlnaHQ6IDFweDsNCiAgcG9zaXRpb246IGFic29sdXRlOw0KICBsZWZ0OiAwOw0KICBib3R0b206IDA7DQogIGJhY2tncm91bmQ6ICM5OTgyNDI7DQogIC13ZWJraXQtdHJhbnNpdGlvbjogd2lkdGggMC4zcyBlYXNlIDBzLCByaWdodCAwLjNzIGVhc2UgMHM7DQogIHRyYW5zaXRpb246IHdpZHRoIDAuM3MgZWFzZSAwcywgcmlnaHQgMC4zcyBlYXNlIDBzOw0KICB3aWR0aDogMDsNCn0NCg0KLmJyZWFkY3J1bWItbmV3IGxpIGE6aG92ZXI6YWZ0ZXIgew0KICB3aWR0aDogMTAwJTsNCn0NCg0KLmJyZWFkY3J1bWItbmV3IGxpLmxhc3QgYSB7DQogIGNvbG9yOiAjMzkzOTM5Ow0KICBjdXJzb3I6IGRlZmF1bHQ7DQogIHBvaW50ZXItZXZlbnRzOiBub25lOw0KfQ0KDQouYnJlYWRjcnVtYi1uZXcgbGkubGFzdCBzcGFuLnNlcGFyYXRvciB7DQogIGRpc3BsYXk6IG5vbmU7DQp9DQo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 962
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T134556Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

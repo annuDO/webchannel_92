@@ -1,0 +1,14 @@
+﻿---
+ID: "2d71a04e-a56a-4cf4-b6b6-35021f1324f8"
+Parent: "ecc92bde-6b2d-411d-ba5d-3d62865d892c"
+Template: "c24428ab-3af5-44cd-ab5f-5f7e33f9d1ac"
+Path: /sitecore/content/Trelleborg/Global/Data/Search/Sort Results/AddressList
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T102539Z

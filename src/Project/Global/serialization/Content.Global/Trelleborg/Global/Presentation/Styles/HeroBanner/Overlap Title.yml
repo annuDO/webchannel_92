@@ -1,0 +1,22 @@
+﻿---
+ID: "627a49e3-d9d5-45d3-9882-35e9217e5215"
+Parent: "56a99c19-70af-4074-afe3-dd0c749482c2"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Styles/HeroBanner/Overlap Title
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: "tb-herobanner-wrapped-title"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T133133Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,37 @@
+﻿---
+ID: "5fa7c26f-475b-44c0-ac8a-0044d04e699b"
+Parent: "144002f9-71a5-4731-a1c2-7ffb96d7953c"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Sectionintro/H2 Header/Section Intro/Section Row/Section Wrapper/Section Footer
+DB: master
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{69BDDDEE-171E-4F4E-8E9A-7F801EB7F238}">
+        <conditions>
+          <condition
+            id="{DA0D1AEA-0144-4A40-9AF0-3123526C9163}"
+            uid="80BF07D1D8174BCF9EFDA129640A09E3"
+            except="true"
+            fieldname="SectionContent" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 500
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-sectionintro-footer"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T060728Z

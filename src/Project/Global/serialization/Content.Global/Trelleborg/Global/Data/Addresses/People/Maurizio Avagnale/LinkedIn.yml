@@ -1,0 +1,21 @@
+﻿---
+ID: "3d77930a-a9ea-4a70-80a3-675f1e251c27"
+Parent: "808571c6-2340-44e1-9b01-c45f2db49dd4"
+Template: "431cee01-1895-45eb-9c28-7ae130e9ded4"
+Path: /sitecore/content/Trelleborg/Global/Data/Addresses/People/Maurizio Avagnale/LinkedIn
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191112T120809Z
+    - ID: "ba415d60-2aaa-4643-bb49-6123d219ba0e"
+      Hint: Icon
+      Value: "{03C5A7E9-5F07-4A1C-97D9-0C6DED7F3C89}"
+    - ID: "f1deafad-19cf-4b21-8a45-bf2067c6a719"
+      Hint: Link
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/in/maurizio-avagnale-214a8b/" anchor="" target="" />

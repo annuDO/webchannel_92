@@ -1,0 +1,23 @@
+﻿---
+ID: "8522c3cf-5db9-4a31-b305-ef83232fcb57"
+Parent: "7bc2aa57-3a39-497f-a476-3bb13b037feb"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Footer/default-footer"
+DB: master
+SharedFields:
+- ID: "087c0553-9162-41f5-98d3-87eb0d80edbb"
+  Hint: Compatible Renderings
+  Type: TreelistEx
+  Value: "{A3125529-1FEC-476C-84AB-5F7EB0D0A339}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T121946Z

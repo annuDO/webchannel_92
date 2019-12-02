@@ -1,0 +1,32 @@
+﻿---
+ID: "09e58694-da23-46c8-b7b7-a43b0d0aa045"
+Parent: "973cb8e2-8569-4f4d-8e28-8c949a173b3f"
+Template: "a473cbd2-4e48-41b3-8b1b-5695daf90b5c"
+Path: /sitecore/system/Settings/Html Editor Profiles/Trelleborg/Rich Text XA/Toolbar 1/Undo
+DB: core
+SharedFields:
+- ID: "8d4f1b9f-d46b-4842-845d-4a3795da1c0b"
+  Hint: Click
+  Value: Undo
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 230
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Undo
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20060130T125500
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125500

@@ -1,0 +1,32 @@
+﻿---
+ID: "49dd18b8-7b47-422f-88bf-98c76561d9b7"
+Parent: "ebbcd1f5-ff71-4baa-99b1-5a72cbbeafa0"
+Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default Addresses Variant/$name/Default/div/div/addresses/address-body/contact-link/email-div/mail/icon"
+DB: master
+SharedFields:
+- ID: "1aa68c0b-eb67-4575-9ca8-1689c2aff091"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+- ID: "8414031e-7b85-426c-8516-84d6223a1208"
+  Hint: CssClass
+  Value: "tb-address-contact-link-icon"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07211f80-7ffc-4df4-a4de-c8956f391850"
+      Hint: Text
+      Value: |
+        <svg width="16" height="10" viewBox="0 0 16 10" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M2.08696 0V8H13.913V0H2.08696ZM13.2174 6.56667L9.8087 4.66667L13.2174 2.76667V6.56667ZM13.2174 0.666667V2L8 4.9L2.78261 2V0.666667H13.2174ZM6.1913 4.66667L2.78261 6.56667V2.76667L6.1913 4.66667ZM2.78261 7.33333L6.88696 5.06667L8 5.66667L9.11304 5.06667L13.2174 7.33333H2.78261ZM16 10H0V4.66667H0.695652V9.33333H15.3043V4.66667H16V10Z" fill="#393939"/>
+        </svg>
+        
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T094843Z

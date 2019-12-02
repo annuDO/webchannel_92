@@ -1,0 +1,25 @@
+﻿---
+ID: "266d6852-6834-4c22-80e8-7fef92db8393"
+Parent: "793cfecc-6197-48b8-8184-7a327d4fb1b5"
+Template: "793cfecc-6197-48b8-8184-7a327d4fb1b5"
+Path: /sitecore/templates/Feature/Trelleborg/Custom Search/CADSearch/CADSearch Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {9A79A20E-C8F3-456C-A52E-E3DB65DB4A81}
+    {793CFECC-6197-48B8-8184-7A327D4FB1B5}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160708T110525Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

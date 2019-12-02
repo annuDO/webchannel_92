@@ -1,0 +1,46 @@
+﻿---
+ID: "72870876-3f8b-4f8d-bf70-c06541774ee5"
+Parent: "89a0aad9-24a3-4d29-8510-67fc3ab1949d"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Search Results/address-list-result/address-row/map-container"
+DB: master
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{40F6B011-BFA3-4972-A4BE-25B91210D4BC}">
+        <conditions>
+          <and
+            uid="CD03ACF9449E4869A71C0921EE01A7C0">
+            <condition
+              id="{DA0D1AEA-0144-4A40-9AF0-3123526C9163}"
+              uid="1037F4D40C50415FA14F848F443FEFCF"
+              except="true"
+              fieldname="Latitude" />
+            <condition
+              id="{DA0D1AEA-0144-4A40-9AF0-3123526C9163}"
+              uid="41D7A78378B24544BB2E073754D90186"
+              except="true"
+              fieldname="Longitude" />
+          </and>
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-addresslist-location-contianer col-md-6 offset-lg-4 col-lg-4"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T095749Z

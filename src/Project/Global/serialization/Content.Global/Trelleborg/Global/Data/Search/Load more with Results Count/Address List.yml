@@ -1,0 +1,14 @@
+﻿---
+ID: "82951388-45fc-4cea-8f2f-a76e9b4c15c4"
+Parent: "7e37c38d-1d1c-416e-a6b4-0aebd3194dee"
+Template: "7e5ea96b-a247-450e-90ce-9b55f5c1c166"
+Path: /sitecore/content/Trelleborg/Global/Data/Search/Load more with Results Count/Address List
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T122405Z

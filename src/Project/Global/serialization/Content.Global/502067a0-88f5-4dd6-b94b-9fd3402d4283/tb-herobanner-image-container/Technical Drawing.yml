@@ -1,0 +1,28 @@
+﻿---
+ID: "250b0ab5-48e6-48d4-bc06-20f33e249cd8"
+Parent: "10f9d61f-d564-42af-bd79-399e6c3c6192"
+Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/HeroBanner/TechHeroBanner/tb-herobanner-container/tb-herobanner-container-reverse/tb-herobanner-image-container/Technical Drawing"
+DB: master
+SharedFields:
+- ID: "8414031e-7b85-426c-8516-84d6223a1208"
+  Hint: CssClass
+  Value: "tb-font-12 tb-text-uppercase tb-herobanner-img-subtitle"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07211f80-7ffc-4df4-a4de-c8956f391850"
+      Hint: Text
+      Value: Technical drawing
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T095527Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

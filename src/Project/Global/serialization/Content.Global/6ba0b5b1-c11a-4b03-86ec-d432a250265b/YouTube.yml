@@ -1,0 +1,49 @@
+﻿---
+ID: "87ab83ad-49d1-4aea-8fa9-e27f8d49622c"
+Parent: "6ba0b5b1-c11a-4b03-86ec-d432a250265b"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/YouTube/Video-From-Page/Video/YouTube"
+DB: master
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{B7CB8487-2A2A-4898-9A5A-E62D21B27C53}">
+        <conditions>
+          <condition
+            id="{61C016A2-5210-4F1D-A663-BDA18BE487F6}"
+            uid="BF5C7AFB30FB492AABE3A65EB0DFB37F"
+            fieldname="PlayerType"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="{87F66CB4-3432-4480-B0B4-934B41D18DD6}" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-video-container"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T121300Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        <iframe src="https://www.youtube.com/embed/$item.Fields.get_Item("VideoID")?rel=0&autoplay=1&mute=1"  frameborder="0" allowfullscreen></iframe>

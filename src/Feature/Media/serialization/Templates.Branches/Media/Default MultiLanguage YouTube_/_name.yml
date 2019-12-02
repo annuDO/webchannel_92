@@ -1,0 +1,18 @@
+﻿---
+ID: "e4a64b3b-bb15-4bff-bc34-36dfa98f97b8"
+Parent: "f1e239de-f701-469b-9385-c1ed3656b777"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Media/Default MultiLanguage YouTube List Variant/$name
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: office/32x32/videotape.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160818T065035Z

@@ -1,0 +1,35 @@
+﻿---
+ID: "c70cf4b3-5beb-4230-b163-0132ba23e2fb"
+Parent: "5ec6f55c-c21c-400b-8e6e-f3e9ddabc690"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/styles/component-cad-search-tb"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/C70CF4B35BEB4230B1630132BA23E2FB.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "ade5740a-937c-45e2-9970-8b71fd446159"
+  Value: DQovKj09PT09ICBUeXBlYWhlYWQgYXV0byBjb21wbGV0ZSAgPT09PT09Ki8NCi50Yi1jYWQtc2VhcmNoLWNvbnRhaW5lciAudHlwZWFoZWFkLC50dC1xdWVyeSwudHQtaGludCB7DQogIHdpZHRoOiAzOTZweDsNCiAgaGVpZ2h0OiAzMHB4Ow0KICANCiAgDQp9DQoNCi50Yi1jYWQtc2VhcmNoLWNvbnRhaW5lciAudHlwZWFoZWFkIHsNCiAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZjsNCn0NCg0KLnRiLWNhZC1zZWFyY2gtY29udGFpbmVyIC50eXBlYWhlYWQ6Zm9jdXMgew0KICBib3JkZXI6IDJweCBzb2xpZCAjYWM5NTU1Ow0KfQ0KDQoudGItY2FkLXNlYXJjaC1jb250YWluZXIgLnR0LWhpbnQgew0KICBjb2xvcjogIzk5OQ0KfQ0KDQoudGItY2FkLXNlYXJjaC1jb250YWluZXIgLnR0LW1lbnUgew0KICB3aWR0aDogNDIycHg7DQogIG1hcmdpbjogMTJweCAwOw0KICBwYWRkaW5nOiA4cHggMDsNCiAgYmFja2dyb3VuZC1jb2xvcjogI2ZmZjsNCiAgYm9yZGVyOiAxcHggc29saWQgI2NjYzsNCiAgYm9yZGVyOiAxcHggc29saWQgcmdiYSgwLCAwLCAwLCAwLjIpOw0KICANCn0NCg0KLnRiLWNhZC1zZWFyY2gtY29udGFpbmVyIC50dC1zdWdnZXN0aW9uIHsNCiAgcGFkZGluZzogM3B4IDIwcHg7DQogIGZvbnQtc2l6ZTogMThweDsNCiAgbGluZS1oZWlnaHQ6IDI0cHg7DQp9DQoNCi50Yi1jYWQtc2VhcmNoLWNvbnRhaW5lciAudHQtc3VnZ2VzdGlvbjpob3ZlciB7DQogIGN1cnNvcjogcG9pbnRlcjsNCiAgY29sb3I6ICNmZmY7DQogIGJhY2tncm91bmQtY29sb3I6ICNhYzk1NTU7DQp9DQoNCi50Yi1jYWQtc2VhcmNoLWNvbnRhaW5lciAudHQtc3VnZ2VzdGlvbi50dC1jdXJzb3Igew0KICBjb2xvcjogI2ZmZjsNCiAgYmFja2dyb3VuZC1jb2xvcjogI2FjOTU1NTsNCg0KfQ0KDQoudGItY2FkLXNlYXJjaC1jb250YWluZXIgLnR0LXN1Z2dlc3Rpb24gcCB7DQogIG1hcmdpbjogMDsNCn0NCg0KLnRiLWNhZC1zZWFyY2gtY29udGFpbmVyIC50dC1kcm9wZG93bi1tZW51IHsNCiAgICBtYXgtaGVpZ2h0OiA0MDBweDsNCiAgICBvdmVyZmxvdzogYXV0bzsNCiAgICAgICAgIGJhY2tncm91bmQtY29sb3I6ICNGRkY7DQogICAgICAgICANCn0NCg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1096
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: text/css
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: css
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191129T092935Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

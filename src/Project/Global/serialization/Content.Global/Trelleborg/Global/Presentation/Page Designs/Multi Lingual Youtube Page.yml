@@ -1,0 +1,29 @@
+﻿---
+ID: "0af7af26-8a88-466b-a4e7-9faf2c482259"
+Parent: "a7f850f1-8d28-4a0a-89f3-6c817e283123"
+Template: "fa9ae4dd-c6a1-4816-8ed7-61a22552a811"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Page Designs/Multi Lingual Youtube Page
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{F17166CD-E573-41EA-80AE-965F1E13C1CC}|{65F4285E-438C-4E9A-92EF-6248D24F80A5}"
+- ID: "7b487159-e180-4846-be49-e196e4c3a2b3"
+  Hint: Page Design Theme
+  Value: "{D3057784-B96B-4AA6-B5A5-94F14055FCF7}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T141356Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

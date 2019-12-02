@@ -1,0 +1,18 @@
+﻿---
+ID: "8fb80487-82bf-4b34-947b-9ec5dd473804"
+Parent: "f451cd10-8c93-47f7-87fb-3cadbac2a41c"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Product Icons Bar/Default/row-div/icons/div-icon-bar"
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-producticon-bar-col tb-mt-2"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191202T084434Z

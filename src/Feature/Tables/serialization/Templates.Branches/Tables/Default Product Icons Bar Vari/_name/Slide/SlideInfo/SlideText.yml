@@ -1,0 +1,18 @@
+﻿---
+ID: "2d3b4b10-8abe-4fbb-88d9-cbb87199f8fa"
+Parent: "99c62a12-f618-4e3a-8a5b-0548e553e796"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Tables/Default Product Icons Bar Variant/$name/Slide/SlideInfo/SlideText
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: SlideText
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160718T091458Z

@@ -1,0 +1,18 @@
+﻿---
+ID: "c404fb63-31ac-4101-8a15-5bb82f563d94"
+Parent: "c2bace2f-e3b4-4deb-a73a-1a4a5abe70dd"
+Template: "c2bace2f-e3b4-4deb-a73a-1a4a5abe70dd"
+Path: /sitecore/templates/Feature/Trelleborg/Tables/Rendering Parameters/Product Icons Bar/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: __Standard Values
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20151021T125358Z

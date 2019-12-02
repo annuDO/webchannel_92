@@ -1,0 +1,14 @@
+﻿---
+ID: "0939d666-98e4-43a2-9434-9f9ccd1b4288"
+Parent: "9f7485f2-d874-471e-bec9-94fc13022e93"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Promotional/Default Article Variant/$name/Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160426T130642Z

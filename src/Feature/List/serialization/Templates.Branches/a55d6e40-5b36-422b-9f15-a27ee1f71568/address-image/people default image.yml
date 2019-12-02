@@ -1,0 +1,60 @@
+﻿---
+ID: "db700a92-356d-45b7-aae7-1992ce531049"
+Parent: "5a3a5c0c-7a09-41a8-83e8-fba3736f4d0d"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default Addresses Variant/$name/Default/div/div/addresses/address-body/address-image/people default image"
+DB: master
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{69D0A00E-FF06-4B17-BE59-BED330577680}"
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{4BC83313-5E20-4E68-B851-7B35487D3588}">
+        <conditions>
+          <and
+            uid="528B1FDF68AB458F8F0B308F9D9E6158">
+            <condition
+              id="{DA0D1AEA-0144-4A40-9AF0-3123526C9163}"
+              uid="F33F2AD3A26E411B807FFBD6B3E3E29F"
+              fieldname="Image" />
+            <and
+              uid="2165B419F0AD4FF9AB2F944D85824F1E">
+              <condition
+                id="{61C016A2-5210-4F1D-A663-BDA18BE487F6}"
+                uid="F930C09DD1BF4C7CAED96525D9F07D59"
+                fieldname="AddressType"
+                operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+                value="{7D9E01F8-03BC-4700-BC51-1C7E14FD4BF1}" />
+              <condition
+                id="{7B271A53-96BA-4653-B7D8-2B5F880D1D2D}"
+                uid="B15CA579F08F47E4AFD1CCA840B8D232"
+                except="true" />
+            </and>
+          </and>
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "Placeholder=main&Data Source=%7bCBD850BB-4345-46C5-8DE5-C2031D32B516%7d&FieldNames=%7bF0153673-9447-48B6-98BF-6F4C3AE37897%7d&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T092155Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

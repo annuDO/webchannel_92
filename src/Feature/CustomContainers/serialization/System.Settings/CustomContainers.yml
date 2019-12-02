@@ -1,0 +1,14 @@
+﻿---
+ID: "07dbc5df-3305-44d8-86da-40888041a05b"
+Parent: "d2f632bb-a838-4186-ae6f-dd0d9c6d6778"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Feature/Trelleborg/CustomContainers
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T061125Z

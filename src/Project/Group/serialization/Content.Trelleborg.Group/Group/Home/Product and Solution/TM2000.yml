@@ -1,0 +1,27 @@
+﻿---
+ID: "9b9a7c4d-e6d3-49e9-a56d-a1964b69753e"
+Parent: "16ffb5b5-68c2-4020-b0a2-f2967e255cbf"
+Template: "0bae2cbd-33f5-4212-83f8-d63ad3c945a4"
+Path: /sitecore/content/Trelleborg/Group/Home/Product and Solution/TM2000
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190903T093500Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: TM2000
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: TM2000
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a120c123-1cdd-4bed-8877-a9d04bc8b904"
+      Hint: Content
+      Value: The TM2000 High Power Series is specially developed to be fitted on high power tractors with a high load capacity requirement. Learn more about TM2000 here.

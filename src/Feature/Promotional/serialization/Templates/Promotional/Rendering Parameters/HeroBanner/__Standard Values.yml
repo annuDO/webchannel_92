@@ -1,0 +1,18 @@
+﻿---
+ID: "4b64965a-4955-4061-9e23-494b884c1e95"
+Parent: "b8d735f8-f4a9-4fab-a6a5-247e6a044748"
+Template: "b8d735f8-f4a9-4fab-a6a5-247e6a044748"
+Path: /sitecore/templates/Feature/Trelleborg/Promotional/Rendering Parameters/HeroBanner/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: __Standard Values
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20151021T125358Z

@@ -1,0 +1,33 @@
+﻿---
+ID: "2824c461-cce5-4b9b-8311-c734930bd35c"
+Parent: "107e006e-4a54-4c76-85b8-35cf56ef23ca"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/DownloadList/single-link-without-image/div/ListItems/Section/Aside/LinkItem"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 550
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T090129Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        #set($url= $fieldTokens.GetLinkUrl($item, "LinkItem"))
+        #if ($url != "")
+        <a href="$url" target="_blank">
+        <img class="tb-downlaodlist-icon" src="-\media\Themes\Trelleborg\Global\TrelleborgBaseTheme\images\svg_icons\nav_download_b_cmyk.svg" alt="download-icon" /><span>$item.Fields.LinkTitle.ToString()</span></a>
+        #end

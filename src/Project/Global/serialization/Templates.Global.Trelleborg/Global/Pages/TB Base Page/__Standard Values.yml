@@ -1,0 +1,22 @@
+﻿---
+ID: "ca29ca5d-defa-4d5e-b082-da6f4fbe3bee"
+Parent: "76f5e8d9-12a3-448c-bdf4-c42eda49a2a5"
+Template: "76f5e8d9-12a3-448c-bdf4-c42eda49a2a5"
+Path: /sitecore/templates/Project/Trelleborg/Global/Pages/TB Base Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T074430Z
+    - ID: "3a91c7ff-d5f2-4353-98f4-41ef654b7e42"
+      Hint: Title
+      Value: $name

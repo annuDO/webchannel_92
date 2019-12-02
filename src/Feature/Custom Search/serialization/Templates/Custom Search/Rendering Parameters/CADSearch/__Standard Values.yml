@@ -1,0 +1,14 @@
+﻿---
+ID: "009f3110-3799-4406-a6cf-7586ae767cd3"
+Parent: "fe9e9e74-bc70-4e4e-8b85-d4cabbad9f81"
+Template: "fe9e9e74-bc70-4e4e-8b85-d4cabbad9f81"
+Path: /sitecore/templates/Feature/Trelleborg/Custom Search/Rendering Parameters/CADSearch/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120629T130349

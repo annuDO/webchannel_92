@@ -1,0 +1,18 @@
+﻿---
+ID: "8a7ec5f2-9c46-45ff-9734-f2872f6ebf07"
+Parent: "da3535e2-a294-4bd2-b160-ed2125c9a5e7"
+Template: "da3535e2-a294-4bd2-b160-ed2125c9a5e7"
+Path: /sitecore/templates/Feature/Trelleborg/CustomNavigation/Rendering Parameters/CTA/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120629T104300

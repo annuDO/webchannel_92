@@ -1,20 +1,20 @@
 ﻿---
-ID: "cf0fd609-488b-4d3d-82fb-613ee5b402a0"
-Parent: "2526da0e-4fda-4bf5-bf94-3b204a53c993"
+ID: "e4325c37-9088-4378-a132-36d7e3053298"
+Parent: "f1d06475-966e-439b-83d8-8ddb4b28a49d"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/base/fontawesome/_animated
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/AD9E46E66D944C8A80859E0931869016.ashx?h=16&thn=1&w=16"
+  Value: "-/media/E4325C3790884378A13236D7E3053298.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "fbce3f9f-16ce-4396-bed3-9644952ca84b"
-  Value: Ly8gU3Bpbm5pbmcgSWNvbnMKLy8gLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KCi4jeyRmYS1jc3MtcHJlZml4fS1zcGluIHsKICAtd2Via2l0LWFuaW1hdGlvbjogZmEtc3BpbiAycyBpbmZpbml0ZSBsaW5lYXI7CiAgICAgICAgICBhbmltYXRpb246IGZhLXNwaW4gMnMgaW5maW5pdGUgbGluZWFyOwp9CgouI3skZmEtY3NzLXByZWZpeH0tcHVsc2UgewogIC13ZWJraXQtYW5pbWF0aW9uOiBmYS1zcGluIDFzIGluZmluaXRlIHN0ZXBzKDgpOwogICAgICAgICAgYW5pbWF0aW9uOiBmYS1zcGluIDFzIGluZmluaXRlIHN0ZXBzKDgpOwp9CgpALXdlYmtpdC1rZXlmcmFtZXMgZmEtc3BpbiB7CiAgMCUgewogICAgLXdlYmtpdC10cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKICAgICAgICAgICAgdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgfQogIDEwMCUgewogICAgLXdlYmtpdC10cmFuc2Zvcm06IHJvdGF0ZSgzNTlkZWcpOwogICAgICAgICAgICB0cmFuc2Zvcm06IHJvdGF0ZSgzNTlkZWcpOwogIH0KfQoKQGtleWZyYW1lcyBmYS1zcGluIHsKICAwJSB7CiAgICAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogICAgICAgICAgICB0cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsKICB9CiAgMTAwJSB7CiAgICAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlKDM1OWRlZyk7CiAgICAgICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDM1OWRlZyk7CiAgfQp9Cg==
+  BlobID: "3a7aa11b-76d9-4570-8b92-a663e46ce576"
+  Value: Ly8gU3Bpbm5pbmcgSWNvbnMNCi8vIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tDQoNCi4jeyRmYS1jc3MtcHJlZml4fS1zcGluIHsNCiAgLXdlYmtpdC1hbmltYXRpb246IGZhLXNwaW4gMnMgaW5maW5pdGUgbGluZWFyOw0KICAgICAgICAgIGFuaW1hdGlvbjogZmEtc3BpbiAycyBpbmZpbml0ZSBsaW5lYXI7DQp9DQoNCi4jeyRmYS1jc3MtcHJlZml4fS1wdWxzZSB7DQogIC13ZWJraXQtYW5pbWF0aW9uOiBmYS1zcGluIDFzIGluZmluaXRlIHN0ZXBzKDgpOw0KICAgICAgICAgIGFuaW1hdGlvbjogZmEtc3BpbiAxcyBpbmZpbml0ZSBzdGVwcyg4KTsNCn0NCg0KQC13ZWJraXQta2V5ZnJhbWVzIGZhLXNwaW4gew0KICAwJSB7DQogICAgLXdlYmtpdC10cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsNCiAgICAgICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDBkZWcpOw0KICB9DQogIDEwMCUgew0KICAgIC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoMzU5ZGVnKTsNCiAgICAgICAgICAgIHRyYW5zZm9ybTogcm90YXRlKDM1OWRlZyk7DQogIH0NCn0NCg0KQGtleWZyYW1lcyBmYS1zcGluIHsNCiAgMCUgew0KICAgIC13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7DQogICAgICAgICAgICB0cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsNCiAgfQ0KICAxMDAlIHsNCiAgICAtd2Via2l0LXRyYW5zZm9ybTogcm90YXRlKDM1OWRlZyk7DQogICAgICAgICAgICB0cmFuc2Zvcm06IHJvdGF0ZSgzNTlkZWcpOw0KICB9DQp9DQo=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 715
+  Value: 749
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: "application/octet-stream"
@@ -28,8 +28,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170614T063530Z
+      Value: 20191119T101212Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\admin

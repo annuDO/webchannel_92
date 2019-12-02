@@ -1,0 +1,21 @@
+﻿---
+ID: "581b68aa-f8ac-4625-839f-b281153f3c1a"
+Parent: "8498a9a4-7a72-4e62-9bad-b7cdc644e01f"
+Template: "98b41352-5a4b-4067-b924-18a4b50f0a53"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/DownloadList/dropdown-link-with-image/div/ListItems/Section/AsideLink/div/Select/Query"
+DB: master
+SharedFields:
+- ID: "a48604e6-b95e-41c4-b71d-af74365ec289"
+  Hint: Query
+  Value: "query:./*"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T101214Z

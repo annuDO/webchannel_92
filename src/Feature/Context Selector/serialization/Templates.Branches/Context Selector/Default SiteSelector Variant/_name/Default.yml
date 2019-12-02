@@ -1,0 +1,14 @@
+﻿---
+ID: "0fd1f2c1-1787-4907-a481-794ded0fc0a5"
+Parent: "f5d77ffb-2c7a-4ca0-b316-2dfb408f9980"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Context Selector/Default SiteSelector Variant/$name/Default
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160817T085911Z

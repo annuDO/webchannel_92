@@ -5,6 +5,9 @@ Template: "f7653f31-6f17-4daa-9217-8e116babc927"
 Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme
 DB: master
 SharedFields:
+- ID: "17bf6a75-8215-449f-86da-defd0cdab50c"
+  Hint: Mock Image
+  Value: 
 - ID: "384c2d3c-3e34-4493-9cb2-ade68caf0da2"
   Hint: BaseLayout
   Type: Treelist
@@ -16,6 +19,12 @@ SharedFields:
     {1FF2E882-18C3-4FF3-8B1A-736ECA929C5F}
     {C7F3C097-9A71-4701-B8A9-0C6740FBF84E}
     {D889F096-AFAB-4539-9E73-4DD3E05FCEC9}
+- ID: "74f8c14d-559b-40d0-bf52-4c53fa62e7aa"
+  Hint: CompatibilityModeEdit
+  Value: "{1D280F85-1B9C-4679-978E-AFF26E363E5F}"
+- ID: "a4baaebc-8ab7-4038-b6c9-bb7b7d170452"
+  Hint: CompatibilityModePreviewPublic
+  Value: "{1D280F85-1B9C-4679-978E-AFF26E363E5F}"
 Languages:
 - Language: en
   Versions:

@@ -1,0 +1,29 @@
+﻿---
+ID: "c81dd3e2-fe1e-4746-b516-63ce0c8bcab2"
+Parent: "142a9f84-686d-424d-9b6a-cfc8636779ea"
+Template: "98b41352-5a4b-4067-b924-18a4b50f0a53"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Footer/default-footer/div/div/social-section/social-links-section/social/footer-social-section/channel-section/channels"
+DB: master
+SharedFields:
+- ID: "a48604e6-b95e-41c4-b71d-af74365ec289"
+  Hint: Query
+  Value: "query:./*"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T105318Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

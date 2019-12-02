@@ -1,0 +1,37 @@
+﻿---
+ID: "7e128df1-41cd-4e0a-824d-5de4ebd3c92e"
+Parent: "5f10bb13-6154-40ac-b24b-028ec0c45fff"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Multi Lingual Youtube/Default-Global/div-video-section/div-video-row/div-lg-6/div-lang-list/language-list"
+DB: master
+SharedFields:
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-multi-language-video-list-list"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: "{B2EA310B-EB7F-48C9-82AB-B8F76B658596}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T072223Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        #foreach($lang in $fieldTokens.GetAllLanguageVersions($item,true))
+        <li class="tb-link">
+             <a href="$lang.Href">$lang.Name</a>
+         </li>
+        #end
+        

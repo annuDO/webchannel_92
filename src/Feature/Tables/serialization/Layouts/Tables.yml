@@ -1,0 +1,18 @@
+﻿---
+ID: "6b95a52d-f705-4295-b72a-9d82816e7d74"
+Parent: "f8264eb1-e7b1-40bb-9473-a55fa6466a94"
+Template: "93227c5d-4fef-474d-94c0-f252ec8e8219"
+Path: /sitecore/layout/Layouts/Feature/Trelleborg/Tables
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191130T054020Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

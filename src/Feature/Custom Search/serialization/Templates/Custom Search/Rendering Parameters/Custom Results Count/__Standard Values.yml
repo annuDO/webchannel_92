@@ -1,0 +1,14 @@
+﻿---
+ID: "3d03cdd7-3c7c-49c2-8f28-396e3ab425b2"
+Parent: "aa98a42b-c583-4090-861d-a9236f8f93e3"
+Template: "aa98a42b-c583-4090-861d-a9236f8f93e3"
+Path: /sitecore/templates/Feature/Trelleborg/Custom Search/Rendering Parameters/Custom Results Count/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140910T134012

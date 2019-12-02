@@ -1,0 +1,35 @@
+﻿---
+ID: "799268d5-3b8a-4aca-833d-135e8a69f29a"
+Parent: "470efd2d-c957-46ad-b7c3-863e790e38f2"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/component-border-tb"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/799268D53B8A4ACA833D135E8A69F29A.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "58d76ee2-338e-469d-9835-6566e7c06da3"
+  Value: QGltcG9ydCAiLi9hYnN0cmFjdHMvdmFycy9fc3BhY2luZy10Yi5zY3NzIjsNCkBpbXBvcnQgIi4vYWJzdHJhY3RzL3ZhcnMvY29sb3JzLXRiIjsNCg0KLnRiLWJvcmRlci0wew0KICAgIGJvcmRlcjogbm9uZTsNCn0NCi50Yi1ib3JkZXIteS0wew0KICAgIGJvcmRlci10b3A6IG5vbmU7DQogICAgYm9yZGVyLWJvdHRvbTogbm9uZTsNCn0NCi50Yi1ib3JkZXIteC0wew0KICAgIGJvcmRlci1sZWZ0OiBub25lOw0KICAgIGJvcmRlci1yaWdodDogbm9uZTsNCn0NCi50Yi1ib3JkZXItbC0wew0KICAgIGJvcmRlci1sZWZ0OiBub25lOw0KfQ0KLnRiLWJvcmRlci1iLTB7DQogICAgYm9yZGVyLWJvdHRvbTogbm9uZTsNCn0NCi50Yi1ib3JkZXItdC0wew0KICAgIGJvcmRlci10b3A6IG5vbmU7DQp9DQoudGItYm9yZGVyLXItMHsNCiAgICBib3JkZXItcmlnaHQ6IG5vbmU7DQp9DQoudGItYm9yZGVyLTF7DQogICAgYm9yZGVyOjFweCBzb2xpZCAkdGItbGlnaHQtZ3JheTsNCn0NCi50Yi1ib3JkZXIteS0xew0KICAgIGJvcmRlci10b3A6MXB4IHNvbGlkICR0Yi1saWdodC1ncmF5Ow0KICAgIGJvcmRlci1ib3R0b206MXB4IHNvbGlkICR0Yi1saWdodC1ncmF5Ow0KfQ0KLnRiLWJvcmRlci14LTF7DQogICAgYm9yZGVyLWxlZnQ6MXB4IHNvbGlkICR0Yi1saWdodC1ncmF5Ow0KICAgIGJvcmRlci1yaWdodDoxcHggc29saWQgJHRiLWxpZ2h0LWdyYXk7DQp9DQoudGItYm9yZGVyLWxlZnQtMXsNCiAgICBib3JkZXItbGVmdDoxcHggc29saWQgJHRiLWxpZ2h0LWdyYXk7DQp9DQoudGItYm9yZGVyLWJvdHRvbS0xew0KICAgIGJvcmRlci1ib3R0b206MXB4IHNvbGlkICR0Yi1saWdodC1ncmF5Ow0KfQ0KLnRiLWJvcmRlci10b3AtMXsNCiAgICBib3JkZXItdG9wOjFweCBzb2xpZCAkdGItbGlnaHQtZ3JheTsNCn0NCi50Yi1ib3JkZXItcmlnaHQtMXsNCiAgICBib3JkZXItcmlnaHQ6MXB4IHNvbGlkICR0Yi1saWdodC1ncmF5Ow0KfQ0KDQoNCi50Yi1ib3JkZXItMS1kYXJrew0KICAgIGJvcmRlcjoxcHggc29saWQgJHRiLWRhcmtlci1ncmF5Ow0KfQ0KLnRiLWJvcmRlci15LTEtZGFya3sNCiAgICBib3JkZXItdG9wOjFweCBzb2xpZCAkdGItZGFya2VyLWdyYXk7DQogICAgYm9yZGVyLWJvdHRvbToxcHggc29saWQgJHRiLWRhcmtlci1ncmF5Ow0KfQ0KLnRiLWJvcmRlci14LTEtZGFya3sNCiAgICBib3JkZXItbGVmdDoxcHggc29saWQgJHRiLWRhcmtlci1ncmF5Ow0KICAgIGJvcmRlci1yaWdodDoxcHggc29saWQgJHRiLWRhcmtlci1ncmF5Ow0KfQ0KLnRiLWJvcmRlci1sZWZ0LTEtZGFya3sNCiAgICBib3JkZXItbGVmdDoxcHggc29saWQgJHRiLWRhcmtlci1ncmF5Ow0KfQ0KLnRiLWJvcmRlci1ib3R0b20tMS1kYXJrew0KICAgIGJvcmRlci1ib3R0b206MXB4IHNvbGlkICR0Yi1kYXJrZXItZ3JheTsNCn0NCi50Yi1ib3JkZXItdG9wLTEtZGFya3sNCiAgICBib3JkZXItdG9wOjFweCBzb2xpZCAkdGItZGFya2VyLWdyYXk7DQp9DQoudGItYm9yZGVyLXJpZ2h0LTEtZGFya3sNCiAgICBib3JkZXItcmlnaHQ6MXB4IHNvbGlkICR0Yi1kYXJrZXItZ3JheTsNCn0=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1562
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T110151Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

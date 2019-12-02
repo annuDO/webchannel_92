@@ -1,0 +1,14 @@
+﻿---
+ID: "a3ebd0a3-e0d4-43ac-9afa-c03f764f66ee"
+Parent: "db1fee5b-5c6b-423e-9887-a48054c20f33"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/CustomNavigation/Default CTA Variant/$name
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160818T065035Z

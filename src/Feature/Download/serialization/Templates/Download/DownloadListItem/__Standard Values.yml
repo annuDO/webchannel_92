@@ -1,0 +1,26 @@
+﻿---
+ID: "261cfd9d-c0e8-4759-8a08-15eda2e90272"
+Parent: "36c949be-0220-4f74-b12d-f2b51b8e472b"
+Template: "36c949be-0220-4f74-b12d-f2b51b8e472b"
+Path: /sitecore/templates/Feature/Trelleborg/Download/DownloadListItem/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{D2B6A990-6DC9-45B1-918A-F074055A7B48}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T062502Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "5ef14e80-fbed-45c5-a1de-a3519531bcbe"
+      Hint: Title
+      Value: $name

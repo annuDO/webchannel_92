@@ -1,0 +1,14 @@
+﻿---
+ID: "62bf5563-de4f-4291-a1f9-486801640e8c"
+Parent: "3ee9c522-38d1-42bf-a570-2a758652e8ac"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Feature/Trelleborg/Context Selector/Context Selector Site Setup/Rendering Variants
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191017T110712Z

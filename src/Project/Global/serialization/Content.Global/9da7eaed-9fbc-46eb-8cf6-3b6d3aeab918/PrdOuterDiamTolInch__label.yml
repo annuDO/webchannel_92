@@ -1,0 +1,25 @@
+﻿---
+ID: "e813dd92-7ecb-402d-b1df-35668e407a66"
+Parent: "9da7eaed-9fbc-46eb-8cf6-3b6d3aeab918"
+Template: "7d659ee9-d487-4d40-8a92-10c6d68844c8"
+Path: /sitecore/content/Trelleborg/Global/Data/Content Tokens/Dictionary/FHSPDFGenerator/PrdOuterDiamTolInch__label
+DB: master
+SharedFields:
+- ID: "02f6fb63-fe92-44e8-afa2-20747c893502"
+  Hint: Key
+  Value: fhspdfgenerator.PrdOuterDiamTolInch__label
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b9d1028-c20c-407b-9dcd-affe86a6f793"
+      Hint: Value
+      Value: OD
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T213409Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,34 @@
+@using Sitecore.XA.Foundation.MarkupDecorator.Extensions
+@using Sitecore.XA.Foundation.SitecoreExtensions.Extensions
+@model Sitecore.XA.Foundation.Mvc.Models.RenderingModelBase
+@{
+var renderingControl = Sitecore.Mvc.Presentation.RenderingContext.CurrentOrNull;
+string  strTwitterUrl=string.Empty;
+string  strTwitterNumberOfTwittes=string.Empty;
+    if (renderingControl != null)
+    {
+        var renderingParams = renderingControl.Rendering.Parameters;
+          strTwitterUrl = renderingParams["Twitterurl"];
+          strTwitterNumberOfTwittes=renderingParams["TwitterFeedNumber"];
+    }
+}
+<div @Html.Sxa().Component(Model.Rendering.RenderingCssClass ?? "plain-html", Model.Attributes)>
+    <div class="component-content">
+        @{
+         string  htmlStr=string.Empty;
+        if (Model.DataSourceItem == null)
+        {
+            @Model.MessageIsEmpty
+        }
+        else
+        {
+            @Model.MessageEditHere
+			 htmlStr=@Model.DataSourceItem["HtmlCode"];
+			 htmlStr=htmlStr.Replace("twitterUrl", strTwitterUrl);
+             htmlStr=htmlStr.Replace("numberOfTwittes", strTwitterNumberOfTwittes);
+            <div>@Html.Raw(htmlStr)</div>
+        }
+
+}
+    </div>
+</div>

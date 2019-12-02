@@ -1,0 +1,25 @@
+﻿---
+ID: "093b717d-386d-4730-8255-286a15a072df"
+Parent: "4e4f7830-e980-45af-ab37-378d750c4888"
+Template: "fa9ae4dd-c6a1-4816-8ed7-61a22552a811"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Page Designs/Creative Exchange/ce_pd_orkot
+DB: master
+SharedFields:
+- ID: "0966b999-0d0e-4278-acc9-9da69d461fe6"
+  Hint: PartialDesigns
+  Value: "{5C2D89E4-4296-4D78-8AB0-A6D09417C358}"
+- ID: "7b487159-e180-4846-be49-e196e4c3a2b3"
+  Hint: Page Design Theme
+  Value: "{D3057784-B96B-4AA6-B5A5-94F14055FCF7}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191014T111631Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

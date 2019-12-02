@@ -1,0 +1,25 @@
+﻿---
+ID: "f16e83bb-2356-479d-a26d-ca890afe12aa"
+Parent: "4d5e5e64-921f-4ed0-a0d3-5da6c26701f8"
+Template: "76da0a8d-fc7e-42b2-af1e-205b49e43f98"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Available Renderings/List
+DB: master
+SharedFields:
+- ID: "715ae6c0-71c8-4744-ab4f-65362d20ad65"
+  Hint: Renderings
+  Type: TreelistEx
+  Value: |
+    {28464107-7C32-49BD-BF3D-FD07AACEBB74}
+    {612AFECF-6074-40C5-9BCA-8CEB7497DB05}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T072630Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

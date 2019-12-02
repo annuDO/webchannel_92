@@ -1,0 +1,18 @@
+﻿---
+ID: "798f7fc5-4058-4cd8-a66c-2f9cf1f7109a"
+Parent: "6dd1d06d-3a49-492c-8d6b-2d13ef011eba"
+Template: "6dd1d06d-3a49-492c-8d6b-2d13ef011eba"
+Path: /sitecore/templates/Project/Trelleborg/Global/Pages/MultiLanguage YouTube Page/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: apps/32x32/player.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T121318Z

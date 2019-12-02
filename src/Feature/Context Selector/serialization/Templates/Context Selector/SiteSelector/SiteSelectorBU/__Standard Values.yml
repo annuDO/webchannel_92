@@ -1,0 +1,29 @@
+﻿---
+ID: "2063f819-5978-4675-bd00-0bf997e519ed"
+Parent: "d29fe6f3-0120-4379-b64b-53db88a126b2"
+Template: "d29fe6f3-0120-4379-b64b-53db88a126b2"
+Path: /sitecore/templates/Feature/Trelleborg/Context Selector/SiteSelector/SiteSelectorBU/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{BC04985F-6C19-4C18-B242-6A2A4F56BFD5}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191015T082133Z
+    - ID: "3cb248aa-2fb9-4fab-983f-9ae285f19b9e"
+      Hint: DetailTitle
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "b3f49f08-37c9-4607-88fd-84b2e09e1732"
+      Hint: Title
+      Value: $name

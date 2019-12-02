@@ -1,0 +1,71 @@
+@using Sitecore.Mvc;
+
+@model Trelleborg.Feature.ContextSelector.Models.SiteSelectorRenderingModel
+
+@{
+  var datasourceItem = Sitecore.Mvc.Presentation.RenderingContext.Current.Rendering.Item;
+
+}
+@{
+  if (datasourceItem == null)
+  {
+    <div class="tb-siteselector" id="tb-siteselector">
+      This is empty
+    </div>
+  }
+  else
+  {
+    <!-- Site Selector Starts    -->
+    {
+      if (Model.SiteSelectorBUItems.Count <= 0)
+      {
+        <div class="tb-siteselector" id="tb-siteselector">
+          This is empty
+        </div>
+        return;
+      }
+    }
+
+    <div class="tb-siteselector" id="tb-siteselector">
+      <a href="#">@Html.Sitecore().Field("Header", datasourceItem)</a>
+    </div>
+
+    <div class="overlay" id="tb-siteselector-overlay">
+      <div class="tb-siteselector-container container">
+        <div class="tb-siteselector-header">
+          <h4 class="tb-siteselector-title">
+            @Html.Sitecore().Field("Header", datasourceItem)
+          </h4>
+          <a href="#" class="tb-siteselector-close-btn">
+            <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M16 0.736842L15.2632 0L8 7.26316L0.736842 0L0 0.736842L7.26316 8L0 15.2632L0.736842 16L8 8.73684L15.2632 16L16 15.2632L8.73684 8L16 0.736842Z" fill="#393939" />
+            </svg>
+          </a>
+        </div>
+        <div class="tb-siteselector-row">
+          <div class="col-xl-7 tb-siteselector-dropdown">
+            <ul class="tb-siteselector-dropdown-menu">
+              @foreach (var siteSelectorBUItem in Model.SiteSelectorBUItems)
+              {
+                <li class="tb-siteselector-menu-item">
+                  <a href="@siteSelectorBUItem.SiteURL">
+                    <span class="tb-siteselector-menu-title">@siteSelectorBUItem.Title</span>
+                    <span class="tb-siteselector-full-description  d-none">
+                      @siteSelectorBUItem.Description
+                    </span>
+                    <span class="tb-siteselector-image d-none">@siteSelectorBUItem.DetailImage.Src</span>
+                    <span class="siteselector-menu-desciption">@siteSelectorBUItem.ShortDescription</span>
+                  </a>
+                </li>
+              }
+            </ul>
+          </div>
+          <div class="col-xl-5 tb-siteselector-overview" id="siteselector-overview">
+            <!-- overview will render here-->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- Site Selector End    -->
+  }
+}

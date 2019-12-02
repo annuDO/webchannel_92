@@ -1,0 +1,14 @@
+﻿---
+ID: "7573763b-44a1-40b6-957f-5d56df09e2ef"
+Parent: "e936c111-b644-432e-bc60-920583130878"
+Template: "c8b824a4-66f4-431a-977a-1617948e81a3"
+Path: /sitecore/content/Trelleborg/Global/Home/Creative Exchange/addressList/Data/test
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T100559Z

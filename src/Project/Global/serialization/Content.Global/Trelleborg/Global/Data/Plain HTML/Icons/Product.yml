@@ -1,0 +1,14 @@
+﻿---
+ID: "14a4bfe4-b8cf-4569-8d90-1348d8a45eed"
+Parent: "734f8b0e-9f59-4204-89a8-5a2c5ce46637"
+Template: "5ab4ae85-0e97-4afb-8498-b93c657a0df0"
+Path: /sitecore/content/Trelleborg/Global/Data/Plain HTML/Icons/Product
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191130T061832Z

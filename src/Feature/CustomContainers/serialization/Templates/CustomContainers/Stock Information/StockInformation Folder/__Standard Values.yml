@@ -1,0 +1,25 @@
+﻿---
+ID: "9575ec75-6873-423a-abbb-bc9c513bb039"
+Parent: "e51764f1-dcb4-4fba-9e5a-9692c8cc4383"
+Template: "e51764f1-dcb4-4fba-9e5a-9692c8cc4383"
+Path: /sitecore/templates/Feature/Trelleborg/CustomContainers/Stock Information/StockInformation Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {020DDAB1-E0C0-4B8A-A554-84D7EB304D25}
+    {E51764F1-DCB4-4FBA-9E5A-9692C8CC4383}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,26 @@
+﻿---
+ID: "3b55eaad-ef25-4172-91cf-df5e36ea5355"
+Parent: "7e6dd1bb-2506-4fd3-8d6d-d853d04c1af5"
+Template: "6354d18e-54e9-45ad-9ec7-510769db4809"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/CustomNavigation/Default Footer Variant/$name/default-footer/div/footer-links-section/ul/links"
+DB: master
+SharedFields:
+- ID: "6a018521-3d58-4cdd-98fc-88be689650d5"
+  Hint: PassThroughField
+  Value: Links
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T112517Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

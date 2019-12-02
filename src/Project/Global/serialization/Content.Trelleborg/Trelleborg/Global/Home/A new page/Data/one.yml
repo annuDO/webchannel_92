@@ -1,0 +1,30 @@
+﻿---
+ID: "dd390590-a580-4a3a-bb60-1fa34b965862"
+Parent: "998f5827-2ac7-4287-8890-6fba7318e662"
+Template: "a2390ea5-4073-4b2c-a32a-487300116a32"
+Path: /sitecore/content/Trelleborg/Global/Home/A new page/Data/one
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13268fb8-da1a-4352-a20a-f4da53336ad2"
+      Hint: GMContent
+      Value: |
+        <ul>
+            <li>test</li>
+            <li>test 2</li>
+            <li>test 3</li>
+        </ul>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T145314Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "735134f8-aaf0-406c-b161-5fe00dedc070"
+      Hint: GMImage
+      Value: |
+        <image mediaid="{04CB727B-9A76-4087-9460-4EB7DD436F13}" ></image>

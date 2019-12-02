@@ -1,0 +1,19 @@
+﻿---
+ID: "ea13802b-c51a-4600-9a47-6ec1373a4a05"
+Parent: "6d978ff6-cf4e-4faa-9aa7-85fb53911459"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Multi Lingual Youtube/Default-Global"
+DB: master
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T115211Z

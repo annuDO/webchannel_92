@@ -1,0 +1,29 @@
+﻿---
+ID: "f9c49828-0f0a-4372-a953-9497f3f114e7"
+Parent: "46e47fd6-307e-4d4a-8922-1c88ef0dacdc"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/AddressList/Default/div/search-result"
+DB: master
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{FAE0D244-55C1-4F1B-8ED5-590C9F131CEE}"
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "Placeholder=main&FieldNames=%7b9D084BFA-6884-489A-9DBE-83496951A641%7d&Scope=%7bA6CA0124-CB76-4E77-B170-09DEC15F295C%7d&PageSize=2&DefaultLanguageFilter=%7b04C9B082-DE71-4035-8D16-737BF024FDE6%7d&DefaultSortOrder=%7bD274D23F-C501-4983-B424-AAAF5A01F832%7d&AutoFireSearchWhenNoCriteriaSet=1&Caching=0%7c0%7c0%7c0%7c0%7c0%7c0%7c0"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T111013Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

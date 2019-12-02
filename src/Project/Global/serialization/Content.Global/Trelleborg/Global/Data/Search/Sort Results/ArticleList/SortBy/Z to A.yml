@@ -1,0 +1,28 @@
+﻿---
+ID: "02f387c5-298c-44bc-916d-b5887e59708e"
+Parent: "5de536c1-dcef-4697-9500-768abd8ca676"
+Template: "3e53ac1b-65e8-4ae2-8c5b-8baf9c3d655e"
+Path: /sitecore/content/Trelleborg/Global/Data/Search/Sort Results/ArticleList/SortBy/Z to A
+DB: master
+SharedFields:
+- ID: "73a7c430-816e-4481-b4c1-3ab8c2c1052b"
+  Hint: Direction
+  Value: "{81810FDC-BB9F-4338-9B62-18142C63F3A8}"
+- ID: "c95b7bad-fa93-41f0-82de-c2c2bf0a0e89"
+  Hint: Facet
+  Value: "{21ABB0A8-0F9C-45A1-94AC-8EB29827CC3F}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T102815Z
+    - ID: "f3b01c7d-bd46-4972-ab13-4c9c95c4f23d"
+      Hint: Title
+      Value: Z to A

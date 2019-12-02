@@ -1,0 +1,14 @@
+﻿---
+ID: "13fd4f1d-9540-416a-96c0-bfba33709692"
+Parent: "1a14d4b6-24e3-43d9-a846-6d1ee1f4769a"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Trelleborg/Global/Home/Creative Exchange/Banner/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191117T154719Z

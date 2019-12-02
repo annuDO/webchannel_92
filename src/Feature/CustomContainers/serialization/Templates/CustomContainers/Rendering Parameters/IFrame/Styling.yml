@@ -1,0 +1,14 @@
+﻿---
+ID: "c06bde68-f4f7-4a2d-90a7-dc93a78706bd"
+Parent: "17d3c5a0-ddcc-4bfa-a49d-e97bd134b06a"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Trelleborg/CustomContainers/Rendering Parameters/IFrame/Styling
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T073312Z

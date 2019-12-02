@@ -1,0 +1,36 @@
+﻿---
+ID: "382ac991-39db-426d-b28e-e1663af4726b"
+Parent: "0c5cdc32-f958-4b4a-a97f-cede0ca4a227"
+Template: "658d3317-ee64-44c4-86a0-7d5b4034301a"
+Path: /sitecore/content/Trelleborg/Global/Data/Footer/Footer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bc0feb-2593-4666-acf2-1878b5bc112f"
+      Hint: Content
+      Value: |
+        <h4 class="tb-footer-address-header">Address:</h4>
+        <address class="tb-footer-address">                           Trelleborg Coated Systems Strada Provinciale 140 26855 Lodi Vecchio Italy                        </address>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T113440Z
+    - ID: "5a2a474e-2a54-488b-b253-8a2655189a21"
+      Hint: Links
+      Type: Multilist
+      Value: |
+        {B6CAC482-C87A-4987-AA3D-7FD858E256B2}
+        {438D6E51-30C4-4474-803F-C7D3EBE0A25E}
+        {B126EB13-7FEC-4566-8E11-88F530ED5953}
+    - ID: "94313936-88b6-474c-9167-238e55950542"
+      Hint: Social
+      Type: Multilist
+      Value: |
+        {0CC847E8-757B-471A-B548-E23C5692DC83}
+        {B4E538E2-AB0A-4C91-963C-1DDB55659950}
+        {CF9654FB-71D6-4CCC-BEF1-0105842A176D}
+    - ID: "ff0514ce-aa74-4d20-8ac8-a5021a87fc0b"
+      Hint: Copyright
+      Value: &copy; Trelleborg Group. All rights reserved

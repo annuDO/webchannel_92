@@ -1,0 +1,17 @@
+﻿---
+ID: "94092c78-758f-4044-baad-554dbad865a8"
+Parent: "af6d73ea-b753-4603-87ae-12a7fa03f051"
+Template: "6b40e84c-8785-49fc-8a10-6bca862ff7ea"
+Path: /sitecore/content/Trelleborg/Global/Data/Tags/Cities/Frankfurt
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T105149Z
+    - ID: "b8a8b6c9-4757-496b-9aae-5f46ff381563"
+      Hint: Title
+      Value: Frankfurt

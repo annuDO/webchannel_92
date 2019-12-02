@@ -1,0 +1,27 @@
+﻿---
+ID: "b126eb13-7fec-4566-8e11-88f530ed5953"
+Parent: "946d7401-b0a7-4388-a28b-f251ecc46d55"
+Template: "e24e0789-a058-48bf-abb6-c69c0e60b6b7"
+Path: /sitecore/content/Trelleborg/Global/Data/Footer/Footer/Footer Links/Site Policy
+DB: master
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T115807Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "dd05144a-bd66-4ea3-956a-4b7104daaba3"
+      Hint: Link
+      Value: |
+        <link text="Site Policy" anchor="" linktype="internal" class="" title=""  querystring="" id="{733FD3EF-6A6A-447A-A8EC-D2CD3D96FCA6}" />

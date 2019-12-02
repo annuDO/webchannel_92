@@ -1,0 +1,18 @@
+﻿---
+ID: "6c1ec23e-7a35-480f-8ea7-f23abc9c2019"
+Parent: "c291e69f-3ea0-4d28-9069-230fe95c1117"
+Template: "29252703-d448-451c-bf1e-65b16174f4b0"
+Path: /sitecore/content/Trelleborg/Global/Data/Content Tokens/Dictionary/IRFeed
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T213417Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,22 @@
+﻿---
+ID: "861abec1-53f8-402d-8cf4-579531f56ff0"
+Parent: "244634d0-374f-4273-8287-0a6760ffab09"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default Events Variant/$name/Default/Accordion Item/Toggle-Header"
+DB: master
+BranchID: "36cc0d2e-b966-4012-b50a-9fa0b0983e73"
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "toggle-header tb-eventlist-accordion-toggle-header d-lg-flex d-md-flex tb-body"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{045A7DC0-DCBA-4624-914B-9CFBFC2385A9}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T170309Z

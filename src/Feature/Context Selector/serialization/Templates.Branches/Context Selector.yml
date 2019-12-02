@@ -1,0 +1,18 @@
+﻿---
+ID: "9740c603-349f-4eae-b628-ee715fad751e"
+Parent: "5bca8acc-e6c6-4b03-819b-3b9b2a69f2ac"
+Template: "85adbf5b-e836-4932-a333-fe0f9fa1ed1e"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Context Selector
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191011T122413Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,16 +1,16 @@
 ﻿---
-ID: "5f023520-94b0-444c-a2d7-4006cd9680b5"
-Parent: "640ce8b6-4a8d-4352-89fc-794d13fa4be2"
+ID: "5d3d5950-3490-4774-86df-8d2c87175fd1"
+Parent: "689dae68-7f83-4500-98d6-8248d61aac53"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/base/reset/ui-datepicker"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/54D0E4140E434556A1DAD89A6F263513.ashx?h=16&thn=1&w=16"
+  Value: "-/media/5D3D59503490477486DF8D2C87175FD1.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "72c64cf6-493c-4442-80ce-76d45f79fca1"
+  BlobID: "d51c160d-9b1c-4605-a446-7931bb020713"
   Value: QGltcG9ydCAiLi4vLi4vYWJzdHJhY3RzL3ZhcnMiOw0KLnVpLWRhdGVwaWNrZXItdGl0bGUgew0KICAgIHNlbGVjdCB7DQogICAgICAgIGNvbG9yOiAkdGV4dC1iYXNpYzsNCiAgICB9DQp9DQo=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
@@ -28,8 +28,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170630T075933Z
+      Value: 20191119T101220Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\admin

@@ -7,14 +7,14 @@ DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/DB40792BF55D46B1B19F6F09085EB2C3.ashx?h=16&thn=1&w=16"
+  Value: "-/media/10C98AE1F6FA4D9988C1B792C4245588.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "6277f267-b77e-4acf-b790-dc533f6224f2"
-  Value: LmlmcmFtZSBpZnJhbWUgewogIHdpZHRoOiAxMDAlOwp9Cg==
+  BlobID: "a38aa970-d1fd-4ab5-ba45-1f14b481e220"
+  Value: LmlmcmFtZSBpZnJhbWUgew0KICB3aWR0aDogMTAwJTsNCn0NCg==
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
-  Value: 34
+  Value: 37
 - ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
   Hint: Mime Type
   Value: text/css

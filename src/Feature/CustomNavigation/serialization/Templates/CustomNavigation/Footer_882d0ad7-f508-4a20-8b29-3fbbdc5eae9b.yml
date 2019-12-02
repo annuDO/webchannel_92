@@ -1,0 +1,18 @@
+﻿---
+ID: "882d0ad7-f508-4a20-8b29-3fbbdc5eae9b"
+Parent: "1650924c-8661-40fa-a1dd-d951fd63d9ed"
+Template: "0437fee2-44c9-46a6-abe9-28858d9fee8c"
+Path: /sitecore/templates/Feature/Trelleborg/CustomNavigation/Footer
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T103815Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

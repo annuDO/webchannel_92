@@ -1,5 +1,5 @@
 ﻿---
-ID: "f14ae235-74da-4561-86d0-9105d7a02cf8"
+ID: "8b5e433b-5528-4343-b6c4-c7ec2dfec219"
 Parent: "d2d3b1dc-5ba4-4d7c-9353-0ab9a1fe692a"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/variants/tag-cloud"
@@ -11,4 +11,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170614T063836Z
+      Value: 20191119T101246Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

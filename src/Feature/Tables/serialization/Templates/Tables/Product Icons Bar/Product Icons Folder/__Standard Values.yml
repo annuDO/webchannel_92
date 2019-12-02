@@ -1,0 +1,23 @@
+﻿---
+ID: "5a59fe72-c998-42dd-9d6a-f2f5369c41da"
+Parent: "578ae8d7-e92e-4d23-ae61-6ab70c479533"
+Template: "578ae8d7-e92e-4d23-ae61-6ab70c479533"
+Path: /sitecore/templates/Feature/Trelleborg/Tables/Product Icons Bar/Product Icons Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: "{A898496D-D670-4701-88AC-AAA57479DAD4}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191130T060552Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

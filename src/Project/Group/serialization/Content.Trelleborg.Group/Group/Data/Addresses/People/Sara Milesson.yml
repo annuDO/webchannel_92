@@ -1,0 +1,51 @@
+﻿---
+ID: "ee8edf55-4f04-402f-975e-034d08ec89f9"
+Parent: "005c7b62-1fd8-4e48-b549-394e3b3a3890"
+Template: "9485271b-ce01-4ab2-8cac-a70080a431dc"
+Path: /sitecore/content/Trelleborg/Group/Data/Addresses/People/Sara Milesson
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04dc55b7-3042-4134-b53b-1771da18bf96"
+      Hint: LinkedInLink
+      Value: 
+    - ID: "128a5a2b-3554-4797-9cce-7c33898e88b8"
+      Hint: Name
+      Value: Sara Milesson
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T054941Z
+    - ID: "2d3d7a99-7bbb-457a-9e2f-1a61a2ee7b94"
+      Hint: Phone2
+      Value: +46 733 74 70 15
+    - ID: "43b22c71-dfad-409b-b434-abc70ec13b8c"
+      Hint: City
+      Value: "{F646AF7C-69DD-4FAB-8C8E-B94CE3FCCFDD}"
+    - ID: "51124b46-3ece-4f84-af72-e6102dc11b57"
+      Hint: Zipcode
+      Value: "VA 22611-0937"
+    - ID: "5e57f735-6768-4e2e-ba34-cf2cf5010720"
+      Hint: Country
+      Value: "{315B8033-8045-4A40-ADFE-C76FB4560741}"
+    - ID: "6bf1df23-c261-4621-a4ee-fc4f562a177f"
+      Hint: Image
+      Value: |
+        <image mediaid="{F1666185-3A20-4202-80C7-C9C6908B925E}" />
+    - ID: "962e8757-a262-43d6-9d14-344846a9f741"
+      Hint: Street
+      Value: Johan Kocksgatan 10
+    - ID: "a17601f8-44a0-4cee-8e24-05fdea8848b3"
+      Hint: Fax
+      Value: +27 11 865 29 65
+    - ID: "a7c0bc9e-ce73-4ec1-b323-5212f3f25f16"
+      Hint: CompanyName
+      Value: Trelleborg Coated Systems
+    - ID: "abdcd561-b906-46fc-bf88-0877cbbdb989"
+      Hint: Phone1
+      Value: +45 73 151 15 14
+    - ID: "c820b915-5674-4585-a0b7-951cbe783cee"
+      Hint: AddressType
+      Value: "{7D9E01F8-03BC-4700-BC51-1C7E14FD4BF1}"

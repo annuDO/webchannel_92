@@ -1,0 +1,23 @@
+﻿---
+ID: "39ba4e95-a676-4fd6-99b6-3101bad6bafd"
+Parent: "c22b752c-30d7-4f26-8cd2-8f7511505632"
+Template: "4513bcb4-c574-46a2-90c4-ab7e06e25c35"
+Path: /sitecore/content/Trelleborg/Global/Home/Page2
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T093744Z
+    - ID: "3197b61b-0543-40f3-aedc-938bc589aa22"
+      Hint: BannerHeadline
+      Value: Page2
+    - ID: "3a91c7ff-d5f2-4353-98f4-41ef654b7e42"
+      Hint: Title
+      Value: Page2
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: Page2

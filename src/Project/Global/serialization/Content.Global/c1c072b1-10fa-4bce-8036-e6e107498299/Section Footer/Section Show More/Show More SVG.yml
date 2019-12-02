@@ -1,0 +1,25 @@
+﻿---
+ID: "fc67c406-bcf8-4894-886a-094d7ca0369e"
+Parent: "4e5720e2-28d5-4011-a64b-cf4db2072b8b"
+Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Sectionintro/H3 Header/Section Intro/Section Row/Section Wrapper/Section Footer/Section Show More/Show More SVG
+DB: master
+SharedFields:
+- ID: "1aa68c0b-eb67-4575-9ca8-1689c2aff091"
+  Hint: Tag
+  Value: "{FF819CDE-E98A-4AB7-B8B0-65EE989369F7}"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07211f80-7ffc-4df4-a4de-c8956f391850"
+      Hint: Text
+      Value: |
+         <svg width="12" height="4" viewBox="0 0 12 4" fill="none" xmlns="http://www.w3.org/2000/svg">  <path d="M6 4L0 0.944445L0.631579 0L6 2.72222L11.3684 0L12 0.944445L6 4Z" fill="#998242"/>                                     </svg>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T060928Z

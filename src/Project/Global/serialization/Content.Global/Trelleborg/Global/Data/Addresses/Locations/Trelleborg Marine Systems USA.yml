@@ -1,0 +1,56 @@
+﻿---
+ID: "f59a4983-fb0a-40ba-a21b-704e58f60c25"
+Parent: "2722add7-448b-4ec6-9630-3db22443cec9"
+Template: "9485271b-ce01-4ab2-8cac-a70080a431dc"
+Path: /sitecore/content/Trelleborg/Global/Data/Addresses/Locations/Trelleborg Marine Systems USA
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "025e04e2-f924-4db5-86e1-5b8fc9700ad1"
+      Hint: Longitude
+      Value: 77.6963735
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T115643Z
+    - ID: "43b22c71-dfad-409b-b434-abc70ec13b8c"
+      Hint: City
+      Value: "{F5AB5DE3-E0A5-438D-9391-E80D8EB25799}"
+    - ID: "51124b46-3ece-4f84-af72-e6102dc11b57"
+      Hint: Zipcode
+      Value: "VA 22611-0937"
+    - ID: "5e57f735-6768-4e2e-ba34-cf2cf5010720"
+      Hint: Country
+      Value: "{C63E335F-F495-4429-A230-C9F32E4C3D46}"
+    - ID: "6bf1df23-c261-4621-a4ee-fc4f562a177f"
+      Hint: Image
+      Value: 
+    - ID: "962e8757-a262-43d6-9d14-344846a9f741"
+      Hint: Street
+      Value: 532 Jack Enders Boulevard, PO Box 937,
+    - ID: "9b330547-d11b-45f7-9a0d-6567f4c3840a"
+      Hint: Email
+      Value: TMS.USA@Trelleborg.com
+    - ID: "a17601f8-44a0-4cee-8e24-05fdea8848b3"
+      Hint: Fax
+      Value: +1 540 667 7987
+    - ID: "a7c0bc9e-ce73-4ec1-b323-5212f3f25f16"
+      Hint: CompanyName
+      Value: Trelleborg Marine Systems USA
+    - ID: "abdcd561-b906-46fc-bf88-0877cbbdb989"
+      Hint: Phone1
+      Value: +1 540 667 5191
+    - ID: "beb2f6c0-1827-4e6a-98fe-83c3987bb1b3"
+      Hint: Latitude
+      Value: 12.981898
+    - ID: "c820b915-5674-4585-a0b7-951cbe783cee"
+      Hint: AddressType
+      Value: "{38C604C9-59E8-4D94-9A20-99DCA7D2188D}"
+    - ID: "ead59e36-c58f-44ca-9772-c56eaaa6beae"
+      Hint: CountryList
+      Type: Multilist
+      Value: |
+        {C63E335F-F495-4429-A230-C9F32E4C3D46}
+        {D7E2182D-5D28-4A1D-94CE-CDB5B4D34E9E}

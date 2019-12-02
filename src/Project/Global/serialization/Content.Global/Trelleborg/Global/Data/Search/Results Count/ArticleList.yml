@@ -1,0 +1,14 @@
+﻿---
+ID: "1b24fe9f-6200-40ec-928a-f1c6e6b42a45"
+Parent: "d0124bee-516a-411d-8acf-845612d14f29"
+Template: "d873c6e4-52b6-408b-b44b-a27b67e5daf9"
+Path: /sitecore/content/Trelleborg/Global/Data/Search/Results Count/ArticleList
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T110404Z

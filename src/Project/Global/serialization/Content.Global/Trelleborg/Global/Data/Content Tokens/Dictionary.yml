@@ -1,0 +1,14 @@
+﻿---
+ID: "c291e69f-3ea0-4d28-9069-230fe95c1117"
+Parent: "9acb7630-1e25-40e0-a123-3448338e3da1"
+Template: "29252703-d448-451c-bf1e-65b16174f4b0"
+Path: /sitecore/content/Trelleborg/Global/Data/Content Tokens/Dictionary
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T111350Z

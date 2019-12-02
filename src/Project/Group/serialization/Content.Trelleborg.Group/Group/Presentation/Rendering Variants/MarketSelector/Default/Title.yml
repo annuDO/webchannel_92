@@ -1,0 +1,29 @@
+﻿---
+ID: "e4875dcc-583b-4668-aba2-5746d7271646"
+Parent: "7ab288e7-6af3-4cee-9ba8-c2a91dbaa806"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: /sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/MarketSelector/Default/Title
+DB: master
+BranchID: "e79cf1c8-b993-4209-bec0-5d550e4ea3d1"
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "dcb05e5e-7151-4226-a3b0-108c5e2f05b5"
+  Hint: IsLink
+  Value: 1
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2BF1F82C-4299-400E-B46F-48BBD4E4CC2A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191023T072456Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

@@ -1,0 +1,35 @@
+﻿---
+ID: "bd1f827d-1090-44f3-b721-6db5bcec3dbb"
+Parent: "006036c8-a6df-4535-ac19-c67bb9c47db3"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/scripts/component-hotspot-tb"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/BD1F827D109044F3B7216DB5BCEC3DBB.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "60b68c02-6226-422b-b657-248ca34ef44c"
+  Value: JHhhKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbiAoKSB7DQogICR4YShkb2N1bWVudCkub24oImNsaWNrIiwgIi50Yi1ob3RzcG90LWltZy13cmFwcGVyIiwgZnVuY3Rpb24gKGUpIHsNCiAgICB2YXIgdGhpc09iaiA9ICQodGhpcyksDQogICAgICAgIHBhcmVudE9mZnNldCA9IHRoaXNPYmoucGFyZW50KCkub2Zmc2V0KCk7DQogICAgdmFyIHJlbFggPSAoZS5wYWdlWCAtIHBhcmVudE9mZnNldC5sZWZ0KSAqIDEwMCAvIHRoaXNPYmoud2lkdGgoKTsNCiAgICB2YXIgcmVsWSA9IChlLnBhZ2VZIC0gcGFyZW50T2Zmc2V0LnRvcCkgKiAxMDAgLyB0aGlzT2JqLmhlaWdodCgpOw0KICAgIGNvbnNvbGUubG9nKCJYPSIgKyByZWxYLCAiWT0iICsgcmVsWSk7DQogIH0pOw0KfSk7
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 381
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191202T065209Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

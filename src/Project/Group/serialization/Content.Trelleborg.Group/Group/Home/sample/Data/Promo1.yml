@@ -27,3 +27,29 @@ Languages:
       Hint: PromoLink
       Value: |
         <link linktype="internal" querystring="" target="" id="{16FFB5B5-68C2-4020-B0A2-F2967E255CBF}" />
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "14023dd5-30e7-4e3c-bf31-d835f3a87410"
+      Hint: PromoText
+      Value: <p>Ŧĥįş įş đęmő přőmő čőmpőŉęŉŧ</p>
+    - ID: "18f9beb8-0116-40fd-b47e-fd0a2327d7e0"
+      Hint: PromoIcon
+      Value: |
+        <image alt="" mediaid="{F8802542-3AD5-46AD-AD6C-C827D96E9F11}" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190926T094033Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "82a6ce45-59b5-4bc8-83b9-79ccb8174a2a"
+      Hint: PromoIcon2
+      Value: |
+        <image alt="" mediaid="{00000000-0000-0000-0000-000000000000}" />
+    - ID: "b8c1a9d2-de76-4519-aff4-1442525f32b0"
+      Hint: PromoLink
+      Value: |
+        <link linktype="internal" querystring="" target="" id="{16FFB5B5-68C2-4020-B0A2-F2967E255CBF}" />

@@ -1,0 +1,80 @@
+﻿---
+ID: "28a3c8d2-7327-4a92-b01a-e59766c29159"
+Parent: "c22b752c-30d7-4f26-8cd2-8f7511505632"
+Template: "4513bcb4-c574-46a2-90c4-ab7e06e25c35"
+Path: /sitecore/content/Trelleborg/Global/Home/A new page
+DB: master
+SharedFields:
+- ID: "db51d4e9-c24d-4670-af0e-62c8aa08e2b6"
+  Hint: LocalData
+  Value: "{998F5827-2AC7-4287-8890-6FBA7318E662}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <p
+              uid="{F8584077-4096-4EEE-BD71-2F80FA60803F}"
+              p:before="*"
+              s:key="/header/sxa-tbheader/container-1"
+              s:md="{013638C0-A285-4EAB-B6AE-B7CD9E54553D}" />
+            <r
+              uid="{EAF692E4-4E88-4985-951B-E66EC1FC9777}"
+              p:after="p[@uid='{F8584077-4096-4EEE-BD71-2F80FA60803F}']"
+              s:ds="local:/Data/one"
+              s:id="{4E84D9F6-354C-4FCC-B476-95BA08B87187}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="main" />
+            <r
+              uid="{9F0F908A-05B1-4B45-A107-F9DADE1FFB77}"
+              p:after="r[@uid='{EAF692E4-4E88-4985-951B-E66EC1FC9777}']"
+              s:ds="local:/Data/test"
+              s:id="{198582F6-304A-49F0-91CA-7538F5C44C3F}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="main" />
+            <r
+              uid="{04E2A135-AABE-48F7-9466-151770934BFB}"
+              p:after="*[1=2]"
+              s:id="{38EC7023-46FD-473A-AB27-F5334FAF4A35}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D&amp;FieldNames=%7B41387316-DD19-41B7-82EB-3C2D9E6D9B45%7D&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="/header/sxa-tbheader/container-1" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T141424Z
+    - ID: "3197b61b-0543-40f3-aedc-938bc589aa22"
+      Hint: BannerHeadline
+      Value: Turning challenges into oppurtunities
+    - ID: "3a91c7ff-d5f2-4353-98f4-41ef654b7e42"
+      Hint: Title
+      Value: A new page
+    - ID: "45fec92a-20d2-4cef-a2f3-0329d3da238d"
+      Hint: BannerSubHeadLine
+      Value: A Sub heading
+    - ID: "47f7cabb-3a00-4536-aa64-4d07730a08f1"
+      Hint: BannerText
+      Value: |
+        <ul>
+            <li>one ghjh hj hj jhg jhg jhgjh gjh jh jhg jhjh jh&nbsp;</li>
+            <li>two kjhkjh kjh kjhkj kj hkjh kjh kjhkj kj&nbsp;</li>
+        </ul>
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: A new page
+    - ID: "8e279643-4160-4700-b31f-96e0c247a023"
+      Hint: MainImage
+      Value: |
+        <image mediaid="{04CB727B-9A76-4087-9460-4EB7DD436F13}" ></image>
+    - ID: "afad6a61-ad4b-4306-84a0-4e4cd3dbec47"
+      Hint: BannerCta
+      Value: |
+        <link text="Read More" anchor="" linktype="internal" class="" title=""  querystring="" id="{69218F8A-4A00-4A99-8270-21807258894F}" />

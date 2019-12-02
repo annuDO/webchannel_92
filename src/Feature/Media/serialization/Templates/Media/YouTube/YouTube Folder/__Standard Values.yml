@@ -1,0 +1,28 @@
+﻿---
+ID: "0f39575d-58c1-4950-91a6-dadad9505119"
+Parent: "9e646478-548a-4da3-8a1d-59efae36b397"
+Template: "9e646478-548a-4da3-8a1d-59efae36b397"
+Path: /sitecore/templates/Feature/Trelleborg/Media/YouTube/YouTube Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: apps/32x32/tour.png
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {5088278E-9646-4178-90C9-6FB6B77F146D}
+    {9E646478-548A-4DA3-8A1D-59EFAE36B397}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

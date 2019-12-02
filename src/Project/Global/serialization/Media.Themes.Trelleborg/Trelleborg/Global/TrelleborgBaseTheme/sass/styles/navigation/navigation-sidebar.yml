@@ -1,16 +1,16 @@
 ﻿---
-ID: "293916cc-2ed1-486a-9aab-ec86c9f6ac8e"
-Parent: "1ed110dd-f66d-4caf-86ba-fe1b2fa9dc29"
+ID: "3476cdff-e7f2-42d0-862d-b1fb7fb1d6ff"
+Parent: "df7f7142-8128-415f-a502-b6f1c9a65701"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/styles/navigation/navigation-sidebar"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/5C8421B660F14242ACE20AABCCFC74BD.ashx?h=16&thn=1&w=16"
+  Value: "-/media/3476CDFFE7F242D0862DB1FB7FB1D6FF.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "2ff9bf8e-d477-4c7b-9603-5932c75791ae"
+  BlobID: "ea1fcae8-fa8f-4e06-b0d2-212a52eecc41"
   Value: QGltcG9ydCAiLi4vLi4vYWJzdHJhY3RzL3ZhcnMiOw0KQGltcG9ydCAiLi4vLi4vYWJzdHJhY3RzL21peGlucyI7DQoubmF2aWdhdGlvbi5uYXZpZ2F0aW9uLXNpZGViYXIgew0KICAgIGEgew0KICAgICAgICB0ZXh0LWRlY29yYXRpb246IG5vbmU7DQogICAgfQ0KICAgIG5hdj51bCB7DQogICAgICAgIC5yZWwtbGV2ZWwxIHsNCiAgICAgICAgICAgID4ubmF2aWdhdGlvbi10aXRsZSB7DQogICAgICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogMDsNCiAgICAgICAgICAgICAgICA+YSB7DQogICAgICAgICAgICAgICAgICAgIHBhZGRpbmc6IDVweCAxMHB4Ow0KICAgICAgICAgICAgICAgICAgICBkaXNwbGF5OiBibG9jazsNCiAgICAgICAgICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOw0KICAgICAgICAgICAgICAgICAgICB6LWluZGV4OiAxOw0KICAgICAgICAgICAgICAgICAgICBtYXJnaW4tcmlnaHQ6IDA7DQogICAgICAgICAgICAgICAgfQ0KICAgICAgICAgICAgfQ0KICAgICAgICAgICAgPnVsIHsNCiAgICAgICAgICAgICAgICBtYXJnaW4tbGVmdDogJHNtYWxsLW1hcmdpbjsNCiAgICAgICAgICAgICAgICBtYXJnaW4tdG9wOiAkZXh0cmFzbWFsbC1tYXJnaW47DQogICAgICAgICAgICB9DQogICAgICAgIH0NCiAgICAgICAgLnJlbC1sZXZlbDIgew0KICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7DQogICAgICAgIH0NCiAgICB9DQp9DQo=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
@@ -28,8 +28,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170614T063807Z
+      Value: 20191119T101238Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\admin

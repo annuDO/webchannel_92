@@ -1,0 +1,36 @@
+﻿---
+ID: "3f0de1a7-08a6-4cf1-90bf-9d0dbd379eba"
+Parent: "bc15f8cd-2b72-4026-b7c3-9e9fba8c1694"
+Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/CustomNavigation/Default Footer Variant/$name/default-footer/div/div/social-section/close-section/close-btn"
+DB: master
+SharedFields:
+- ID: "1aa68c0b-eb67-4575-9ca8-1689c2aff091"
+  Hint: Tag
+  Value: 
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "07211f80-7ffc-4df4-a4de-c8956f391850"
+      Hint: Text
+      Value: |
+         <div class="tb-footer-links-header">
+                                      <h4 class="tb-footer-links-title"></h4>
+                                      <a href="#" class="tb-footer-close-btn">
+                                         <svg width="12" height="12" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                            <path d="M16 0.736842L15.2632 0L8 7.26316L0.736842 0L0 0.736842L7.26316 8L0 15.2632L0.736842 16L8 8.73684L15.2632 16L16 15.2632L8.73684 8L16 0.736842Z" fill="#393939" />
+                                         </svg>
+                                      </a>
+                                   </div>
+                                   <div class="tb-footer-links-body">
+                                      <!--html will render from js-->
+                                   </div>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T112136Z

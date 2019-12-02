@@ -13,7 +13,7 @@ SharedFields:
   Value: "{77D9DE88-8D00-43B9-9C9B-6B5B6923C4E5}"
 - ID: "1a7c85e5-dc0b-490d-9187-bb1dbcb4c72f"
   Hint: Datasource Template
-  Value: /sitecore/templates/Feature/Trelleborg/CustomNavigation/Footer
+  Value: /sitecore/templates/Feature/Trelleborg/CustomNavigation/Footer/Footer
 - ID: "34e81e40-1d4d-45b0-bcf1-a0ffe5521685"
   Hint: RenderingCssClass
   Value: footer
@@ -23,6 +23,10 @@ SharedFields:
 - ID: "94069f66-609c-48b0-8281-521c30fb269d"
   Hint: Open Properties after Add
   Value: 0
+- ID: "a2f5d9df-8cba-4a1d-99eb-51acb94cb057"
+  Hint: Page Editor Buttons
+  Type: Treelist
+  Value: "{C9405A72-F2BB-484C-B2C4-25E820C5B684}"
 - ID: "b0b15510-b138-470e-8f33-8da2e228aafe"
   Hint: Rendering Contents Resolver
   Value: "{89661D30-CF7D-479F-A3C4-D61C289A41E2}"

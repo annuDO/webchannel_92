@@ -1,0 +1,17 @@
+﻿---
+ID: "e901d7a6-9ea7-4cc0-b95c-4b8278545982"
+Parent: "513a10a0-d3cd-4746-be12-294930f2eb93"
+Template: "d2923fee-da4e-49be-830c-e27764dfa269"
+Path: /sitecore/system/Settings/Foundation/Experience Accelerator/Rendering Variants/Enums/Tags/address
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "9541e67d-ce8c-4225-803d-33f7f29f09ef"
+    Hint: __Short description
+    Value: 
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Value: "20191030T064133:637080144936491966Z"

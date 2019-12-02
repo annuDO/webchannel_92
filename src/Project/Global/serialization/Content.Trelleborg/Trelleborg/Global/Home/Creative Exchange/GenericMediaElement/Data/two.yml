@@ -1,0 +1,32 @@
+﻿---
+ID: "d71b4fa2-d1db-4cbf-8bc4-8abf2c835ef1"
+Parent: "16d14fa2-2d0a-4fac-982e-abf33f055df4"
+Template: "a2390ea5-4073-4b2c-a32a-487300116a32"
+Path: /sitecore/content/Trelleborg/Global/Home/Creative Exchange/GenericMediaElement/Data/two
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13268fb8-da1a-4352-a20a-f4da53336ad2"
+      Hint: GMContent
+      Value: Discover the optimized solutions that seal, damp and protect your critical applications.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191107T220731Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "735134f8-aaf0-406c-b161-5fe00dedc070"
+      Hint: GMImage
+      Value: |
+        <image mediaid="{04CB727B-9A76-4087-9460-4EB7DD436F13}" />
+    - ID: "7927b765-ebe6-49dc-a855-62324563b669"
+      Hint: GMHeadline
+      Value: Our Solutions
+    - ID: "d78ae18b-a07f-41f4-bf21-0ad387bba3f2"
+      Hint: GMLink
+      Value: |
+        <link linktype="internal" text="Read More" querystring="" target="" id="{C22B752C-30D7-4F26-8CD2-8F7511505632}" />

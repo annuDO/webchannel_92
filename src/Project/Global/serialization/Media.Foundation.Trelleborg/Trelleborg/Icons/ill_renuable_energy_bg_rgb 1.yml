@@ -1,0 +1,44 @@
+﻿---
+ID: "a48a67c6-a0f0-42db-82cb-2d2e8b1d33a6"
+Parent: "c9326ca7-bf82-4121-a8bb-b8b336cbcadb"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Foundation/Trelleborg/Icons/ill_renuable_energy_bg_rgb 1
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/A981E83EDA5149CC8FDA46F752E995D1.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 56
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "563c69ef-5dcd-4a1f-b131-4fb9237ac08e"
+  Value: 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
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1663
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 56 x 56
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 56
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T110130Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,25 @@
+﻿---
+ID: "9454fbfd-d86a-45a1-b13f-56b21f7a059e"
+Parent: "84d428ce-43d0-4b56-a369-381e8e48b08a"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default Related Media Element List Variant/$name/Default/container/container-row/relativemedia-container/relative-media-row/media-Item/media-list/Item/itemlink"
+DB: master
+SharedFields:
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-link tb-relativemedia-readmore-container"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 150
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T133818Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        <a href="$item.Paths.ContentPath" target="_blank" class=""tb-body tb-font-500">$fieldTokens.GetDictionaryValue("/Data/Content Tokens/Dictionary/ReadMore")</a>

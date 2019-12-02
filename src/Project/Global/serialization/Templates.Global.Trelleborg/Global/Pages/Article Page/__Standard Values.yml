@@ -1,0 +1,24 @@
+﻿---
+ID: "85334dcf-9262-45b8-bb6d-55757c329429"
+Parent: "9739be78-3401-4fe1-baa7-fad898cf1548"
+Template: "9739be78-3401-4fe1-baa7-fad898cf1548"
+Path: /sitecore/templates/Project/Trelleborg/Global/Pages/Article Page/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T100224Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "7d988161-3991-465a-a88c-280bc65542a0"
+      Hint: OpenGraphTitle
+      Value: $name
+    - ID: "ce615fcd-c864-42bc-ab94-eaa0be22eb5b"
+      Hint: ArticleDate
+      Value: $date

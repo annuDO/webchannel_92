@@ -1,0 +1,14 @@
+﻿---
+ID: "e9732bb7-a021-4592-b3ee-99580f9201a9"
+Parent: "2483eaeb-2771-4b86-b5fa-7dec78c5927a"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sources/address-list"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T095204Z

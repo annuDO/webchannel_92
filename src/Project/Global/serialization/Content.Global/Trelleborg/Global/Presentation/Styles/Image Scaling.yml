@@ -1,0 +1,18 @@
+﻿---
+ID: "e7c7df4a-77b2-4cd3-b2cc-c369f214b060"
+Parent: "828fdf52-27dd-4cdf-85d0-bfe4314e7c1f"
+Template: "c6dc7393-15bb-4cd7-b798-ab63e77ebac4"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Styles/Image Scaling
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T131907Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

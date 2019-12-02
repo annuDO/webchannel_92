@@ -1,0 +1,29 @@
+﻿---
+ID: "2d7c1620-d4b0-41ab-9bd9-a358d40f3102"
+Parent: "41a89a61-9e36-440c-abb7-d201516abbeb"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Sectionintro/Default/Section Intro/Section Row/Section Wrapper
+DB: master
+BranchID: "cb2eab27-e28e-44bf-94f1-0ee9a327414b"
+SharedFields:
+- ID: "a4d004e6-2a4b-4c53-a4f3-9c481df71cdc"
+  Hint: Tag
+  Value: "{CFE9AF06-F220-40AE-8C7A-90D019B642F1}"
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "col-lg-12 tb-sectionintro"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{E82A49EC-5349-48D2-9421-30DE37E2979A}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T171902Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

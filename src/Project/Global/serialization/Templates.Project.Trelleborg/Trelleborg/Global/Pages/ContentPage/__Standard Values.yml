@@ -1,0 +1,21 @@
+﻿---
+ID: "b868a961-3fde-43f5-99ff-0f777863b452"
+Parent: "4513bcb4-c574-46a2-90c4-ab7e06e25c35"
+Template: "4513bcb4-c574-46a2-90c4-ab7e06e25c35"
+Path: /sitecore/templates/Project/Trelleborg/Global/Pages/ContentPage/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191117T105557Z
+    - ID: "3197b61b-0543-40f3-aedc-938bc589aa22"
+      Hint: BannerHeadline
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

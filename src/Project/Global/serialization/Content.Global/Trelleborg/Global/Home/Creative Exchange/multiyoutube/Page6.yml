@@ -1,0 +1,42 @@
+﻿---
+ID: "3c1e600f-f565-451a-8866-cac118508cf1"
+Parent: "f81f119b-11a5-4a13-ad7d-07a3d6c3438a"
+Template: "6dd1d06d-3a49-492c-8d6b-2d13ef011eba"
+Path: /sitecore/content/Trelleborg/Global/Home/Creative Exchange/multiyoutube/Page6
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 600
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T134010Z
+    - ID: "3a91c7ff-d5f2-4353-98f4-41ef654b7e42"
+      Hint: Title
+      Value: MultiLanguage YouTube Page6
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New MultiLanguage YouTube Page
+    - ID: "8e279643-4160-4700-b31f-96e0c247a023"
+      Hint: MainImage
+      Value: |
+        <image mediaid="{B0A0A013-F00A-4A1A-9A43-5A5199E22BB5}" />
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T101908Z
+    - ID: "3a91c7ff-d5f2-4353-98f4-41ef654b7e42"
+      Hint: Title
+      Value: Page6
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

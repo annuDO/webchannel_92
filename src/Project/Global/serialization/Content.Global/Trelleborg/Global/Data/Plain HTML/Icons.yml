@@ -1,0 +1,19 @@
+﻿---
+ID: "734f8b0e-9f59-4204-89a8-5a2c5ce46637"
+Parent: "eb059322-75a7-4953-926b-f23bc109164d"
+Template: "5ab4ae85-0e97-4afb-8498-b93c657a0df0"
+Path: /sitecore/content/Trelleborg/Global/Data/Plain HTML/Icons
+DB: master
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20191112T115857:637091567377300570Z"

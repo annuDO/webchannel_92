@@ -1,0 +1,22 @@
+﻿---
+ID: "083b33f0-9226-4dc3-8a31-2f884c4ec176"
+Parent: "fdb32e3d-a4bb-406f-979b-0f0a0236877c"
+Template: "f3c0661e-f9a9-444c-a26d-44bf2a68a186"
+Path: /sitecore/content/Trelleborg/Global/Data/Search/Results Count/AddressList/Results Count
+DB: master
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04dbbaaf-675a-4324-aebd-9b32d2d8d7d3"
+      Hint: ResultsCountText
+      Value: "Address {count} found"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T110412Z

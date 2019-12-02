@@ -1,0 +1,35 @@
+﻿---
+ID: "4ef799fb-d44a-4690-a7e7-180d80874d81"
+Parent: "c8b824a4-66f4-431a-977a-1617948e81a3"
+Template: "c8b824a4-66f4-431a-977a-1617948e81a3"
+Path: /sitecore/templates/Feature/Trelleborg/List/AddressList/AddressList/__Standard Values
+DB: master
+SharedFields:
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "254848de-32b4-4211-b041-17fcecbb3a87"
+      Hint: Header
+      Value: Address List
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T094000Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "932bd874-ad6b-4aad-9435-fc9142c9e003"
+      Hint: FilterLabel2
+      Value: Sort By
+    - ID: "97aa4ca3-e3c9-4f70-9395-5a724e344438"
+      Hint: FilterLabel1
+      Value: Select Country
+    - ID: "9a654600-3357-4896-9edb-e53b1374ae26"
+      Hint: PageSize
+      Value: 3

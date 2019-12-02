@@ -1,0 +1,18 @@
+﻿---
+ID: "4e4f7830-e980-45af-ab37-378d750c4888"
+Parent: "a7f850f1-8d28-4a0a-89f3-6c817e283123"
+Template: "c208c431-f746-4812-bb66-0d244391c444"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Page Designs/Creative Exchange
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191014T111550Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

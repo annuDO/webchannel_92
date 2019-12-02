@@ -1,0 +1,25 @@
+﻿---
+ID: "38b8c53e-15bb-4289-bbf6-2775e7318843"
+Parent: "13fd4f1d-9540-416a-96c0-bfba33709692"
+Template: "a2390ea5-4073-4b2c-a32a-487300116a32"
+Path: /sitecore/content/Trelleborg/Global/Home/Creative Exchange/Banner/Data/three
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191117T155217Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "735134f8-aaf0-406c-b161-5fe00dedc070"
+      Hint: GMImage
+      Value: |
+        <image mediaid="{04CB727B-9A76-4087-9460-4EB7DD436F13}" />
+    - ID: "7927b765-ebe6-49dc-a855-62324563b669"
+      Hint: GMHeadline
+      Value: Our Services

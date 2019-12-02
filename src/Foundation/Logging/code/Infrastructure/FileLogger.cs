@@ -1,11 +1,11 @@
 ﻿using log4net;
 using log4net.Config;
-using Trelleborg.Foundation.DependencyInjection;
+//using Trelleborg.Foundation.DependencyInjection;
 using System;
 
 namespace Trelleborg.Foundation.Logging
 {
-  [Service(typeof(ILogger))]
+  //[Service(typeof(ILogger))]
   public class FileLogger : ILogger
   {
     private readonly ILog Logger;

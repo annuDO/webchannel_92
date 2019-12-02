@@ -1,0 +1,24 @@
+﻿---
+ID: "75b65ae0-515f-46df-9899-46b0f24e7306"
+Parent: "e936c111-b644-432e-bc60-920583130878"
+Template: "c7708324-06be-4cdb-a884-947cfe19df04"
+Path: /sitecore/content/Trelleborg/Global/Home/Creative Exchange/addressList/Data/Copy of test
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f04a551-ccaa-4c95-9767-fe9e7f05a90f"
+      Hint: Title
+      Value: Contacts
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T074154Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "ca67df64-5020-4983-be14-a9a9347f40b3"
+      Hint: Addresses
+      Value: "{808571C6-2340-44E1-9B01-C45F2DB49DD4}|{4CBFE961-CCED-404A-B49E-FCC40431C9CA}"

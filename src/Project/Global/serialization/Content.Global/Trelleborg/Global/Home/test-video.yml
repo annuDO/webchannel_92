@@ -1,0 +1,55 @@
+﻿---
+ID: "1cff70cd-eba9-43be-86ac-8f9653c2bb40"
+Parent: "c22b752c-30d7-4f26-8cd2-8f7511505632"
+Template: "0bae2cbd-33f5-4212-83f8-d63ad3c945a4"
+Path: "/sitecore/content/Trelleborg/Global/Home/test-video"
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "04bf00db-f5fb-41f7-8ab7-22408372a981"
+      Hint: __Final Renderings
+      Type: Layout
+      Value: |
+        <r xmlns:p="p" xmlns:s="s"
+          p:p="1">
+          <d
+            id="{FE5D7FDF-89C0-4D99-9AA3-B5FBD009C9F3}">
+            <r
+              uid="{DF90AB82-73EE-42A3-9F0E-B5EB32278939}"
+              p:before="*"
+              s:ds="{43A4E3D7-865C-4117-9E12-9A26D2645CBA}"
+              s:id="{A157DBED-C929-4B28-A3F3-CE4C907946A0}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D%7C%7B7AF5C340-8A60-4D59-A7A1-5DBAB391292C%7D%7C%7BFA0DF184-71D5-4B37-BAB6-20C936E84FFA%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=2"
+              s:ph="main" />
+            <r
+              uid="{4ECBCC87-D858-4BBF-9529-4BB9414AF24A}"
+              p:after="r[@uid='{DF90AB82-73EE-42A3-9F0E-B5EB32278939}']"
+              s:ds="{43A4E3D7-865C-4117-9E12-9A26D2645CBA}"
+              s:id="{A157DBED-C929-4B28-A3F3-CE4C907946A0}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D%7C%7B7AF5C340-8A60-4D59-A7A1-5DBAB391292C%7D%7C%7BFA0DF184-71D5-4B37-BAB6-20C936E84FFA%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=3"
+              s:ph="main" />
+            <r
+              uid="{BA8814A2-075B-415F-BB22-FC50E1E88F00}"
+              p:after="*[1=2]"
+              s:ds="{43A4E3D7-865C-4117-9E12-9A26D2645CBA}"
+              s:id="{A157DBED-C929-4B28-A3F3-CE4C907946A0}"
+              s:par="GridParameters=%7B908E2BC6-C110-4ED7-AF39-7EEACBB31A34%7D%7C%7B03EA3C58-9F87-41D5-95D6-4B899C88572E%7D%7C%7B7AF5C340-8A60-4D59-A7A1-5DBAB391292C%7D%7C%7BFA0DF184-71D5-4B37-BAB6-20C936E84FFA%7D&amp;FieldNames&amp;Styles&amp;Reset Caching Options&amp;RenderingIdentifier&amp;DynamicPlaceholderId=1"
+              s:ph="main" />
+          </d>
+        </r>
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191122T090643Z
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: "test-video"
+    - ID: "58aebef9-88b0-4c86-8907-12a78a1533f7"
+      Hint: Title
+      Value: "test-video"
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

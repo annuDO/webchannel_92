@@ -1,0 +1,26 @@
+﻿---
+ID: "6e247428-8911-4130-a471-0b671ba75194"
+Parent: "477c7888-17cf-4eec-8969-ff67e4269841"
+Template: "998b965e-6ab8-4568-810f-8101d60d0cc3"
+Path: /sitecore/system/Settings/Validation Rules/Field Rules/Trelleborg/Rich Text Max Length 700/Trim
+DB: master
+SharedFields:
+- ID: "cab694fc-e37c-44eb-9012-488b775cf638"
+  Hint: Message
+  Value: "validator:trim(markerid=$Target)"
+Languages:
+- Language: en
+  Fields:
+  - ID: "9b72a62b-2775-423d-b17a-ec34a9f31af8"
+    Hint: Display name
+    Value: Trim
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20070118T135840
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

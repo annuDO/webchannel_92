@@ -1,0 +1,18 @@
+﻿---
+ID: "22166ff0-1f5f-492c-91e1-0633617c93e7"
+Parent: "9b009205-b2c1-49d2-b9ac-d32818ac699a"
+Template: "fb3e3034-33f8-4ce8-be98-dd05010f4c22"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/GenericMediaElement/ImageRight
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191104T105822Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

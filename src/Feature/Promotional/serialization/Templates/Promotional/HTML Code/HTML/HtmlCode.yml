@@ -1,0 +1,29 @@
+﻿---
+ID: "a7ecacd6-bbc2-44a7-b5ff-d9c2f42142e0"
+Parent: "50cb1290-b4c9-4fff-b8e5-fa44b4840483"
+Template: "455a3e98-a627-4b40-8035-e683a0331ac7"
+Path: /sitecore/templates/Feature/Trelleborg/Promotional/HTML Code/HTML/HtmlCode
+DB: master
+SharedFields:
+- ID: "ab162cc0-dc80-4abf-8871-998ee5d7ba32"
+  Hint: Type
+  Value: "Multi-Line Text"
+- ID: "b118496a-0f78-4a27-b55f-0a6c4b0b0fe1"
+  Hint: Default value
+  Value: |
+    <a class="twitter-timeline" data-tweet-limit=numberOfTwittes href="twitterUrl">Tweets </a>  <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Fields:
+  - ID: "19a69332-a23e-4e70-8d16-b2640cb24cc8"
+    Hint: Title
+    Value: Code
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120629T115700Z

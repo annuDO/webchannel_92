@@ -1,0 +1,27 @@
+﻿---
+ID: "ef2f7a64-2f2c-42ea-b247-80ed09d83a86"
+Parent: "7ae6b4a2-345e-4745-afd1-5c8ec5883709"
+Template: "7ae6b4a2-345e-4745-afd1-5c8ec5883709"
+Path: /sitecore/templates/Feature/Trelleborg/List/Calendar Event/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1fb9f55d-2c43-49c2-a61d-df8552c88c20"
+      Hint: EventName
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130402T152600
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "a746e8b0-b3a9-4918-a3c6-db8977dd0da5"
+      Hint: EndLabel
+      Value: to
+    - ID: "b2acd4da-a306-460b-81dc-fe40d3461a43"
+      Hint: StartLabel
+      Value: from

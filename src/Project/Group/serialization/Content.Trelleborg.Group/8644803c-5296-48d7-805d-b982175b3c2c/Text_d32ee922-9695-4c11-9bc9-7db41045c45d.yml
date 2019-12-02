@@ -1,0 +1,14 @@
+﻿---
+ID: "d32ee922-9695-4c11-9bc9-7db41045c45d"
+Parent: "8644803c-5296-48d7-805d-b982175b3c2c"
+Template: "7c02e9f5-54b5-4ef4-bd10-f4c5d448a48c"
+Path: /sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/Promo/Default/Text
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T090515Z

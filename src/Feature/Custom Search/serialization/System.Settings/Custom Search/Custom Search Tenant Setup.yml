@@ -1,0 +1,17 @@
+﻿---
+ID: "ab7788a6-3bb7-445f-b8ab-0ab09a02160d"
+Parent: "ffa10145-cb8c-47e7-968f-c304ce8274a4"
+Template: "141df88e-7156-4d2e-a004-c8c1a7c51e9d"
+Path: /sitecore/system/Settings/Feature/Trelleborg/Custom Search/Custom Search Tenant Setup
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191127T102855Z
+    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
+      Hint: Name
+      Value: Custom Search

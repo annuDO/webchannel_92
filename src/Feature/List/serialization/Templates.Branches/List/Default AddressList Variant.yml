@@ -1,0 +1,18 @@
+﻿---
+ID: "2037d7c2-630b-4b16-bf13-57c3d01d64ac"
+Parent: "fe91f0a4-c40f-4f2c-bd8a-6ff8cb969f24"
+Template: "35e75c72-4985-4e09-88c3-0eac6cd1e64f"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/List/Default AddressList Variant
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160818T065035Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

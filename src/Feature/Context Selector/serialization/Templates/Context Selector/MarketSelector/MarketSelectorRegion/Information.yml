@@ -1,0 +1,14 @@
+﻿---
+ID: "904e8061-e1d5-41a7-95e9-9b8616b72ea5"
+Parent: "0be2b47d-7f91-48ae-962e-ddff3bda9d9b"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Feature/Trelleborg/Context Selector/MarketSelector/MarketSelectorRegion/Information
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191015T082128Z

@@ -1,5 +1,5 @@
 ﻿---
-ID: "c4aa4a28-39cd-487e-97ae-43268facccbb"
+ID: "fc87cdd6-612c-4b96-88f6-bf6ff3de953d"
 Parent: "018ac343-2879-4f9e-bad6-b5557ba6b58b"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/gulp/util/cssMinificator
@@ -7,10 +7,10 @@ DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/0391046EEBC24C9799FC159E246A2B9F.ashx?h=16&thn=1&w=16"
+  Value: "-/media/FC87CDD6612C4B9688F6BF6FF3DE953D.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "4b324dd8-d9a0-4911-8474-657a43d54920"
+  BlobID: "fcbce444-bd1d-4c91-b620-2cc674a5800c"
   Value: aW1wb3J0IGd1bHAgZnJvbSAnZ3VscCc7DQppbXBvcnQgY2xlYW5DU1MgZnJvbSAnZ3VscC1jbGVhbi1jc3MnOw0KDQppbXBvcnQgZ3VscFNvdXJjZW1hcHMgZnJvbSAnZ3VscC1zb3VyY2VtYXBzJzsNCmltcG9ydCBndWxwaWYgZnJvbSAnZ3VscC1pZic7DQppbXBvcnQgZ3VscFJlbmFtZSBmcm9tICdndWxwLXJlbmFtZSc7DQoNCmltcG9ydCBndWxwQ29uY2F0IGZyb20gJ2d1bHAtY29uY2F0JzsNCmltcG9ydCBjb25maWcgZnJvbSAnLi4vY29uZmlnJzsNCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uICgpIHsNCiAgICBsZXQgY29uZiA9IGNvbmZpZy5jc3M7DQogICAgbGV0IHN0cmVhbVNvdXJjZSA9IGNvbmYubWluaWZpY2F0aW9uUGF0aC5jb25jYXQoWychJyArIGNvbmYuY3NzT3B0aW1pc2VyRmlsZVBhdGggKyBjb25mLmNzc09wdGltaXNlckZpbGVOYW1lXSkNCiAgICByZXR1cm4gZ3VscC5zcmMoc3RyZWFtU291cmNlKQ0KICAgICAgICAucGlwZShndWxwaWYoZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgcmV0dXJuIGNvbmYuY3NzU291cmNlTWFwOw0KICAgICAgICB9LCBndWxwU291cmNlbWFwcy5pbml0KCkpKQ0KICAgICAgICAucGlwZShjbGVhbkNTUyhjb25maWcubWluaWZ5T3B0aW9ucy5jc3MpKQ0KICAgICAgICAucGlwZShndWxwaWYoZnVuY3Rpb24gKCkgew0KICAgICAgICAgICAgcmV0dXJuIGNvbmYuanNTb3VyY2VNYXA7DQogICAgICAgIH0sIGd1bHBTb3VyY2VtYXBzLndyaXRlKCcuLycpKSkNCg0KICAgICAgICAucGlwZShndWxwQ29uY2F0KGNvbmYuY3NzT3B0aW1pc2VyRmlsZU5hbWUpKQ0KICAgICAgICAucGlwZShndWxwLmRlc3QoJ3N0eWxlcycpKTsNCg0KfQ==
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
@@ -28,7 +28,7 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20190410T080209Z
+      Value: 20191119T101001Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |

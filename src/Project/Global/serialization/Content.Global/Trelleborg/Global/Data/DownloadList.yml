@@ -1,0 +1,18 @@
+﻿---
+ID: "c3e8e2eb-f0a1-4e41-bbd3-503699d0315d"
+Parent: "5fac0039-3eb0-4a36-95db-334ef30263b8"
+Template: "d5eac4a2-7448-4b0a-ba36-d7786125f21a"
+Path: /sitecore/content/Trelleborg/Global/Data/DownloadList
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T072419Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

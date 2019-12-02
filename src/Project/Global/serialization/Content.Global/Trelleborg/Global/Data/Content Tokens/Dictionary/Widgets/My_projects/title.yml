@@ -1,0 +1,25 @@
+﻿---
+ID: "38b6e2d6-bd2b-46c1-a35a-ad7c2fffbb4a"
+Parent: "2886aa3e-29c9-4c89-b1df-ed1f7a11124f"
+Template: "7d659ee9-d487-4d40-8a92-10c6d68844c8"
+Path: /sitecore/content/Trelleborg/Global/Data/Content Tokens/Dictionary/Widgets/My_projects/title
+DB: master
+SharedFields:
+- ID: "02f6fb63-fe92-44e8-afa2-20747c893502"
+  Hint: Key
+  Value: title
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b9d1028-c20c-407b-9dcd-affe86a6f793"
+      Hint: Value
+      Value: My Projects
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T213506Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

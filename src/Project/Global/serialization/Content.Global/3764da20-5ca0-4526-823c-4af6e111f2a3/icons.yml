@@ -1,0 +1,22 @@
+﻿---
+ID: "f451cd10-8c93-47f7-87fb-3cadbac2a41c"
+Parent: "3764da20-5ca0-4526-823c-4af6e111f2a3"
+Template: "98b41352-5a4b-4067-b924-18a4b50f0a53"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Product Icons Bar/Default/row-div/icons"
+DB: master
+SharedFields:
+- ID: "a48604e6-b95e-41c4-b71d-af74365ec289"
+  Hint: Query
+  Value: "query:$site/*[@@name='Data']/*[@@templatename='Product Icons Folder']/*[@@templatename='Product Icon']"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191130T065127Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

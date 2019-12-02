@@ -1,0 +1,90 @@
+﻿---
+ID: "b6980a18-8ef2-47c1-9cd5-ab7688546e09"
+Parent: "f81f119b-11a5-4a13-ad7d-07a3d6c3438a"
+Template: "6dd1d06d-3a49-492c-8d6b-2d13ef011eba"
+Path: /sitecore/content/Trelleborg/Global/Home/Creative Exchange/multiyoutube/Page1
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 100
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T100547Z
+    - ID: "3a91c7ff-d5f2-4353-98f4-41ef654b7e42"
+      Hint: Title
+      Value: Page1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T134010Z
+    - ID: "3a91c7ff-d5f2-4353-98f4-41ef654b7e42"
+      Hint: Title
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+    - ID: "4e0720e9-9d50-4ddc-87cf-ecd65e8e94c8"
+      Hint: NavigationTitle
+      Value: New MultiLanguage YouTube Page
+    - ID: "72164c25-1b9e-463a-986b-6b15529d44f1"
+      Hint: Content
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sit vitae neque, ut volutpat pharetra nunc porttitor euismod arcu. Sit ac enim posuere cursus ultrices consectetur. Vel interdum sollicitudin commodo aliquet quam nunc varius nunc. Eu porttitor velit erat turpis. Viverra nibh lacus diam nullam tellus mauris, varius ac, libero. Justo, tincidunt quis scelerisque imperdiet quisque enim commodo. Aliquet scelerisque aliquet quis amet. Sed posuere.
+    - ID: "8e279643-4160-4700-b31f-96e0c247a023"
+      Hint: MainImage
+      Value: |
+        <image mediaid="{B0A0A013-F00A-4A1A-9A43-5A5199E22BB5}" />
+    - ID: "bc58890e-38a1-48e1-9912-06f9ae3ed6ce"
+      Hint: Video
+      Value: "{C996646A-A6D2-4ED0-9401-BBE5C03E820C}"
+- Language: "fr-FR"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T105304Z
+    - ID: "3a91c7ff-d5f2-4353-98f4-41ef654b7e42"
+      Hint: Title
+      Value: Page1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "it-IT"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T101917Z
+    - ID: "3a91c7ff-d5f2-4353-98f4-41ef654b7e42"
+      Hint: Title
+      Value: Page1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+- Language: "sv-SE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T101926Z
+    - ID: "3a91c7ff-d5f2-4353-98f4-41ef654b7e42"
+      Hint: Title
+      Value: Page1
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

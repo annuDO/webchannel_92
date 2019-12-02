@@ -1,0 +1,27 @@
+﻿---
+ID: "463f99aa-3a57-45a1-95b2-a1815ef196a2"
+Parent: "a3602ffd-bb6c-4f30-b5e3-36dddb93abaa"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/DownloadList/dropdown-link-without-image/div/ListItems/Section/AsideLink/div/Select/Query/options"
+DB: master
+SharedFields:
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191101T105011Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        #set($url= $fieldTokens.GetLinkUrl($item, "LinkItem"))
+        <option value="$url">$item.Fields.LanguageTitle.ToString()</option>

@@ -1,0 +1,31 @@
+﻿---
+ID: "c76b9517-4687-4b73-b5d4-869d3fe90ea0"
+Parent: "f1105efe-2c51-40c8-9e4d-af3fdf512d2d"
+Template: "070a64fa-5f1b-40cc-83cb-3ce05d1895fc"
+Path: "/sitecore/content/Trelleborg/Group/Presentation/Rendering Variants/Addresses/Default/div/div/addresses/address-body/address-image/Responsive Image"
+DB: master
+BranchID: "12d6e2bb-6c0f-46f4-a0ba-ebe8a3af5c0b"
+SharedFields:
+- ID: "42a44ce6-94cc-432b-bc69-39867351207c"
+  Hint: Sizes
+  Value: "(max-width: 767px) 288px, (max-width: 1023px) 251px, 387px"
+- ID: "64c4a943-ee2a-43ae-bf6a-e249b52cd8b5"
+  Hint: Widths
+  Value: 288,251,387
+- ID: "df178dc4-b83d-46ec-8d4f-9de85e2c996c"
+  Hint: FieldName
+  Value: Image
+- ID: "e4c798fc-30e5-46ed-990e-bcddbf3444a1"
+  Hint: DefaultSize
+  Value: 387
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{B9C7A85C-227E-47C6-92D5-1F5D3F4A8C69}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T052601Z

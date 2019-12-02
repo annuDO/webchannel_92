@@ -1,0 +1,22 @@
+﻿---
+ID: "d4a4a701-2f53-4b52-a2c5-95caf9b0a0dd"
+Parent: "e37e0647-7a12-4ce0-8740-cc0db877f9b3"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/Download/Default LiteratureList Variant/$name/Default/div/result-header-section/TitleSection"
+DB: master
+SharedFields:
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "col-lg-4 col-md-5"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T130309Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

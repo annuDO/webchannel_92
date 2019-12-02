@@ -1,0 +1,14 @@
+﻿---
+ID: "16d14fa2-2d0a-4fac-982e-abf33f055df4"
+Parent: "ccdc12c0-b4a4-4c04-bf90-40f05ccc30e0"
+Template: "1c82e550-ebcd-4e5d-8abd-d50d0809541e"
+Path: /sitecore/content/Trelleborg/Global/Home/Creative Exchange/GenericMediaElement/Data
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T141927Z

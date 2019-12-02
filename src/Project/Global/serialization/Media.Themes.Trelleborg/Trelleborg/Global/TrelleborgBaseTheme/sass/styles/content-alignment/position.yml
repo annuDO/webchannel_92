@@ -1,16 +1,16 @@
 ﻿---
-ID: "fc20f866-f0c5-4eba-ba84-5074e7674591"
-Parent: "c7efa026-4dca-464d-af45-f182c8d1c591"
+ID: "93ca97ef-f5a4-4ddb-b6aa-6b80ba0648cf"
+Parent: "d5c19cdd-d592-4865-bfbe-236560494a1b"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/styles/content-alignment/position"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/D9C8EE49286549AC9C6B7EBF01AA001D.ashx?h=16&thn=1&w=16"
+  Value: "-/media/93CA97EFF5A44DDBB6AA6B80BA0648CF.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "4ccfb164-dde6-489c-8d80-989204127f26"
+  BlobID: "04b43f70-fe37-4ce4-ab55-398cf30ba1e8"
   Value: LnBvc2l0aW9uLWxlZnQsIC5wb3NpdGlvbi1sZWZ0ICogew0KICAgIHRleHQtYWxpZ246IGxlZnQgIWltcG9ydGFudDsNCn0NCi5wb3NpdGlvbi1yaWdodCwgLnBvc2l0aW9uLXJpZ2h0ICogew0KICAgIHRleHQtYWxpZ246IHJpZ2h0ICFpbXBvcnRhbnQ7DQp9DQoucG9zaXRpb24tY2VudGVyLCAucG9zaXRpb24tY2VudGVyICogew0KICAgIHRleHQtYWxpZ246IGNlbnRlciAhaW1wb3J0YW50Ow0KfQ0K
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
@@ -28,8 +28,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170614T063744Z
+      Value: 20191119T101230Z
     - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
       Hint: __Created by
       Value: |
-        sitecore\Admin
+        sitecore\admin

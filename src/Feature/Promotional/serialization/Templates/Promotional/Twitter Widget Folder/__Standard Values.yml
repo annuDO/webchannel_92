@@ -1,0 +1,25 @@
+﻿---
+ID: "678b52d6-ce9e-46bb-9ab6-87c5777a2221"
+Parent: "a1127e92-c51a-4ee1-970f-46516cc57d24"
+Template: "a1127e92-c51a-4ee1-970f-46516cc57d24"
+Path: /sitecore/templates/Feature/Trelleborg/Promotional/Twitter Widget Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {1F721053-9F35-4798-B7CE-E7BB915F7A69}
+    {A1127E92-C51A-4EE1-970F-46516CC57D24}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160708T110525Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

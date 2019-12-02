@@ -1,0 +1,25 @@
+﻿---
+ID: "8e429c41-4b39-46ce-96d0-4949a020f4a2"
+Parent: "38371a7b-ecf7-4168-a266-8369cc742da8"
+Template: "7d659ee9-d487-4d40-8a92-10c6d68844c8"
+Path: /sitecore/content/Trelleborg/Global/Data/Content Tokens/Dictionary/Widgets/loginPopup/belowLoginForm
+DB: master
+SharedFields:
+- ID: "02f6fb63-fe92-44e8-afa2-20747c893502"
+  Hint: Key
+  Value: belowLoginForm
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1b9d1028-c20c-407b-9dcd-affe86a6f793"
+      Hint: Value
+      Value: "<p><br/>The Trelleborg Sealing Solutions Members Area gives you access to a unique range of online services:</p> <p></p><ul><li><strong>Sealing Solutions Configurator </strong>- Recommends the seals that will work best in your application</li><li><strong>O-Ring Calculation Program </strong>- Allows easy specification of seal dimensions</li><li><strong>Electronic Catalog</strong> - Search for more than 100,000 products, get detailed product information and submit a request for quotation on-line</li><li><strong>e-Learning </strong>- A comprehensive learning offering on sealing technology.</li><li><strong>Material Search</strong> &ndash; Helps identify the most suitable material for your application</li><li><strong>Chemical Compatibility Check</strong> &ndash; Find out the compatibility of sealing materials to hundreds of different media</li><li><strong>CAD Service </strong>- More than 40,000 parts online, in 2D and 3D, in many different file formats</li></ul><p></p>"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T213459Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

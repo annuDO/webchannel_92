@@ -1,0 +1,14 @@
+﻿---
+ID: "a120f5b2-8bf3-47b5-9bb7-ec063eb171e2"
+Parent: "f59990ac-ddb7-41a5-9e96-d30a7fab3eec"
+Template: "9d46c5c3-aaee-46aa-b406-a1806302116e"
+Path: /sitecore/content/Trelleborg/Global/Data/Search/Dropdown Filter/AddressList
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T102401Z

@@ -1,0 +1,29 @@
+﻿---
+ID: "fd88dbeb-2547-4307-8664-9caec9301062"
+Parent: "6330d2bd-ef1f-4428-bcba-cafc66514136"
+Template: "6330d2bd-ef1f-4428-bcba-cafc66514136"
+Path: /sitecore/templates/Feature/Trelleborg/Context Selector/MarketSelector/MarketSelectorFolder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {0BE2B47D-7F91-48AE-962E-DDFF3BDA9D9B}
+    {6330D2BD-EF1F-4428-BCBA-CAFC66514136}
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191015T083256Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

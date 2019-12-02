@@ -1,0 +1,26 @@
+﻿---
+ID: "d9c50152-0493-44a3-87b6-7a5595f7db5f"
+Parent: "39849eb6-fc8f-4f82-8fcc-0c9ce34bf2cb"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/LiteratureList/Default/div/result-header-section/SizeSection/Size"
+DB: master
+SharedFields:
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T130336Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        $fieldTokens.GetDictionaryValue("/Data/Content Tokens/Dictionary/Literature/SizeHeader")

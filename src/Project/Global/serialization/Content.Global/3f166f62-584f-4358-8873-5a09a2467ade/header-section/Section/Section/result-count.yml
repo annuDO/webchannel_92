@@ -1,0 +1,25 @@
+﻿---
+ID: "7a0f80b3-0ec1-4341-a443-509f2da71262"
+Parent: "d62ca2f8-fdd6-463e-b710-efae4c5b224e"
+Template: "1151b2a9-08af-4f4d-a892-c2cc9a92ea6a"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/LiteratureList/Default/div/header-section/Section/Section/result-count"
+DB: master
+SharedFields:
+- ID: "06882697-dc92-477d-a99a-5d79bd2ccb8d"
+  Hint: RenderingItem
+  Value: "{5B249C53-F580-4623-8613-3AF9614126FE}"
+- ID: "af48c671-dd3e-41ed-95b3-534560bef882"
+  Hint: RenderingParameters
+  Value: "Placeholder=main&Data Source=%7b374E5942-57EC-44E0-8221-D99F5A991D09%7d"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: "20191030T110519:637080303193663431Z"

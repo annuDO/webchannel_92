@@ -1,0 +1,28 @@
+﻿---
+ID: "ceee45c0-3131-464b-b91d-03cb8ebba192"
+Parent: "57afeec8-70bf-4cb3-bc37-9629b8768cce"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/Media/Default Multi Lingual Youtube Variant/$name/div-video-section/div-video-row/div-lg-6/div-lang-list/div-label/lang-label"
+DB: master
+SharedFields:
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-body"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T120731Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        $fieldTokens.GetDictionaryValue("/Data/Content Tokens/Dictionary/AlsoAvailableIn")

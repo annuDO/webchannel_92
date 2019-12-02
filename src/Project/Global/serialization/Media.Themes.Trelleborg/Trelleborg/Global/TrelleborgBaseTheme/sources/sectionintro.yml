@@ -1,0 +1,14 @@
+﻿---
+ID: "9b620ff7-f774-4520-96b5-7b90762cedcf"
+Parent: "2483eaeb-2771-4b86-b5fa-7dec78c5927a"
+Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
+Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sources/sectionintro
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T095213Z

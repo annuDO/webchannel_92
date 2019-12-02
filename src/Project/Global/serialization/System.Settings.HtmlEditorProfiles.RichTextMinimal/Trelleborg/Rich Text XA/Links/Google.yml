@@ -1,0 +1,29 @@
+﻿---
+ID: "4003c591-72bd-4b48-bd74-20fab41dec0a"
+Parent: "2c523cda-bcf2-4a4b-a273-c232b88b384a"
+Template: "d73319bc-e3df-45b9-b545-a255aa7e3c88"
+Path: /sitecore/system/Settings/Html Editor Profiles/Trelleborg/Rich Text XA/Links/Google
+DB: core
+SharedFields:
+- ID: "ca0adfc1-b5d8-4338-aaec-f0dadd0f5c55"
+  Hint: Value
+  Value: "http://www.google.com"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20060130T125525
+    - ID: "4bfaa1d9-c66a-45ac-be10-99dfe91739d8"
+      Hint: Header
+      Value: |
+        <img src="http://cutesoft.net/data/Google.gif" align="absMiddle" border="0" /> Google
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "c8f93afe-bfd4-4e8f-9c61-152559854661"
+      Hint: __Valid from
+      Value: 20060130T125525

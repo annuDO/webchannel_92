@@ -1,0 +1,35 @@
+﻿---
+ID: "b8bd5df0-23ed-49bb-8d9a-a0a34b8ed527"
+Parent: "470efd2d-c957-46ad-b7c3-863e790e38f2"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/component-contact-finder-tb"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/B8BD5DF023ED49BB8D9AA0A34B8ED527.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "b04c72cb-6ffa-4a07-8689-82a4b8c90ed8"
+  Value: QGltcG9ydCAiLi9hYnN0cmFjdHMvdmFycy9fc3BhY2luZy10Yi5zY3NzIjsNCkBpbXBvcnQgIi4vYWJzdHJhY3RzL3ZhcnMvY29sb3JzLXRiIjsNCi50Yi1jb250YWN0LWZpbmRlci1jb250YWluZXJ7DQogICAgLnRiLWNvbnRhY3QtZmluZGVyLWhlYWRlcnsNCiAgICAgICAganVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOw0KICAgIH0NCiAgICAudGItY29udGFjdC1maW5kZXItbGlua3sNCiAgICAgICAgYXsNCiAgICAgICAgICAgIHRleHQtZGVjb3JhdGlvbjogbm9uZTsNCiAgICAgICAgICAgIGNvbG9yOiR0Yi1kYXJrLWdyYXk7DQogICAgICAgICAgIC50Yi1jb250YWN0LWZpbmRlci1pY29uew0KICAgICAgICAgICAgICAgdmVydGljYWwtYWxpZ246IHRvcDsNCiAgICAgICAgICAgfQ0KICAgICAgICB9DQogICAgICAgICYuc2VsZWN0ZWR7DQogICAgICAgICAgICBhew0KICAgICAgICAgICAgICAgIGNvbG9yOiR0Yi1nb2xkOw0KICAgICAgICAgICAgfQ0KICAgICAgICB9DQogICAgfQ0KICAgIC50Yi1jb250YWN0LWZpbmRlci1saW5rc3sNCiAgICAgICAgLnRiLWNvbnRhY3QtZmluZGVyLWljb257DQogICAgICAgICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOw0KICAgICAgICAgICAgaW1new0KICAgICAgICAgICAgICAgIHdpZHRoOiAxMnB4Ow0KICAgICAgICAgICAgICAgIGhlaWdodDogMTJweDsNCiAgICAgICAgICAgIH0NCiAgICAgICAgfQ0KICAgIH0NCn0NCg0KQG1lZGlhIG9ubHkgc2NyZWVuIGFuZCAobWF4LXdpZHRoOiAxMDIzcHgpIHsNCiAgICAudGItY29udGFjdC1maW5kZXItY29udGFpbmVyew0KICAgICAgICAudGItY29udGFjdC1maW5kZXItYWRkcmVzcy10eXBlew0KICAgICAgICAgICAgLnRiLWlucHV0LWNoZWNrYm94ew0KICAgICAgICAgICAgICAgIGZsZXg6IDAgMCA1MCU7DQogICAgICAgICAgICAgICAgbWF4LXdpZHRoOiA1MCU7DQogICAgICAgICAgICAgICAgbWFyZ2luLXJpZ2h0OiAwOw0KICAgICAgICAgICAgfQ0KICAgICAgICB9DQogICAgfQ0KfQ0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1020
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191202T065038Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

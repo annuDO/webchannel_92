@@ -6,7 +6,7 @@ using System.Text;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
-namespace DLBi.Sitecore.Extensions
+namespace Trelleborg.Foundation.SitecoreExtensions
 {
     public static class StringExtensions
     {
@@ -111,6 +111,26 @@ namespace DLBi.Sitecore.Extensions
         return string.Empty;
       }
       return char.ToUpperInvariant(s[0]) + s.Substring(1);
+    }
+    public static string FormatFileSize(double size)
+    {
+      string str = string.Empty;
+      string[] strArray = new string[5]
+          {
+                "B",
+                "KB",
+                "MB",
+                "GB",
+                "TB"
+          };
+      int index = 0;
+      while (size >= 1024.0 && index + 1 < strArray.Length)
+      {
+        ++index;
+        size /= 1024.0;
+      }
+      str = string.Format( CultureInfo.InvariantCulture,"{0:0.##}&nbsp;{1}", size, strArray[index]);
+      return str;
     }
   }
 }

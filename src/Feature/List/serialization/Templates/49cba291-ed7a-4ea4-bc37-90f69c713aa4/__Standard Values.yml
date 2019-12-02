@@ -1,0 +1,25 @@
+﻿---
+ID: "3cfa7db1-06b6-45cd-9466-420cfb75c4a8"
+Parent: "49cba291-ed7a-4ea4-bc37-90f69c713aa4"
+Template: "49cba291-ed7a-4ea4-bc37-90f69c713aa4"
+Path: /sitecore/templates/Feature/Trelleborg/List/AddressList/AddressList Folder/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {C8B824A4-66F4-431A-977A-1617948E81A3}
+    {49CBA291-ED7A-4EA4-BC37-90F69C713AA4}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120621T071605Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

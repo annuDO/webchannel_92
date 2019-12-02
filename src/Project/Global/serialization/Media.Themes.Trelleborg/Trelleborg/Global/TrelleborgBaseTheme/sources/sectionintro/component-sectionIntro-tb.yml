@@ -1,0 +1,31 @@
+﻿---
+ID: "644dfd76-a9d6-468b-9f8f-4ece6ca4d8ac"
+Parent: "9b620ff7-f774-4520-96b5-7b90762cedcf"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sources/sectionintro/component-sectionIntro-tb"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/644DFD76A9D6468B9F8F4ECE6CA4D8AC.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "025d8bbd-f1a8-428f-8871-887ae844797c"
+  Value: JHhhKGRvY3VtZW50KS5yZWFkeShmdW5jdGlvbigpew0KICAgICR4YShkb2N1bWVudCkub24oImNsaWNrIiwiLnRiLXNlY3Rpb25pbnRyby1saW5rIixmdW5jdGlvbihlKXsNCiAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOw0KICAgICAgICB2YXIgdGhpc09iaj0keGEodGhpcykscGFyZW50T2JqPXRoaXNPYmoucGFyZW50cygiLnRiLXNlY3Rpb25pbnRybyIpOw0KICAgICAgICBpZih0aGlzT2JqLmhhc0NsYXNzKCJzaG93LW1vcmUiKSl7ICANCiAgICAgICAgICAgIHBhcmVudE9iai5maW5kKCIudGItc2VjdGlvbmludHJvLWNvbnRlbnQiKS5jc3MoeyJoZWlnaHQiOiJhdXRvIn0pOw0KICAgICAgICAgICAgcGFyZW50T2JqLmZpbmQoIi5zaG93LWxlc3MiKS5yZW1vdmVDbGFzcygiZC1ub25lIik7DQogICAgICAgIH1lbHNlew0KICAgICAgICAgICAgcGFyZW50T2JqLmZpbmQoIi50Yi1zZWN0aW9uaW50cm8tY29udGVudCIpLnJlbW92ZUF0dHIoInN0eWxlIik7DQogICAgICAgICAgICBwYXJlbnRPYmouZmluZCgiLnNob3ctbW9yZSIpLnJlbW92ZUNsYXNzKCJkLW5vbmUiKTsNCiAgICAgICAgfQ0KICAgICAgICB0aGlzT2JqLmFkZENsYXNzKCJkLW5vbmUiKTsNCiAgICB9KTsNCn0pOw==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 616
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/x-javascript"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: js
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T095214Z

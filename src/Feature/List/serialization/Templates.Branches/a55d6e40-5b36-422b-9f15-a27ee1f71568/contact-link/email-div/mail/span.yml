@@ -1,0 +1,44 @@
+﻿---
+ID: "53b4e4e7-6e66-4f20-85de-d878e3b93760"
+Parent: "ebbcd1f5-ff71-4baa-99b1-5a72cbbeafa0"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default Addresses Variant/$name/Default/div/div/addresses/address-body/contact-link/email-div/mail/span"
+DB: master
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{5D0D3C96-E766-44CD-A855-C924C14EF286}">
+        <conditions>
+          <condition
+            id="{F563E8D0-1D8A-4744-BD90-3C8D7E483884}"
+            uid="B3A2D363E1C34C56A6AC47D10ADAFB41"
+            Value="{B6C812AD-AF28-479A-ADFE-310BB46BF009}|{F4EB413E-2700-475E-8ED7-343D9B4941F5}|{15FB4B13-691C-4BBD-8904-6CEC99CA18C4}|{A5D3DE24-ECDF-462D-A30E-4CBF585E74E5}|{48CB8908-4E63-40C4-84AF-14E86E0CAFE1}" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-address-contact-link-label"
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191108T075211Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        $fieldTokens.GetDictionaryValue("/Data/Content Tokens/Dictionary/Email")

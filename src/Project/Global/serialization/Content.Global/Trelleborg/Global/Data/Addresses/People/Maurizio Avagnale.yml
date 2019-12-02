@@ -1,0 +1,121 @@
+﻿---
+ID: "808571c6-2340-44e1-9b01-c45f2db49dd4"
+Parent: "8285d04c-0000-48dc-82d5-7d9018982a1e"
+Template: "9485271b-ce01-4ab2-8cac-a70080a431dc"
+Path: /sitecore/content/Trelleborg/Global/Data/Addresses/People/Maurizio Avagnale
+DB: master
+Languages:
+- Language: "de-DE"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "025e04e2-f924-4db5-86e1-5b8fc9700ad1"
+      Hint: Longitude
+      Value: "-95.55636"
+    - ID: "04dc55b7-3042-4134-b53b-1771da18bf96"
+      Hint: LinkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/in/maurizio-avagnale-214a8b/" anchor="" target="" />
+    - ID: "128a5a2b-3554-4797-9cce-7c33898e88b8"
+      Hint: Name
+      Value: Maurizio Avagnale De
+    - ID: "15e15d04-7157-405d-8e7a-d22337130527"
+      Hint: WebsiteLink
+      Value: |
+        <link linktype="external" url="https://www.trelleborg.com/wheelsystems" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191113T142657Z
+    - ID: "2d3d7a99-7bbb-457a-9e2f-1a61a2ee7b94"
+      Hint: Phone2
+      Value: +39 037 140 62
+    - ID: "43b22c71-dfad-409b-b434-abc70ec13b8c"
+      Hint: City
+      Value: "{F646AF7C-69DD-4FAB-8C8E-B94CE3FCCFDD}"
+    - ID: "51124b46-3ece-4f84-af72-e6102dc11b57"
+      Hint: Zipcode
+      Value: "22611-0937"
+    - ID: "5e57f735-6768-4e2e-ba34-cf2cf5010720"
+      Hint: Country
+      Value: "{315B8033-8045-4A40-ADFE-C76FB4560741}"
+    - ID: "6bf1df23-c261-4621-a4ee-fc4f562a177f"
+      Hint: Image
+      Value: |
+        <image mediaid="{C898CB55-E2CC-40BB-A49B-440DB7B1445B}" />
+    - ID: "962e8757-a262-43d6-9d14-344846a9f741"
+      Hint: Street
+      Value: Strada Provinciale 140
+    - ID: "9b330547-d11b-45f7-9a0d-6567f4c3840a"
+      Hint: Email
+      Value: Offshore@trelleborg.com
+    - ID: "a7c0bc9e-ce73-4ec1-b323-5212f3f25f16"
+      Hint: CompanyName
+      Value: Trelleborg Coated Systems de
+    - ID: "abdcd561-b906-46fc-bf88-0877cbbdb989"
+      Hint: Phone1
+      Value: +39 037 140 64
+    - ID: "beb2f6c0-1827-4e6a-98fe-83c3987bb1b3"
+      Hint: Latitude
+      Value: 29.72831
+    - ID: "c820b915-5674-4585-a0b7-951cbe783cee"
+      Hint: AddressType
+      Value: "{7D9E01F8-03BC-4700-BC51-1C7E14FD4BF1}"
+    - ID: "ead59e36-c58f-44ca-9772-c56eaaa6beae"
+      Hint: CountryList
+      Type: Multilist
+      Value: "{315B8033-8045-4A40-ADFE-C76FB4560741}"
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "025e04e2-f924-4db5-86e1-5b8fc9700ad1"
+      Hint: Longitude
+      Value: "-95.55636"
+    - ID: "04dc55b7-3042-4134-b53b-1771da18bf96"
+      Hint: LinkedInLink
+      Value: |
+        <link text="LinkedIn Profile" linktype="external" url="https://www.linkedin.com/in/maurizio-avagnale-214a8b/" anchor="" target="" />
+    - ID: "128a5a2b-3554-4797-9cce-7c33898e88b8"
+      Hint: Name
+      Value: Maurizio Avagnale
+    - ID: "15e15d04-7157-405d-8e7a-d22337130527"
+      Hint: WebsiteLink
+      Value: |
+        <link linktype="external" url="https://www.trelleborg.com/wheelsystems" anchor="" target="" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191025T054941Z
+    - ID: "2d3d7a99-7bbb-457a-9e2f-1a61a2ee7b94"
+      Hint: Phone2
+      Value: +39 037 140 62
+    - ID: "43b22c71-dfad-409b-b434-abc70ec13b8c"
+      Hint: City
+      Value: "{2BF7B4C1-A9F9-41B6-B10E-9CF463AC9844}"
+    - ID: "51124b46-3ece-4f84-af72-e6102dc11b57"
+      Hint: Zipcode
+      Value: "22611-0937"
+    - ID: "5e57f735-6768-4e2e-ba34-cf2cf5010720"
+      Hint: Country
+      Value: "{D7E2182D-5D28-4A1D-94CE-CDB5B4D34E9E}"
+    - ID: "6bf1df23-c261-4621-a4ee-fc4f562a177f"
+      Hint: Image
+      Value: |
+        <image mediaid="{C898CB55-E2CC-40BB-A49B-440DB7B1445B}" />
+    - ID: "962e8757-a262-43d6-9d14-344846a9f741"
+      Hint: Street
+      Value: Strada Provinciale 140
+    - ID: "9b330547-d11b-45f7-9a0d-6567f4c3840a"
+      Hint: Email
+      Value: Offshore@trelleborg.com
+    - ID: "a7c0bc9e-ce73-4ec1-b323-5212f3f25f16"
+      Hint: CompanyName
+      Value: Trelleborg Coated Systems
+    - ID: "abdcd561-b906-46fc-bf88-0877cbbdb989"
+      Hint: Phone1
+      Value: +39 037 140 61
+    - ID: "beb2f6c0-1827-4e6a-98fe-83c3987bb1b3"
+      Hint: Latitude
+      Value: 29.72831
+    - ID: "c820b915-5674-4585-a0b7-951cbe783cee"
+      Hint: AddressType
+      Value: "{7D9E01F8-03BC-4700-BC51-1C7E14FD4BF1}"

@@ -1,0 +1,22 @@
+﻿---
+ID: "8f5feb5a-af21-4d04-a1d8-c33d9368f618"
+Parent: "0d7d9500-a172-405b-8273-3f551f86f0f9"
+Template: "8b649372-cc12-4f31-802a-8c3b3d09bb3f"
+Path: /sitecore/content/Trelleborg/Global/Settings/Scopes/ArticleList/Articles
+DB: master
+SharedFields:
+- ID: "b04fe662-2b23-44dd-b971-2b864a1ec55f"
+  Hint: ScopeQuery
+  Value: "template:{9739BE78-3401-4FE1-BAA7-FAD898CF1548}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T172735Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

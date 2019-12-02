@@ -1,0 +1,18 @@
+﻿---
+ID: "7c38295f-2490-4b69-8a6f-4c763432e137"
+Parent: "96964b11-1050-47bc-89fd-27c556569b97"
+Template: "96964b11-1050-47bc-89fd-27c556569b97"
+Path: /sitecore/templates/Feature/Trelleborg/CustomContainers/Rendering Parameters/StockInformation/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20120629T104300

@@ -1,0 +1,18 @@
+﻿---
+ID: "5f631784-b99a-4cb1-b499-b3b016a40c48"
+Parent: "d4835266-7f7c-48ee-95ba-b8e7c213e1af"
+Template: "6b8aabef-d650-46e0-97d0-c0b04f7f016b"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Styles/Section Intro/Hide Buttons
+DB: master
+SharedFields:
+- ID: "09147fb2-ebfb-4949-8c8e-26a424409d5e"
+  Hint: Value
+  Value: SectionIntroButtonsHide
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T084711Z

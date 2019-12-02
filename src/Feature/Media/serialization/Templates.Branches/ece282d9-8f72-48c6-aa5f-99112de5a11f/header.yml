@@ -1,0 +1,21 @@
+﻿---
+ID: "499f3601-c540-479e-91f0-679fbb0df070"
+Parent: "ece282d9-8f72-48c6-aa5f-99112de5a11f"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/Media/Default Multi Lingual Youtube Variant/$name/div-video-section/div-video-row/div-lg-6/header"
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: Title
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "tb-video-title tb-header-1 tb-font-bold"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T115524Z

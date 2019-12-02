@@ -1,0 +1,21 @@
+﻿---
+ID: "94b7db97-dd46-4e1b-84e6-fa369acd8c8e"
+Parent: "98ac1284-2d99-4a81-b4ba-943e7f433a88"
+Template: "fcd285da-9ab2-4c8d-b185-5a7487a9ba1b"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default Related Media Element List Variant/$name/Default/container/container-row/relativemedia-container/relative-media-row/relative-media-title-wrapper/relatedmediaelementsubheader"
+DB: master
+SharedFields:
+- ID: "4753764c-c05a-4623-841b-97f85135241c"
+  Hint: FieldName
+  Value: RelatedMediaElementSubHeader
+- ID: "7495124d-09b5-4cb3-b4a6-fe77a95827da"
+  Hint: CssClass
+  Value: "tb-header-4 tb-relativemedia-subtitle-container"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T074051Z

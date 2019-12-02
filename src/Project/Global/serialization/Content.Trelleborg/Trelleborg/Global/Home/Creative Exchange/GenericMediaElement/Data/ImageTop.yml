@@ -1,0 +1,32 @@
+﻿---
+ID: "8a07e293-02a8-4f2b-9713-1555989a0e03"
+Parent: "16d14fa2-2d0a-4fac-982e-abf33f055df4"
+Template: "a2390ea5-4073-4b2c-a32a-487300116a32"
+Path: /sitecore/content/Trelleborg/Global/Home/Creative Exchange/GenericMediaElement/Data/ImageTop
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "13268fb8-da1a-4352-a20a-f4da53336ad2"
+      Hint: GMContent
+      Value: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.&nbsp;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T144846Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "735134f8-aaf0-406c-b161-5fe00dedc070"
+      Hint: GMImage
+      Value: |
+        <image mediaid="{3CC85C01-103A-46A0-B98B-EE0BFBBD7376}" />
+    - ID: "7927b765-ebe6-49dc-a855-62324563b669"
+      Hint: GMHeadline
+      Value: Here is a header for the wrapping component
+    - ID: "d78ae18b-a07f-41f4-bf21-0ad387bba3f2"
+      Hint: GMLink
+      Value: |
+        <link linktype="internal" text="This is a Link" querystring="" target="" id="{69218F8A-4A00-4A99-8270-21807258894F}" />

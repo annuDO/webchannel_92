@@ -1,0 +1,57 @@
+﻿---
+ID: "e91e2940-aae8-48c9-9ee5-9c2b676faab0"
+Parent: "2722add7-448b-4ec6-9630-3db22443cec9"
+Template: "9485271b-ce01-4ab2-8cac-a70080a431dc"
+Path: /sitecore/content/Trelleborg/Global/Data/Addresses/Locations/Trelleborg Marine Systems Sweden
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "025e04e2-f924-4db5-86e1-5b8fc9700ad1"
+      Hint: Longitude
+      Value: "-95.55636"
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T115643Z
+    - ID: "43b22c71-dfad-409b-b434-abc70ec13b8c"
+      Hint: City
+      Value: "{94092C78-758F-4044-BAAD-554DBAD865A8}"
+    - ID: "51124b46-3ece-4f84-af72-e6102dc11b57"
+      Hint: Zipcode
+      Value: "SE-231 81 Trelleborg,"
+    - ID: "5e57f735-6768-4e2e-ba34-cf2cf5010720"
+      Hint: Country
+      Value: "{315B8033-8045-4A40-ADFE-C76FB4560741}"
+    - ID: "6bf1df23-c261-4621-a4ee-fc4f562a177f"
+      Hint: Image
+      Value: |
+        <image mediaid="{58667C15-FB1C-4948-AC77-BECD1E5ADBA1}" />
+    - ID: "962e8757-a262-43d6-9d14-344846a9f741"
+      Hint: Street
+      Value: Johan Kocksgatan 10
+    - ID: "9b330547-d11b-45f7-9a0d-6567f4c3840a"
+      Hint: Email
+      Value: TMS.Scandinavia@Trelleborg.com
+    - ID: "a17601f8-44a0-4cee-8e24-05fdea8848b3"
+      Hint: Fax
+      Value: 
+    - ID: "a7c0bc9e-ce73-4ec1-b323-5212f3f25f16"
+      Hint: CompanyName
+      Value: Trelleborg Marine Systems Sweden
+    - ID: "abdcd561-b906-46fc-bf88-0877cbbdb989"
+      Hint: Phone1
+      Value: +46 (0)733 24 1175
+    - ID: "beb2f6c0-1827-4e6a-98fe-83c3987bb1b3"
+      Hint: Latitude
+      Value: 29.72831
+    - ID: "c820b915-5674-4585-a0b7-951cbe783cee"
+      Hint: AddressType
+      Value: "{38C604C9-59E8-4D94-9A20-99DCA7D2188D}"
+    - ID: "ead59e36-c58f-44ca-9772-c56eaaa6beae"
+      Hint: CountryList
+      Type: Multilist
+      Value: |
+        {315B8033-8045-4A40-ADFE-C76FB4560741}
+        {7F84E204-3B5E-40A5-9CD7-96CEEED07B4C}

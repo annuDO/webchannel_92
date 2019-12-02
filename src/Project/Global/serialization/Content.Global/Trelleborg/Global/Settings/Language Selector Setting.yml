@@ -1,0 +1,23 @@
+﻿---
+ID: "65946fc7-f148-4330-bb97-7edff9e58979"
+Parent: "e073f529-fefe-426d-8e79-411c269324ee"
+Template: "7a861d25-eda0-4415-80f9-53a9d877c247"
+Path: /sitecore/content/Trelleborg/Global/Settings/Language Selector Setting
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "22f139ee-3365-48fe-a2e6-5b984db8cb51"
+      Hint: SupportedLanguages
+      Type: Multilist
+      Value: |
+        {AF584191-45C9-4201-8740-5409F4CF8BDD}
+        {0976E244-2C2E-47D7-933F-7BD4476D2630}
+        {FD8CC334-B524-4E25-A4F2-DB376F85FB43}
+        {F1BEFFF6-67F5-4CE5-B6F2-C65FD5D473BD}
+        {B0BBA0EB-C870-4665-9131-FD9ADA4B94E1}
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191014T110947Z

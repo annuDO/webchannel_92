@@ -1,0 +1,35 @@
+﻿---
+ID: "087e682a-767a-4008-9ff6-ea90a33acbbd"
+Parent: "7be62b4e-691b-4239-ad71-592aca08a732"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/images/svg_icons/ill_farming_b_cmyk
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/087E682A767A40089FF6EA90A33ACBBD.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "ab0dcfcb-1e54-4f6b-a9f8-4cf89ff5e645"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQmxhY2siIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNTAgNTAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUwIDUwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBkPSJNMjQsMjdWNGgtMnY1LjNsLTQsMi4zVjRoLTJ2Ny42bC00LTIuM1Y0aC0ydjIzYzAsMy41LDIuNiw2LjQsNiw2LjlWNDZoMlYzMy45QzIxLjQsMzMuNCwyNCwzMC41LDI0LDI3eiBNMTYsMzEuOQ0KCWMtMi4zLTAuNS00LTIuNS00LTQuOXYtMS40bDQsMi4zVjMxLjl6IE0xNiwyNS42bC00LTIuM3YtNC43bDQsMi4zVjI1LjZ6IE0xNiwxOC42bC00LTIuM3YtNC43bDQsMi4zVjE4LjZ6IE0xOCwxMy45bDQtMi4zdjQuNw0KCWwtNCwyLjNWMTMuOXogTTE4LDIwLjlsNC0yLjN2NC43bC00LDIuM1YyMC45eiBNMTgsMzEuOXYtNGw0LTIuM1YyN0MyMiwyOS40LDIwLjMsMzEuNCwxOCwzMS45eiBNMzgsOHY1LjNsLTQsMi4zVjhoLTJ2Ny42bC00LTIuMw0KCVY4aC0ydjIzYzAsMy41LDIuNiw2LjQsNiw2LjlWNDZoMnYtOC4xYzMuNC0wLjUsNi0zLjQsNi02LjlWOEgzOHogTTMyLDM1LjljLTIuMy0wLjUtNC0yLjUtNC00Ljl2LTEuNGw0LDIuM1YzNS45eiBNMzIsMjkuNmwtNC0yLjMNCgl2LTQuN2w0LDIuM1YyOS42eiBNMzIsMjIuNmwtNC0yLjN2LTQuN2w0LDIuM1YyMi42eiBNMzgsMzFjMCwyLjQtMS43LDQuNC00LDQuOXYtNGw0LTIuM1YzMXogTTM4LDI3LjNsLTQsMi4zdi00LjdsNC0yLjNWMjcuM3oNCgkgTTM4LDIwLjNsLTQsMi4zdi00LjdsNC0yLjNWMjAuM3ogTTEyLDQwaDJ2NmgtMlY0MHogTTIwLDQyaDJ2NGgtMlY0MnogTTM2LDQwaDJ2NmgtMlY0MHogTTI4LDQyaDJ2NGgtMlY0MnogTTI0LDQwaDJ2NmgtMlY0MHoiLz4NCjwvc3ZnPg0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 1116
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T101134Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

@@ -1,0 +1,14 @@
+﻿---
+ID: "005c7b62-1fd8-4e48-b549-394e3b3a3890"
+Parent: "5b3ff069-0337-4072-bc0c-aae42bb89348"
+Template: "ab187e38-4301-48d8-826f-4b60bc38d59f"
+Path: /sitecore/content/Trelleborg/Group/Data/Addresses/People
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191024T124005Z

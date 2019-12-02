@@ -1,0 +1,32 @@
+﻿---
+ID: "8bfa59d3-210c-4239-981d-2d30fd9e07dc"
+Parent: "706072af-d256-4097-8a70-95ab90632194"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Search Results/article-list-result/article-details/detail-section/article-item-section/ReadMore"
+DB: master
+SharedFields:
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-link"
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191120T050620Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        #set($url= $fieldTokens.GetItemLink($item))
+        #if ($url != "")
+        <a href="$url">$fieldTokens.GetDictionaryValue("/Data/Content Tokens/Dictionary/ReadMore")</a>
+        #end

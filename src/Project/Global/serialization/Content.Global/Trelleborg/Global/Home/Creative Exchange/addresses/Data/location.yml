@@ -1,0 +1,20 @@
+﻿---
+ID: "8576f761-2978-4f97-add6-c6fe8be07df9"
+Parent: "fa5a389c-3e6b-4d27-8458-57043c2336d2"
+Template: "c7708324-06be-4cdb-a884-947cfe19df04"
+Path: /sitecore/content/Trelleborg/Global/Home/Creative Exchange/addresses/Data/location
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1f04a551-ccaa-4c95-9767-fe9e7f05a90f"
+      Hint: Title
+      Value: Locations
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191031T124550Z
+    - ID: "ca67df64-5020-4983-be14-a9a9347f40b3"
+      Hint: Addresses
+      Value: "{3629096C-E584-4C1B-97C8-B4EA10E4AF13}|{E91E2940-AAE8-48C9-9EE5-9C2B676FAAB0}|{F59A4983-FB0A-40BA-A21B-704E58F60C25}"

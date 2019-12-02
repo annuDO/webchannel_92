@@ -1,0 +1,33 @@
+﻿---
+ID: "4edf5eb9-e04c-4ca2-96ee-8a70f17bba03"
+Parent: "8fb80487-82bf-4b34-947b-9ec5dd473804"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Product Icons Bar/Default/row-div/icons/div-icon-bar/div"
+DB: master
+SharedFields:
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: 
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 50
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191130T100732Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        <div class="tb-producticon-bar-icon tb-mx-3 selected $fieldTokens.CheckProductIcon($item)">
+        <img src=" $fieldTokens.GetItemSource($item,"Image")"  alt="product-white-icon">
+                           
+         </div>
+        
+        

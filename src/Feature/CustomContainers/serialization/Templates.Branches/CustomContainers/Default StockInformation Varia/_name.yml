@@ -1,0 +1,18 @@
+﻿---
+ID: "2baf0772-0705-4e87-94a5-528d2a8a7537"
+Parent: "a1e640c4-1581-4221-898d-acf2ab807d6e"
+Template: "e1a3b30c-77bc-4f6c-a008-d01b3371235d"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/CustomContainers/Default StockInformation Variant/$name
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: apps/32x32/finance.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20160818T065035Z

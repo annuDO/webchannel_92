@@ -1,0 +1,14 @@
+﻿---
+ID: "829fe0bb-1668-4d06-ba96-016b20ca891c"
+Parent: "14a4bfe4-b8cf-4569-8d90-1348d8a45eed"
+Template: "5ab4ae85-0e97-4afb-8498-b93c657a0df0"
+Path: /sitecore/content/Trelleborg/Global/Data/Plain HTML/Icons/Product/TSS
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191130T061407Z

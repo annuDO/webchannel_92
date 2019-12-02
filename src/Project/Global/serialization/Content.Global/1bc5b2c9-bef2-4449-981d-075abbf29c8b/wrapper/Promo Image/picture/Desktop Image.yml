@@ -1,0 +1,24 @@
+﻿---
+ID: "ab5e0cf4-acdc-41d0-b534-324718afd997"
+Parent: "e8ffb8cc-1f62-40cd-8698-bb998eec8529"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Promo/media-element-responsive/wrapper/Promo Image/picture/Desktop Image"
+DB: master
+SharedFields:
+- ID: "a4d004e6-2a4b-4c53-a4f3-9c481df71cdc"
+  Hint: Tag
+  Value: "{A2B98A62-2A89-45FE-A441-D604CD3C60C0}"
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: 
+- ID: "c35b2285-b4a8-406f-a91c-24a60391dc12"
+  Hint: DataAttributes
+  Value: "srcset=%24%28PromoIcon%29&media=%28min-width%3A641%29"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20190920T051004Z

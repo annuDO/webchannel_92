@@ -1,0 +1,34 @@
+﻿---
+ID: "ad6ec211-22b0-4bde-aacc-728cb61181d3"
+Parent: "71846e6a-58a6-4f3c-b7a6-eb9d7292a0ca"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/Text/Default Sectionintro Variant/$name/Default/Section Intro/Section Row/Section Wrapper/Section Footer/Section Show More
+DB: master
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{D5AF5939-D5B1-46DE-BF18-5BE4A562107C}">
+        <conditions>
+          <condition
+            id="{DA0D1AEA-0144-4A40-9AF0-3123526C9163}"
+            uid="3D1248EA661544A08F4EB55B87A00031"
+            except="true"
+            fieldname="SectionContent" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "tb-sectionintro-link show-more  tb-body"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191105T060803Z

@@ -1,0 +1,29 @@
+﻿---
+ID: "7a53f4a6-c9cc-419a-a1a4-79818d96e212"
+Parent: "175a4495-e0f3-4f4b-8b6d-f1f7aa8e1b37"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/CustomContainers/Default StockInformation Variant/$name/Default/wrapper-link/div-stock-information/div-high-low/div-ticker/span-ticker-label"
+DB: master
+SharedFields:
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-ticker-label"
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: "{E8E2C26D-2F96-4A9C-9C17-D095E6CE46CC}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T104104Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        $fieldTokens.GetDictionaryValue("/Data/Content Tokens/Dictionary/StockInformation/Ticker")

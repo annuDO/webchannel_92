@@ -1,0 +1,35 @@
+﻿---
+ID: "244634d0-374f-4273-8287-0a6760ffab09"
+Parent: "34cc4b12-44b6-443b-8b97-3cddbe194638"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: /sitecore/templates/Branches/Feature/Trelleborg/List/Default Events Variant/$name/Default/Accordion Item
+DB: master
+BranchID: "36cc0d2e-b966-4012-b50a-9fa0b0983e73"
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{8AD8BF36-FC9F-494A-BDAA-8B412D12D6D5}">
+        <conditions>
+          <condition
+            id="{7E104AAB-D8C6-4F09-BF45-8E896B5A8E07}"
+            uid="CF650909B3B04864BF74CF3BE70F0334"
+            except="true"
+            fieldname="EventEnd" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{D68C610A-1E95-4D7B-9821-DC7D5BF89296}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T170309Z

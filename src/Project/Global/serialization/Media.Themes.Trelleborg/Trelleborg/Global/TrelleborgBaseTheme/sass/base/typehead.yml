@@ -1,5 +1,5 @@
 ﻿---
-ID: "5021d4bf-2e27-4d7e-9b97-f4047a004bda"
+ID: "279f34c8-a169-45aa-8c68-bf3e8425a17d"
 Parent: "d96642f9-ba00-4ad3-92f0-1cfb67e42d21"
 Template: "fe5dd826-48c6-436d-b87a-7c4210c7413b"
 Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/base/typehead
@@ -11,4 +11,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170615T075142Z
+      Value: 20191119T101226Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

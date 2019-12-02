@@ -1,0 +1,35 @@
+﻿---
+ID: "8177fe94-0a2e-4697-bd0f-7e85b2409134"
+Parent: "7af29bcb-3386-4f85-a573-31e601eb7489"
+Template: "962b53c4-f93b-4df9-9821-415c867b8903"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/abstracts/_mixins-tb"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/8177FE940A2E4697BD0F7E85B2409134.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "b211a695-24b8-4776-b6ab-4f945d5752f2"
+  Value: Ly8gUGFkZGluZyBtaXhpbg0KLy8gVXNlIG51bGwgZm9yICBvbWl0dGluZyAgYSBzcGVjaWZpYyBwYWRkaW5nIHByb3BlcnR5DQpAbWl4aW4gcGFkZGluZygkdG9wOm51bGwsICRyaWdodDpudWxsLCAkYm90dG9tOm51bGwsICRsZWZ0Om51bGwpIHsNCiAgICBwYWRkaW5nLXRvcDogJHRvcDsNCiAgICBwYWRkaW5nLXJpZ2h0OiAkcmlnaHQ7DQogICAgcGFkZGluZy1ib3R0b206ICRib3R0b207DQogICAgcGFkZGluZy1sZWZ0OiAkbGVmdDsNCiAgfQ0KLy8gTWFyZ2luIG1peGluICANCi8vIFVzZSBudWxsIGZvciAgb21pdHRpbmcgIGEgc3BlY2lmaWMgbWFyZ2luIHByb3BlcnR5DQogIEBtaXhpbiBtYXJnaW4oJHRvcDpudWxsLCAkcmlnaHQ6bnVsbCwgJGJvdHRvbTpudWxsLCAkbGVmdDpudWxsKSB7DQogICAgbWFyZ2luLXRvcDogJHRvcDsNCiAgICBtYXJnaW4tcmlnaHQ6ICRyaWdodDsNCiAgICBtYXJnaW4tYm90dG9tOiAkYm90dG9tOw0KICAgIG1hcmdpbi1sZWZ0OiAkbGVmdDsNCiAgfQ0KICAvLyBGb250ICBwcm9wZXJ0eSBtaXhpbiANCg0KQG1peGluIGZvbnQtcHJvcGVydHkoJHNpemU6IGZhbHNlLCAkbGg6IGZhbHNlKSB7DQogIEBpZiAkc2l6ZSB7IGZvbnQtc2l6ZTogJHNpemU7IH0NCiAgQGlmICRsaCB7IGxpbmUtaGVpZ2h0OiAkbGg7IH0NCn0NCg0KQG1peGluIGZvbnQtcHJvcGVydHktaW1wKCRzaXplOiBmYWxzZSwgJGxoOiBmYWxzZSkgew0KICBAaWYgJHNpemUgeyBmb250LXNpemU6ICRzaXplICFpbXBvcnRhbnQ7IH0NCiAgQGlmICRsaCB7IGxpbmUtaGVpZ2h0OiAkbGggIWltcG9ydGFudDsgfQ0KfQ0K
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 807
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: "application/octet-stream"
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: scss
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T101205Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

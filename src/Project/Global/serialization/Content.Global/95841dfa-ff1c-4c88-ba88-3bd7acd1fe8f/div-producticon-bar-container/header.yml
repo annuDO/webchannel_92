@@ -1,0 +1,22 @@
+﻿---
+ID: "c83cc948-8be2-4d54-8b2d-a42df7f737c2"
+Parent: "055477f5-ea89-43b6-8611-8b1fe181c1f7"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Product Icons Bar/Default/div-producticon-bar-container/header"
+DB: master
+SharedFields:
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-header-sm-3 tb-header-2 tb-font-bold"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191202T083602Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        $fieldTokens.GetDictionaryValue("/Data/Content Tokens/Dictionary/ProductIconBarHeader")

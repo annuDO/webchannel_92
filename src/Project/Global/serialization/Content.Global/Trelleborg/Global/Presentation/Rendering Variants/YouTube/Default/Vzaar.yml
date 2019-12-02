@@ -1,0 +1,46 @@
+﻿---
+ID: "524921a6-ac5c-4b41-88be-aa88a8ca626c"
+Parent: "413f4dd7-4c8b-4d05-9adc-7a73e494e55b"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: /sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/YouTube/Default/Vzaar
+DB: master
+SharedFields:
+- ID: "9649a336-0dc1-4133-89ed-6d76beb4c32e"
+  Hint: EnableRule
+  Type: Rules
+  Value: |
+    <ruleset>
+      <rule
+        uid="{B7CB8487-2A2A-4898-9A5A-E62D21B27C53}">
+        <conditions>
+          <condition
+            id="{61C016A2-5210-4F1D-A663-BDA18BE487F6}"
+            uid="BF5C7AFB30FB492AABE3A65EB0DFB37F"
+            fieldname="PlayerType"
+            operatorid="{10537C58-1684-4CAB-B4C0-40C10907CE31}"
+            value="{6D20EE0D-2D4D-44E0-BB65-82C444E52984}" />
+        </conditions>
+      </rule>
+    </ruleset>
+- ID: "a0300a99-8d01-476c-a4ca-3ff253e6a48f"
+  Hint: CssClass
+  Value: "tb-video-container"
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: "{18C8C889-C723-452A-970C-7CE4D41EE371}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191114T121300Z
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        <iframe src="//view.vzaar.com/$item.Fields.get_Item("VideoID")/player?colourSet=blue&amp;autoMute=true&amp;autoplay=true" frameborder="0" allowfullscreen></iframe>

@@ -1,16 +1,16 @@
 ﻿---
-ID: "42006219-6956-4d43-a8c1-413229b8061f"
-Parent: "2526da0e-4fda-4bf5-bf94-3b204a53c993"
+ID: "393b899b-2715-4f73-b009-1a52708acd6f"
+Parent: "f1d06475-966e-439b-83d8-8ddb4b28a49d"
 Template: "962b53c4-f93b-4df9-9821-415c867b8903"
 Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/sass/base/fontawesome/font-awesome-mix-var"
 DB: master
 SharedFields:
 - ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
   Hint: __Icon
-  Value: "-/media/A498F650CA65497A9034559C3ABEE950.ashx?h=16&thn=1&w=16"
+  Value: "-/media/393B899B27154F73B0091A52708ACD6F.ashx?h=16&thn=1&w=16"
 - ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
   Hint: Blob
-  BlobID: "c846f5d8-e781-4119-a422-cc2e2f5acec1"
+  BlobID: "08fc6d49-977c-41fe-91d0-56051822f424"
   Value: QGltcG9ydCAidmFyaWFibGVzIjsNCkBpbXBvcnQgIm1peGlucyI7DQo=
 - ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
   Hint: Size
@@ -28,4 +28,8 @@ Languages:
     Fields:
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
-      Value: 20170912T092012Z
+      Value: 20191119T101211Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

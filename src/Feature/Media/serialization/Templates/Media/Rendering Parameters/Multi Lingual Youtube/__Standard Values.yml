@@ -1,0 +1,18 @@
+﻿---
+ID: "933d7d26-82c0-44bc-aeab-85d8a33bc452"
+Parent: "0b792128-52e2-4235-b490-071cc4e93516"
+Template: "0b792128-52e2-4235-b490-071cc4e93516"
+Path: /sitecore/templates/Feature/Trelleborg/Media/Rendering Parameters/Multi Lingual Youtube/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: __Standard Values
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20151021T125358Z

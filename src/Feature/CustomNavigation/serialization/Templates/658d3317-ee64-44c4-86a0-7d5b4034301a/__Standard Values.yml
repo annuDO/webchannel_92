@@ -1,0 +1,32 @@
+﻿---
+ID: "c3cc3e7e-5a26-4f29-a0f4-493081432e6e"
+Parent: "658d3317-ee64-44c4-86a0-7d5b4034301a"
+Template: "658d3317-ee64-44c4-86a0-7d5b4034301a"
+Path: /sitecore/templates/Feature/Trelleborg/CustomNavigation/Footer/Footer/__Standard Values
+DB: master
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Type: TreelistEx
+  Value: |
+    {5478B50E-D0DA-40C7-8778-BDCC85651531}
+    {AD8537DF-06BB-4DD3-B044-0CD5C181A219}
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191106T112414Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "cc3e94c3-607d-4e24-9d4b-41ac2621d746"
+      Hint: FollowUsText
+      Value: Follow Us

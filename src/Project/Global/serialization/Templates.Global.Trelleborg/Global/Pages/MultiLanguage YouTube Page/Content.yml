@@ -1,0 +1,18 @@
+﻿---
+ID: "c2426be1-8e36-4dae-953d-d7da2c97ca65"
+Parent: "6dd1d06d-3a49-492c-8d6b-2d13ef011eba"
+Template: "e269fbb5-3750-427a-9149-7aa950b49301"
+Path: /sitecore/templates/Project/Trelleborg/Global/Pages/MultiLanguage YouTube Page/Content
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T130740Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

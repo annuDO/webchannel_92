@@ -1,0 +1,14 @@
+﻿---
+ID: "dc943a14-dc5d-405d-92f7-e0fdda2af443"
+Parent: "de929b9e-bebe-4551-8794-477ae64a8100"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Feature/Trelleborg/Download/Download Site Setup/Rendering Variants
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T124449Z

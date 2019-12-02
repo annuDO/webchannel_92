@@ -1,0 +1,21 @@
+﻿---
+ID: "85c9f22f-856e-4250-96d0-91944655ea9b"
+Parent: "41584669-1abc-4f1c-aa34-d30654cfe54c"
+Template: "41584669-1abc-4f1c-aa34-d30654cfe54c"
+Path: /sitecore/templates/Feature/Trelleborg/Custom Search/Custom Result Count/Custom Results Count/__Standard Values
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20140909T080628Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "daa9c56f-19b7-4fd9-b654-b80042f878fe"
+      Hint: ResultsCountText
+      Value: "Shown {offset} of {count} items"

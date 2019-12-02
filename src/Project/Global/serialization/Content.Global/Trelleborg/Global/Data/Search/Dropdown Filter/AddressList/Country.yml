@@ -1,0 +1,35 @@
+﻿---
+ID: "90a1f8e8-c18b-4f93-9ed3-585e45215193"
+Parent: "a120f5b2-8bf3-47b5-9bb7-ec063eb171e2"
+Template: "790c0f2c-1621-4604-a6c6-72b9f8ae830d"
+Path: /sitecore/content/Trelleborg/Global/Data/Search/Dropdown Filter/AddressList/Country
+DB: master
+SharedFields:
+- ID: "38d3de1f-f23c-4587-ae30-06ec5ed73e82"
+  Hint: Facet
+  Value: "{12FA00CD-5798-4EE1-AF83-1A43AF78E87F}"
+- ID: "fd4e2050-186c-4375-8b99-e8a85dd7436e"
+  Hint: __Enable item fallback
+  Type: Checkbox
+  Value: 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191030T102413Z
+    - ID: "57008eba-acb7-4f86-a239-57c8027c2afe"
+      Hint: RemoveFilterText
+      Value: 
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "938c972b-02ac-4cc1-a79e-d262ba7f2344"
+      Hint: UnselectedText
+      Value: Select Country
+    - ID: "ae2fb54e-10cb-4dec-bf62-dfeb17d3cc7e"
+      Hint: Title
+      Value: 

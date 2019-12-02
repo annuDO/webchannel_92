@@ -1,0 +1,21 @@
+﻿---
+ID: "7e81fd79-5d37-4a5f-92d7-029c2e4c2e43"
+Parent: "4852e303-5e85-461c-ae7b-fb2c427cd602"
+Template: "4852e303-5e85-461c-ae7b-fb2c427cd602"
+Path: /sitecore/templates/Feature/Trelleborg/Media/Rendering Parameters/MultiLanguage YouTube List/__Standard Values
+DB: master
+SharedFields:
+- ID: "3094d236-5985-4c4f-ae6a-e30740885532"
+  Hint: Caching
+  Value: 0|0|0|0|0|0|0|0
+- ID: "c57b9a95-2420-4cca-8112-6a9c41b9148b"
+  Hint: SourceType
+  Value: "{90105CB9-2CFD-4151-9FA8-6CDF92B158C2}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20111207T111100

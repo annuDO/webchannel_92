@@ -1,0 +1,44 @@
+﻿---
+ID: "8fc35b9b-0807-4799-9f22-1f3a8ee0069a"
+Parent: "c9326ca7-bf82-4121-a8bb-b8b336cbcadb"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Foundation/Trelleborg/Icons/product-white-icon-3"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/918267AE51F042019585255158DAA945.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 31
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "2f96b91b-6ee4-49b5-a00f-8948f61e3043"
+  Value: iVBORw0KGgoAAAANSUhEUgAAAB8AAAAmCAYAAAA820BcAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAFZSURBVHgB7ZiNbcIwEIUvVQbIBvUIdAIyQjdoNmg3aDbICHQT6ARhg7AB3eD63BwSqvDPOQYh4U96igRnP8e+2LkQRcLMBtpAR3azhTrKCTpcQRPUQ40n7lXiPikHcse2w1VkfCPxLS3FTqOdbmWb1i5BKO6JwrTQN+nYQ8GZijFXU1XVDy5NKO4q5rEU82JezG9CLXuw8cQ8Q2vEkZbQCVdDnRgcHDGn39ekx9ems6P7yn4G099dc+j/ku3F/HHMK/uo4fpG9wgG9w59kBJO2RL/dWCkSLAyyraLzaezamT0FQxZzdF2uFAODYr2aeZSKLiISs4k87N1dhG1/qnmE4cZI/pZlnDSSdKRG2N+99urrbsMKeC5nN7TUngud4/KZ3wD9ZQDnr9IjKEs5/nDwCBJGxxsTRGg5O0lf7a4Hujyy6Y1a6Ed9CJlsr9fUsLuV21rtosxPfEL65yYk22evH4AAAAASUVORK5CYII=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 452
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 31 x 38
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 38
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T110139Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

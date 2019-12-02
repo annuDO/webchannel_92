@@ -1,0 +1,18 @@
+﻿---
+ID: "15af337e-90b6-4c8f-8a3a-e4e183c8e707"
+Parent: "4cf69eb6-ed58-4d13-a506-632e0c99d05b"
+Template: "a87a00b1-e6db-45ab-8b54-636fec3b5523"
+Path: /sitecore/system/Settings/Html Editor Profiles/Trelleborg/Rich Text XA/WebEdit Buttons
+DB: core
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 800
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20080121T152750

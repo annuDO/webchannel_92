@@ -1,0 +1,35 @@
+﻿---
+ID: "52bea183-785e-46ea-8df8-21a7c89e9b91"
+Parent: "7be62b4e-691b-4239-ad71-592aca08a732"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: /sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/images/svg_icons/nav_location_b_cmyk
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/52BEA183785E46EA8DF821A7C89E9B91.ashx?h=16&thn=1&w=16"
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "3de57209-6af6-44ad-b3e6-576602c33c2c"
+  Value: PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjEsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iQmxhY2siIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4Ig0KCSB2aWV3Qm94PSIwIDAgNTAgNTAiIHN0eWxlPSJlbmFibGUtYmFja2dyb3VuZDpuZXcgMCAwIDUwIDUwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8cGF0aCBkPSJNMjUsNGMtOC4zLDAtMTUsNi43LTE1LDE1YzAsMy4yLDEuNCw2LjEsMy41LDkuNWMxLjIsMS45LDEwLjUsMTcuOCwxMC42LDE4TDI1LDQ4bDAuOS0xLjVjMC4xLTAuMiw5LjQtMTYuMSwxMC42LTE4DQoJYzEuOC0yLjksMy41LTYuMSwzLjUtOS41QzQwLDEwLjcsMzMuMyw0LDI1LDR6IE0zNC44LDI3LjVDMzMuOCwyOS4xLDI3LjQsNDAsMjUsNDRjLTIuNC00LTguOC0xNC45LTkuOC0xNi41DQoJQzEzLjMsMjQuNCwxMiwyMS43LDEyLDE5YzAtNy4yLDUuOC0xMywxMy0xM3MxMyw1LjgsMTMsMTNDMzgsMjEuNywzNi43LDI0LjQsMzQuOCwyNy41eiBNMjUsMTFjLTMuOSwwLTcsMy4xLTcsN2MwLDMuOSwzLjEsNyw3LDcNCgljMy45LDAsNy0zLjEsNy03QzMyLDE0LjEsMjguOCwxMSwyNSwxMXogTTI1LDIzYy0yLjgsMC01LTIuMi01LTVzMi4yLTUsNS01czUsMi4yLDUsNVMyNy43LDIzLDI1LDIzeiIvPg0KPC9zdmc+DQo=
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 818
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/svg+xml
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: svg
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191119T101154Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

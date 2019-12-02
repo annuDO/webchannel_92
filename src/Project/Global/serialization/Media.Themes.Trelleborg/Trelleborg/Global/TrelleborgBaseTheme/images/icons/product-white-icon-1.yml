@@ -1,0 +1,44 @@
+﻿---
+ID: "261d03b0-80d0-4bc7-985b-27539d6fb769"
+Parent: "e9dca754-f133-4889-805b-8bd320868c17"
+Template: "f1828a2c-7e5d-4bbd-98ca-320474871548"
+Path: "/sitecore/media library/Themes/Trelleborg/Global/TrelleborgBaseTheme/images/icons/product-white-icon-1"
+DB: master
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: "-/media/261D03B080D04BC7985B27539D6FB769.ashx?h=16&thn=1&w=16"
+- ID: "22eac599-f13b-4607-a89d-c091763a467d"
+  Hint: Width
+  Value: 37
+- ID: "40e50ed9-ba07-4702-992e-a912738d32dc"
+  Hint: Blob
+  BlobID: "6829ca14-dbbe-4cac-b0a9-005bf1f09c6d"
+  Value: iVBORw0KGgoAAAANSUhEUgAAACUAAAAmCAYAAABDClKtAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAHoSURBVHgB7ViLccIwDFV6HYBu4E5QNihsQCcoTNBuQJgAOgF0AroBbAAbhA1gg1SCR88Y20nujOhxvDuRsyycF1n+SEQRlGXZYZmzrFimLKbCvg27gmXB0qeU4AE/MHgPL8vRNhQmVMDO4IOkPaRU8BHAC6cR+56ja7FshSAlICRfWjTUbwNjTVg+qQEeKB12EX2LGiAlqWT4l6Qe5QeBaCy9uLvlWdI70iIF+FaVrduwvJEC9tOXZdmSH6MK2y4peeovpphYzo9lwG7E/RtSghvoAzr3xgyE1XBCCt6w40baVdOaHGdbAuLrC82u5rQdYa8+sraANcsPixyqtkloqwjpBS/O2D5s4Iw9MoeUMJhF/iwv74BwXbTxXAf6DUgNvL2l4xZPv/dArviP3CzySH/fvXncz766uJOqizupuvDtU9fALLhPVSG2T4X2I58e43izIsG1pm/O0g9lOeqkkJwej56xJLGujSop5AK5o5aywEkKpkYK2bYvjs70mp6a0mnGZKNnx5cWqXc6XHliGB7jS4vUd2aB2890uEPZeGJZa5JqhJsgta+gBApnr+S/8vqqLoYOmVIayCpBudGgLSTHkePH2AU42K/KC5Qec1ToCjwXZaQeihJlYdlP6FKAF2oXxOra/wLqSIZGaITNRwAAAABJRU5ErkJggg==
+- ID: "6954b7c7-2487-423f-8600-436cb3b6dc0e"
+  Hint: Size
+  Value: 595
+- ID: "6f47a0a5-9c94-4b48-abeb-42d38def6054"
+  Hint: Mime Type
+  Value: image/png
+- ID: "c06867fe-9a43-4c7d-b739-48780492d06f"
+  Hint: Extension
+  Value: png
+- ID: "cb09946f-3218-4823-87d2-d5007c199a96"
+  Hint: Dimensions
+  Value: 37 x 38
+- ID: "de2ca9e4-c117-4c8a-a139-1ff4b199d15a"
+  Hint: Height
+  Value: 38
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191128T110138Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin

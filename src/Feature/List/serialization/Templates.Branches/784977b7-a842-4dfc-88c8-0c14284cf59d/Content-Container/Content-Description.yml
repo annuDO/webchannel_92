@@ -1,0 +1,25 @@
+﻿---
+ID: "d390f600-b3eb-4040-be37-9f54ca3cdccf"
+Parent: "d793db81-385e-45a2-af3f-216ba9063d07"
+Template: "aca5c9a3-cda0-49b6-893f-1d4a7cb595b0"
+Path: "/sitecore/templates/Branches/Feature/Trelleborg/List/Default Events Variant/$name/Default/Accordion Item/Toggle-Content/Content-Container/Content-Description"
+DB: master
+BranchID: "36cc0d2e-b966-4012-b50a-9fa0b0983e73"
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 200
+- ID: "bea2740e-90d1-4b16-bd1d-7a7cc8605d2d"
+  Hint: CssClass
+  Value: "col-lg-7  col-md-5 col-sm-12 tb-eventlist-accordion-content-description"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{FE033DEB-8D37-4266-B533-599A6A9B84BB}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T170310Z

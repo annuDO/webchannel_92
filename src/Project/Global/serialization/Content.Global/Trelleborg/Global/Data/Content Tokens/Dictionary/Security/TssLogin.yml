@@ -1,0 +1,18 @@
+﻿---
+ID: "6c869c40-99e2-4320-87df-b52e41d55358"
+Parent: "2e0c9b2c-2823-43e2-8382-22f2cbe7cf91"
+Template: "29252703-d448-451c-bf1e-65b16174f4b0"
+Path: /sitecore/content/Trelleborg/Global/Data/Content Tokens/Dictionary/Security/TssLogin
+DB: master
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191126T213426Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin

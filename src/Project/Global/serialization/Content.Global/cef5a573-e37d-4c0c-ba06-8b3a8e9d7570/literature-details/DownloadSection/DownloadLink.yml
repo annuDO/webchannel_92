@@ -1,0 +1,37 @@
+﻿---
+ID: "44f8e67b-e3e6-4ec6-9416-5b81a0ee7ccb"
+Parent: "85eae0de-723d-4e4a-bf61-5eb1bc242bdc"
+Template: "c645dd63-2462-470c-a48d-8b55757a2db3"
+Path: "/sitecore/content/Trelleborg/Global/Presentation/Rendering Variants/Search Results/literature-list-result-no-date/literature-details/DownloadSection/DownloadLink"
+DB: master
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "eb8432b6-dabf-48ea-b7fd-a70cf40bd300"
+  Hint: Tag
+  Value: 
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20191118T113729Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "d90f5d1a-19e1-48cc-b673-47d6b5d9b3ed"
+      Hint: Template
+      Value: |
+        #set($url= $fieldTokens.GetDownloadLink($item, "LinkItem"))
+        #if ($url != "")
+        <a href="$url" target="_blank">
+        <span class="tb-litteraturelist-item-icon">
+                                               <svg width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+                                                  <path d="M8.42105 5.89474V0H7.57895V5.89474H3.62105L8 13.4737L12.3789 5.89474H8.42105ZM5.09474 6.73684H7.57895H8.42105H10.9053L8 11.7895L5.09474 6.73684ZM16 9.26316V16H15.5789H15.1579H0.842105H0.421053H0V9.26316H0.842105V15.1579H15.1579V9.26316H16Z" fill="#998242"/>
+                                               </svg>
+                                            </span><span>$fieldTokens.GetDictionaryValue("/Data/Content Tokens/Dictionary/Literature/DownloadText")</span></a>
+        #end
